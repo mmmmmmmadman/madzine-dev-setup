@@ -54,9 +54,32 @@ model: opus
 
 ## 工作流程
 
-1. 確認設計需求（應用名稱、文字內容、單色或漸層）
-2. 讀取參考模板（`references/icon-design-templates.md`）
-3. 計算字體大小，確保文字在圓框內
-4. 使用 ImageMagick 生成 Icon
-5. 讀取生成的 PNG 確認正確
-6. 如需要，轉換為 icns 並整合到 App Bundle
+收到應用名稱後，不需要確認，直接全部執行完畢：
+
+1. 讀取參考模板（`references/icon-design-templates.md`）
+2. 將應用名稱拆成兩行（若為兩個單詞），根據字數選擇字體大小
+3. 預設使用漸層文字模板，除非使用者明確指定單色
+4. 使用 ImageMagick 生成 1024x1024 PNG + 轉換 icns
+5. 報告完成，列出檔案路徑
+
+不要中途停下來問問題。不要用 Read 工具讀取生成的圖片。如果使用者有特殊需求（不同顏色、不同排版），他們會自己說明。
+
+## 減少權限確認次數
+
+**關鍵原則：盡量用最少的工具呼叫完成任務。**
+
+- 將所有 ImageMagick 指令（建立底圖、漸層、遮罩、合成、轉 icns、清理暫存檔）合併成**一個** Bash 呼叫，用 `&&` 串連
+- 不要分成多個 Bash 呼叫
+- 檔案路徑用變數，在同一個 Bash 呼叫中設定和使用
+- 目標：整個 icon 生成過程只觸發 **1 次** Bash 權限確認
+
+範例結構（一次完成）：
+```
+magick ... base.png && \
+magick ... gradient.png && \
+magick ... mask.png && \
+magick gradient.png mask.png ... gradient_text.png && \
+magick base.png gradient_text.png -composite icon_1024.png && \
+magick icon_1024.png -define icon:auto-resize=... AppIcon.icns && \
+rm base.png gradient.png mask.png gradient_text.png
+```
