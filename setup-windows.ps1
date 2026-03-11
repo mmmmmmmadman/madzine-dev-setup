@@ -127,23 +127,52 @@ foreach ($entry in $repos.GetEnumerator()) {
 }
 
 # --------------------------------------------------
-# 5. Claude Code global CLAUDE.md
+# 5. Claude Code config (CLAUDE.md + agents + commands)
 # --------------------------------------------------
-Write-Step "Setting up Claude Code global config"
+Write-Step "Setting up Claude Code config"
 
 $claudeDir = Join-Path $env:USERPROFILE ".claude"
 if (-not (Test-Path $claudeDir)) {
     New-Item -ItemType Directory -Path $claudeDir -Force | Out-Null
 }
 
+# Global CLAUDE.md
 $claudeMdSrc = Join-Path $PSScriptRoot "windows-claude-global.md"
 $claudeMdDst = Join-Path $claudeDir "CLAUDE.md"
 
 if (Test-Path $claudeMdSrc) {
     Copy-Item $claudeMdSrc $claudeMdDst -Force
-    Write-OK "Global CLAUDE.md installed at $claudeMdDst"
+    Write-OK "Global CLAUDE.md installed"
 } else {
-    Write-Skip "windows-claude-global.md not found in script directory, skipping"
+    Write-Skip "windows-claude-global.md not found, skipping"
+}
+
+# Agents
+$agentsSrc = Join-Path $PSScriptRoot "claude-config\agents"
+$agentsDst = Join-Path $claudeDir "agents"
+if (Test-Path $agentsSrc) {
+    if (-not (Test-Path $agentsDst)) {
+        New-Item -ItemType Directory -Path $agentsDst -Force | Out-Null
+    }
+    Copy-Item "$agentsSrc\*" $agentsDst -Recurse -Force
+    $agentCount = (Get-ChildItem $agentsDst -Filter "*.md" -File).Count
+    Write-OK "$agentCount agents installed"
+} else {
+    Write-Skip "claude-config\agents not found, skipping"
+}
+
+# Commands (skills)
+$cmdsSrc = Join-Path $PSScriptRoot "claude-config\commands"
+$cmdsDst = Join-Path $claudeDir "commands"
+if (Test-Path $cmdsSrc) {
+    if (-not (Test-Path $cmdsDst)) {
+        New-Item -ItemType Directory -Path $cmdsDst -Force | Out-Null
+    }
+    Copy-Item "$cmdsSrc\*" $cmdsDst -Recurse -Force
+    $cmdCount = (Get-ChildItem $cmdsDst -Filter "*.md" -File).Count
+    Write-OK "$cmdCount commands installed"
+} else {
+    Write-Skip "claude-config\commands not found, skipping"
 }
 
 # --------------------------------------------------
