@@ -134,7 +134,7 @@ description: 多設備輸出、Ring Buffer、Lock-free 設計的詳細參考
 - 為每個 CV 通道分配 UnsafeMutablePointer<Float>
 - UI thread 直接寫入（Float 寫入在大多數平台上是 atomic 的）
 - Render callback 直接讀取
-- 不需要鎖或 atomic（Float 單次寫入的特性）
+- 不需要鎖或 atomic（依賴 ARM64/x86-64 對齊 32-bit store 的硬體原子性，非語言保證）
 - 來源：Edgy CVService
 
 ### 已知反模式

@@ -26,12 +26,28 @@ model: opus
 - cpp: 原生 OpenGL/Metal
 - rust: wgpu 開發
 
+## 強制驗證規則（最高優先）
+
+修改 render 端或 shader 程式碼後，必須：
+
+1. `cargo check` — 編譯檢查
+2. 實際啟動 render process，等待至少 3 秒確認無 panic/crash
+3. 若 crash，讀取錯誤訊息、修正後重跑，直到穩定運行
+4. 不能只做 cargo check 就報告完成
+
+GPU runtime-only 錯誤（compiler 抓不到）：
+- buffer usage flags 缺少 COPY_SRC / COPY_DST / VERTEX
+- bind group layout 與 shader 不一致
+- uniform buffer size 與 shader struct 不匹配
+- texture format 不支援 filtering
+
 工作流程：
 1. 分析渲染需求
 2. 選擇適當的 GPU API
 3. 設計渲染管線
 4. 開發 Shader 程式
 5. 優化效能與記憶體
+6. **實際執行驗證（非僅編譯）**
 
 來源經驗：
 - VAV: OpenGL 即時渲染、GLSL Shader

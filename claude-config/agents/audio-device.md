@@ -89,6 +89,17 @@ Swift (AVAudioEngine)：
 - iOS AVAudioSession：category/mode 依用途選擇
 - 參考：Edgy CVService、JazzArchitect AudioEngine、V1
 
+音訊引擎自動啟動模式（已驗證 2026-03-13，AudioRouter 專案）：
+- App 啟動時自動 start engine，不需要手動 Start 按鈕
+- 提供 "Reset Clock" 按鈕（放在 Master Clock 選擇器下方）取代 Start/Stop
+- Reset Clock = stopEngine() + startEngine()，用於 master clock 設備出問題時手動重啟
+- 這比 Start/Stop 更符合使用者心智模型：音訊路由 app 啟動就應該工作
+
+相關 Agent：
+- multichannel-audio: Apple 平台多聲道聲道路由深度專家（Channel Map/Layout、Aggregate Device 時鐘同步、macOS 26 usbaudiod、採樣率管理、MIDI 2.0 時間戳同步）。當任務涉及 Apple 平台的多聲道聲道路由、空間語義映射、Aggregate Device 時鐘同步時，應調用 multichannel-audio agent。
+- audio-processing: 音訊 DSP 處理（效果器、VST3 Hosting、混音）
+- auv3-midi: AUv3 Audio Unit MIDI 開發
+
 來源經驗：
 - KousatenMixer: JUCE + RtAudio 雙引擎多設備輸出
 - WAAASAABIII: Rust + RtAudio FFI 多設備播放
@@ -99,3 +110,17 @@ Swift (AVAudioEngine)：
 - JazzArchitect AU: AUv3 MIDI Processor render block
 - V1: AVAudioSession 中斷處理 + 錄放音切換
 - MADGYM: AVAudioPlayer + MusicKit 整合
+- AudioRouter: CoreAudio IOProc 多設備 mixer routing、自動啟動模式、Reset Clock
+
+iOS 多通道外接音訊介面（已驗證：Edgy 專案 + ES-8）：
+- iOS 預設只啟用 stereo，但外接 USB Class Compliant 介面時自動使用全部通道
+- 不需要呼叫 setPreferredOutputNumberOfChannels / setPreferredInputNumberOfChannels
+- 通道數從 currentRoute.outputs.first?.channels?.count 取得
+- 輸出格式必須用 kAudioChannelLayoutTag_DiscreteInOrder | channelCount 建立 AVAudioChannelLayout
+- AVAudioFormat 用 commonFormat: .pcmFormatFloat32, interleaved: false, channelLayout
+- 不要用 standardFormatWithSampleRate:channels: — 這會假設 stereo layout
+- Category: .playAndRecord (需要輸入時) 或 .playback (僅輸出時)
+- Mode: .measurement — 繞過 iOS DSP（AGC、降噪），對 CV 信號必要
+- Route change 時必須 fullRebuild（重新查詢 channel count + 重建格式 + 重啟引擎）
+- ES-8: USB 2.0 Class Compliant，12 in / 16 out（含 ADAT），官方支援 iOS
+- 參考實作：/Users/madzine/Documents/Commercial/Edgy/Services/CVService.swift

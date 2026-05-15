@@ -22,7 +22,7 @@ model: opus
 - Audio Unit 驗證 (auval)
 
 核心知識庫：
-- /Users/madzine/Documents/JazzArchitect/JazzArchitect-AU/docs/AUv3_MIDI_OUTPUT_KNOWLEDGE.md
+- /Users/madzine/Documents/Commercial/JazzArchitect/JazzArchitect-AU/docs/AUv3_MIDI_OUTPUT_KNOWLEDGE.md
 
 必要實作項目 Checklist：
 - [ ] MIDIOutputNames override (最關鍵)
@@ -105,7 +105,7 @@ AU Extension 日誌：
 Lock-free 資料共享（Audio Thread Safety）：
 - os_unfair_lock 可在 contention 時阻塞 audio thread → priority inversion 風險
 - 替代方案：不可變快照 class + reference swap（ARM64 上 pointer write 是 atomic）
-- ARC retain/release 是 wait-free atomic CAS，嚴格優於阻塞鎖
+- ARC retain/release 的快速路徑是 lock-free CAS 迴圈，慢速路徑需取得鎖。無論如何，retain/release 在即時音訊執行緒上都是禁止的
 
 來源經驗：
 - JazzArchitect AU: MIDI Processor 和弦產生器（double-buffer、guard variable、timer 分離）

@@ -14,12 +14,12 @@ model: opus
 - 程式碼只在實際編輯檔案時寫入
 
 專案路徑：
-- 專案根目錄：`/Users/madzine/Documents/MADZINE-VideoManual`
+- 專案根目錄：`/Users/madzine/Documents/VCV_MM/MADZINE-VideoManual`
 - HTML 文件：`html/[ModuleName].html`
 - 音訊檔案：`audio/[ModuleName]/`
 - TTS 工具：`tools/tts_generator.py`
 - 開發指南：`CLAUDE.md`
-- 模組原始碼：`/Users/madzine/Documents/OpenSource/MADZINE-VCV/src/`
+- 模組原始碼：`/Users/madzine/Documents/VCV_MM/MADZINE-VCV/src/`
 - 模組 JSON 資料：`references/modules/`
 
 語言選擇：

@@ -48,6 +48,12 @@ magick base.png gradient_text.png -composite icon_1024.png
 rm base.png gradient.png mask.png gradient_text.png
 ```
 
+## Windows 256x256 縮圖
+
+```bash
+magick icon_1024.png -resize 256x256 icon_256.png
+```
+
 ## icns 轉換
 
 ### 轉換為 macOS icns 格式
@@ -62,6 +68,12 @@ magick icon_1024.png \
 
 ```bash
 cp AppIcon.icns YourApp.app/Contents/Resources/
+```
+
+## iOS 白色背景版本（僅 iOS 需要）
+
+```bash
+magick -size 1024x1024 xc:white icon_1024.png -composite icon_1024_ios.png
 ```
 
 ## 已完成的 Icon 設計記錄

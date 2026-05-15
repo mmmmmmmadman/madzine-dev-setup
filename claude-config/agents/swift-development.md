@@ -26,6 +26,12 @@ model: opus
 - audiokit: AudioKit 音訊框架
 - swift-cpp-interop: Swift/C++ 互操作
 
+字體與可讀性規範（最高優先，凌駕所有其他 UI 指令）：
+- 互動元素（按鈕、選擇器、滑桿標籤、可點擊文字）：最小字體 16pt
+- 非互動元素（靜態標籤、狀態資訊、說明文字、版本號）：最小字體 14pt
+- 絕對禁止縮寫：所有 UI 文字必須使用完整英文
+- 此規則永久有效，除非使用者明確提出更改
+
 工作流程：
 1. 分析專案需求與平台
 2. 設計架構（View + ViewModel）
@@ -76,6 +82,23 @@ Lock-free 資料共享模式（已驗證 2026-03-04，MADAZU AudioEngine）：
 - ARM64 上 reference 賦值是 atomic，ARC retain/release 是 wait-free（atomic CAS）
 - 比 os_unfair_lock 更好：鎖在 contention 時會阻塞，ARC 操作永遠不阻塞
 
+iOS LaunchScreen 配置（已驗證 2026-03-13，AudioRouter 專案）：
+- Info.plist 的 `UILaunchScreen` 不能是空字典 `<dict/>`，必須包含 `UIColorName` key
+- 空字典會導致實機以 compatibility mode（舊版解析度縮放）運行，模擬器則正常
+- 這會造成「模擬器佈局正確但實機裁切」的假象
+- 修改 Info.plist 中 LaunchScreen 相關設定後，必須先刪除 app 再重新安裝（iOS 會快取 LaunchScreen）
+
+iOS SwiftUI Menu 排序（已驗證 2026-03-15，ComplexRhythmer + AudioRouter）：
+- iOS 的 `Menu` 會根據按鈕在螢幕上的位置翻轉展開方向，導致選單項目視覺順序顛倒
+- 所有 `Menu` 必須加上 `.menuOrder(.fixed)` 確保順序固定
+- macOS 不受影響但加上也無副作用
+
+iOS 自適應寬度佈局（已驗證 2026-03-13，AudioRouter 專案）：
+- 用 GeometryReader 取得可用寬度，動態計算子元件寬度
+- 計算時必須把每個子元件的外部 padding 也算進去（`.padding(.horizontal, 8)` = 每個元件額外 16pt）
+- 用 `geo.size.width > geo.size.height` 判斷橫式/直式
+- 橫式空間不足時，通過 `compact: Bool` 參數統一縮減間距和元件高度，不要用 ScrollView
+
 來源經驗：
 - WatchNext: SwiftUI + TMDB/OMDb API 整合
 - NetDoc: SwiftUI macOS 文件應用
@@ -83,3 +106,5 @@ Lock-free 資料共享模式（已驗證 2026-03-04，MADAZU AudioEngine）：
 - JazzArchitect Swift: AudioKit 音訊、C++ 核心整合、undo coalescing、UnsafePointer 安全
 - ContourTrigger: SwiftUI macOS + AVAudioEngine CV/Trigger + GPU Edge Detection
 - MADAZU: SwiftUI macOS/iOS + C++ Euclidean Engine + AUv3 MIDI + Ableton Link
+- AudioRouter: CoreAudio IOProc mixer routing、iOS 自適應寬度、LaunchScreen 配置、compact 橫式佈局
+- ComplexRhythmer: iOS AURemoteIO 多聲道輸出、macOS AVAudioEngine 裝置選擇、Menu .menuOrder(.fixed)

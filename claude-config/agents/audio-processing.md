@@ -51,6 +51,12 @@ Phase Wrapping：
 - 所有外部輸入的浮點數（velocity、frequency、amplitude）用 std::isfinite 檢查
 - NaN 會污染整條 DSP 鏈，必須在入口攔截
 
+iOS AVAudioEngine 即時更新：
+- 參數變更（volume/mute/solo）用 atomic pointer 更新，不重建 engine
+- 路由變更（device/channel）才需要完整 restart
+- VU Meter 用 TimelineView + Canvas + .id(timeline.date) 強制重繪
+- 詳細參考：使用 /ios-audio-engine skill
+
 來源經驗：
 - VAV: 音訊處理、效果器、CV 輸出
 - KousatenMixer: JUCE 音訊引擎、MixBus、Send/Return、效果器鏈
@@ -58,3 +64,4 @@ Phase Wrapping：
 - VideoMixerRust: VST3 Hosting、Sampler、Plugin Chain
 - JazzArchitect: ChordSynth（guard variable pattern、phase wrapping、NaN 防禦）、MIDI 事件生成
 - ContourTrigger: CV/Trigger 輸出
+- AudioRouter: iOS AVAudioEngine atomic pointer 參數更新、TimelineView+Canvas VU meter

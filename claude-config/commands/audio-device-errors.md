@@ -73,13 +73,13 @@ description: 音訊設備錯誤處理、中斷恢復、Thread Safety 的詳細�
 ### AVAudioSession 中斷處理
 - 監聽 AVAudioSession.interruptionNotification
 - 中斷開始（began）：記錄狀態，停止需要的處理
-- 中斷結束（ended）：
-  1. 檢查 InterruptionOptions.shouldResume
-  2. try AVAudioSession.sharedInstance().setActive(true)
-  3. 呼叫恢復回調（重啟播放等）
+- 中斷結束（ended）兩種策略：
+  - 音訊工具（節拍器、合成器、路由器）：用 wasRunningBeforeInterruption 旗標，中斷前在跑就恢復。使用者意圖比系統提示更可靠
+  - 媒體播放器（串流、Podcast）：檢查 InterruptionOptions.shouldResume，尊重 Siri 等系統級暫停指令
+- 恢復步驟：setCategory -> setActive(true) -> engine.start()，失敗則 fullRebuild
 - 使用 @MainActor 確保線程安全
 - observer 儲存為 NSObjectProtocol，在 teardown 時 removeObserver
-- 來源：V1 SystemInterruptionHandler
+- 來源：AZUMADO/ComplexRhythmer AudioEngine（wasRunning 模式）、V1 SystemInterruptionHandler（shouldResume 模式）
 
 ### Route Change 處理
 - 監聽 AVAudioSession.routeChangeNotification（僅 iOS）

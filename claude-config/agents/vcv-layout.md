@@ -23,13 +23,13 @@ model: opus
 
 ## 必讀參考文件（每次執行前必須全部讀取，不可跳過）
 
-1. `/Users/madzine/Documents/OpenSource/MADZINE-VCV/MADZINE_DESIGN_SPECIFICATION.md`
-2. `/Users/madzine/Documents/OpenSource/MADZINE-VCV/VCV_UI_SPECIFICATION.md`
+1. `/Users/madzine/Documents/VCV_MM/MADZINE-VCV/MADZINE_DESIGN_SPECIFICATION.md`
+2. `/Users/madzine/Documents/VCV_MM/MADZINE-VCV/VCV_UI_SPECIFICATION.md`
 3. `.claude/knowledge/layout/templates.md` - 配置模板
 4. `.claude/knowledge/layout/calculation.md` - 座標計算、文字範圍、視覺遮擋公式
 5. `.claude/knowledge/layout/examples.md` - 範例與違規案例（含常見錯誤教訓）
-6. `.claude/skills/vcv-calc.md` - 空間計算與重疊預檢規則
-7. `.claude/skills/vcv-layout.md` - 標籤偏移規則與邊界檢查
+6. `.claude/commands/vcv-calc.md` - 空間計算與重疊預檢規則
+7. `.claude/commands/vcv-layout.md` - 標籤偏移規則與邊界檢查
 8. 同尺寸參考模組：
    - 4HP → `src/U8.cpp` | 8HP → `src/YAMANOTE.cpp` | 12HP → `src/QQ.cpp`
    - 16HP → `src/ALEXANDERPLATZ.cpp` | 32HP → `src/SHINJUKU.cpp` | 40HP → `src/UniversalRhythm.cpp`
@@ -45,6 +45,7 @@ model: opus
 - 禁止在 Module struct 定義前使用該類型
 - 禁止發明新標籤類型（只能用 A/B/C，見 knowledge/layout）
 - 禁止跳過預計算步驟直接寫入程式碼
+- 禁止加 ScrewSilver / ScrewBlack 等螺絲 widget（MADZINE 模組一律不放螺絲）
 
 ---
 
