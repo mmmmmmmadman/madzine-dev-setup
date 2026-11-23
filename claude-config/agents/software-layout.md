@@ -123,6 +123,16 @@ macOS SwiftUI 的 `.buttonStyle(.plain)` 按鈕仍然會顯示藍色 focus ring�
 
 ---
 
+## On/Off 控制項規則（強制，2026-11-23 使用者指示）
+
+單一開關型設定（開/關、顯示/隱藏、啟用/停用）一律使用 checkbox：方框 + 勾號，文字標籤在方框右側。
+- PySide6/PyQt：QCheckBox；SwiftUI macOS：Toggle(...).toggleStyle(.checkbox)；egui：ui.checkbox；JUCE：ToggleButton（勾選框外觀）；HTML：<input type="checkbox"> + <label>
+- 禁止用可切換按鈕當開關：QPushButton.setCheckable(True)、egui selectable_label / toggle_value 當開關、SwiftUI 以 Button 加 isOn 狀態變色、自繪「按下樣式」單鈕
+- 分段按鈕（segment）只用於「多選一」（含二選一且兩個選項各有名稱，例如 隨機數字 / 畫作取樣），不可用於單一開關
+- checkbox 方框樣式必須走專案配色系統：未勾 = 面板/輸入框底 + 細框線；已勾 = accent 填色 + onAccent 勾號；disabled 用 faint 色；淺色/深色主題都要定義
+- 列高與相鄰控制項相同；方框左緣與上下控制項左緣對齊；寬度用自然尺寸，不拉伸
+- 交付前搜尋 setCheckable / isCheckable / :checked，確認沒有任何按鈕被當開關使用
+
 ## SwiftUI Popover 錨定規則
 
 `.popover(isPresented:)` 必須掛在要錨定的 view 本身，不能掛在外層容器（如 VStack、ScrollView）。掛錯位置會導致 popover 從錯誤的位置彈出或在某些裝置上不可見。
