@@ -127,9 +127,9 @@ foreach ($entry in $repos.GetEnumerator()) {
 }
 
 # --------------------------------------------------
-# 5. HORITOMO 3D (Python 3.14 + ffmpeg + private repo + venv)
+# 5. V2A, Windows version of HORITOMO 3D (Python 3.14 + ffmpeg + private repo + venv)
 # --------------------------------------------------
-Write-Step "Setting up HORITOMO 3D"
+Write-Step "Setting up V2A"
 
 # Python 3.14 (per-user install, same as setup_venv.ps1 looks for first)
 $py314User = Join-Path $env:LOCALAPPDATA "Programs\Python\Python314\python.exe"
@@ -152,21 +152,21 @@ if (Get-Command ffmpeg -ErrorAction SilentlyContinue) {
     Write-OK "ffmpeg installed"
 }
 
-# Clone HORITOMO_3D (PRIVATE repo: unlike WAAASAABIII, git asks for GitHub credentials;
+# Clone V2A (PRIVATE repo: unlike WAAASAABIII, git asks for GitHub credentials;
 # Git for Windows' Credential Manager opens a browser sign-in on first use)
-$horitomoDir = Join-Path $DocsRoot "Research\HORITOMO_3D"
+$horitomoDir = Join-Path $DocsRoot "Research\V2A"
 $horitomoOk = $true
 if (-not (Test-Path $horitomoDir)) {
-    Write-Host "  HORITOMO_3D is a private repo. Sign in to GitHub (mmmmmmmadman) if prompted." -ForegroundColor Yellow
-    git clone https://github.com/mmmmmmmadman/HORITOMO_3D.git $horitomoDir
+    Write-Host "  V2A is a private repo. Sign in to GitHub (mmmmmmmadman) if prompted." -ForegroundColor Yellow
+    git clone https://github.com/mmmmmmmadman/V2A.git $horitomoDir
     if ($LASTEXITCODE -eq 0) {
-        Write-OK "Cloned Research\HORITOMO_3D"
+        Write-OK "Cloned Research\V2A"
     } else {
         $horitomoOk = $false
-        Write-Host "  [FAIL] git clone HORITOMO_3D failed (credentials?). Skipping venv setup." -ForegroundColor Red
+        Write-Host "  [FAIL] git clone V2A failed (credentials?). Skipping venv setup." -ForegroundColor Red
     }
 } else {
-    Write-Skip "Research\HORITOMO_3D already exists"
+    Write-Skip "Research\V2A already exists"
 }
 
 # Python venv (animation\setup_venv.ps1 is idempotent; run as a child process because it calls exit)
@@ -175,16 +175,16 @@ if ($horitomoOk) {
     if (Test-Path $horitomoVenvScript) {
         powershell -NoProfile -ExecutionPolicy Bypass -File $horitomoVenvScript
         if ($LASTEXITCODE -eq 0) {
-            Write-OK "HORITOMO venv ready"
+            Write-OK "V2A venv ready"
         } else {
-            Write-Host "  [FAIL] HORITOMO setup_venv.ps1 failed (exit $LASTEXITCODE)" -ForegroundColor Red
+            Write-Host "  [FAIL] V2A setup_venv.ps1 failed (exit $LASTEXITCODE)" -ForegroundColor Red
         }
     } else {
         Write-Skip "animation\setup_venv.ps1 not found, skipping venv"
     }
 }
 
-Write-Host "  NOTE: HORITOMO scene data (animation\work\ scene folders, Dropbox material) is not in git." -ForegroundColor Yellow
+Write-Host "  NOTE: V2A scene data (animation\work\ scene folders, Dropbox material) is not in git." -ForegroundColor Yellow
 Write-Host "        Copy it from the Mac manually." -ForegroundColor Yellow
 
 # --------------------------------------------------
@@ -246,7 +246,7 @@ Write-Host "Folder structure:" -ForegroundColor White
 Write-Host "  $DocsRoot\Commercial\"
 Write-Host "  $DocsRoot\OpenSource\WAAASAABIII\"
 Write-Host "  $DocsRoot\Research\"
-Write-Host "  $DocsRoot\Research\HORITOMO_3D\"
+Write-Host "  $DocsRoot\Research\V2A\"
 Write-Host "  $DocsRoot\Tools\vcpkg\"
 Write-Host ""
 Write-Host "Environment variables (persistent, user scope):" -ForegroundColor White
@@ -258,6 +258,6 @@ Write-Host "Next steps:" -ForegroundColor White
 Write-Host "  1. Restart terminal to load new environment variables"
 Write-Host "  2. cd $DocsRoot\OpenSource\WAAASAABIII"
 Write-Host "  3. cargo build"
-Write-Host "  4. HORITOMO 3D: copy scene data (animation\work\, Dropbox material) from the Mac,"
-Write-Host "     then run $DocsRoot\Research\HORITOMO_3D\animation\HORITOMO.bat"
+Write-Host "  4. V2A: copy scene data (animation\work\, Dropbox material) from the Mac,"
+Write-Host "     then run $DocsRoot\Research\V2A\animation\V2A.bat"
 Write-Host ""
