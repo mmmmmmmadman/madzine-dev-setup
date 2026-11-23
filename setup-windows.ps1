@@ -127,7 +127,68 @@ foreach ($entry in $repos.GetEnumerator()) {
 }
 
 # --------------------------------------------------
-# 5. Claude Code config (CLAUDE.md + agents + commands)
+# 5. HORITOMO 3D (Python 3.14 + ffmpeg + private repo + venv)
+# --------------------------------------------------
+Write-Step "Setting up HORITOMO 3D"
+
+# Python 3.14 (per-user install, same as setup_venv.ps1 looks for first)
+$py314User = Join-Path $env:LOCALAPPDATA "Programs\Python\Python314\python.exe"
+$py314Machine = Join-Path $env:ProgramFiles "Python314\python.exe"
+if ((Test-Path $py314User) -or (Test-Path $py314Machine)) {
+    Write-OK "Python 3.14 found"
+} else {
+    Write-Host "  Installing Python 3.14..." -ForegroundColor Yellow
+    winget install --id Python.Python.3.14 -e --scope user --accept-source-agreements --accept-package-agreements
+    Write-OK "Python 3.14 installed"
+}
+
+# ffmpeg executable (Gyan build via winget; separate from the vcpkg ffmpeg libraries above)
+if (Get-Command ffmpeg -ErrorAction SilentlyContinue) {
+    Write-OK "ffmpeg found at $((Get-Command ffmpeg).Source)"
+} else {
+    Write-Host "  Installing ffmpeg (Gyan.FFmpeg)..." -ForegroundColor Yellow
+    winget install --id Gyan.FFmpeg -e --accept-source-agreements --accept-package-agreements
+    $env:Path = [System.Environment]::GetEnvironmentVariable("Path", "Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path", "User")
+    Write-OK "ffmpeg installed"
+}
+
+# Clone HORITOMO_3D (PRIVATE repo: unlike WAAASAABIII, git asks for GitHub credentials;
+# Git for Windows' Credential Manager opens a browser sign-in on first use)
+$horitomoDir = Join-Path $DocsRoot "Research\HORITOMO_3D"
+$horitomoOk = $true
+if (-not (Test-Path $horitomoDir)) {
+    Write-Host "  HORITOMO_3D is a private repo. Sign in to GitHub (mmmmmmmadman) if prompted." -ForegroundColor Yellow
+    git clone https://github.com/mmmmmmmadman/HORITOMO_3D.git $horitomoDir
+    if ($LASTEXITCODE -eq 0) {
+        Write-OK "Cloned Research\HORITOMO_3D"
+    } else {
+        $horitomoOk = $false
+        Write-Host "  [FAIL] git clone HORITOMO_3D failed (credentials?). Skipping venv setup." -ForegroundColor Red
+    }
+} else {
+    Write-Skip "Research\HORITOMO_3D already exists"
+}
+
+# Python venv (animation\setup_venv.ps1 is idempotent; run as a child process because it calls exit)
+if ($horitomoOk) {
+    $horitomoVenvScript = Join-Path $horitomoDir "animation\setup_venv.ps1"
+    if (Test-Path $horitomoVenvScript) {
+        powershell -NoProfile -ExecutionPolicy Bypass -File $horitomoVenvScript
+        if ($LASTEXITCODE -eq 0) {
+            Write-OK "HORITOMO venv ready"
+        } else {
+            Write-Host "  [FAIL] HORITOMO setup_venv.ps1 failed (exit $LASTEXITCODE)" -ForegroundColor Red
+        }
+    } else {
+        Write-Skip "animation\setup_venv.ps1 not found, skipping venv"
+    }
+}
+
+Write-Host "  NOTE: HORITOMO scene data (animation\work\ scene folders, Dropbox material) is not in git." -ForegroundColor Yellow
+Write-Host "        Copy it from the Mac manually." -ForegroundColor Yellow
+
+# --------------------------------------------------
+# 6. Claude Code config (CLAUDE.md + agents + commands)
 # --------------------------------------------------
 Write-Step "Setting up Claude Code config"
 
@@ -176,7 +237,7 @@ if (Test-Path $cmdsSrc) {
 }
 
 # --------------------------------------------------
-# 6. Summary
+# 7. Summary
 # --------------------------------------------------
 Write-Step "Setup complete"
 
@@ -185,6 +246,7 @@ Write-Host "Folder structure:" -ForegroundColor White
 Write-Host "  $DocsRoot\Commercial\"
 Write-Host "  $DocsRoot\OpenSource\WAAASAABIII\"
 Write-Host "  $DocsRoot\Research\"
+Write-Host "  $DocsRoot\Research\HORITOMO_3D\"
 Write-Host "  $DocsRoot\Tools\vcpkg\"
 Write-Host ""
 Write-Host "Environment variables (persistent, user scope):" -ForegroundColor White
@@ -196,4 +258,6 @@ Write-Host "Next steps:" -ForegroundColor White
 Write-Host "  1. Restart terminal to load new environment variables"
 Write-Host "  2. cd $DocsRoot\OpenSource\WAAASAABIII"
 Write-Host "  3. cargo build"
+Write-Host "  4. HORITOMO 3D: copy scene data (animation\work\, Dropbox material) from the Mac,"
+Write-Host "     then run $DocsRoot\Research\HORITOMO_3D\animation\HORITOMO.bat"
 Write-Host ""

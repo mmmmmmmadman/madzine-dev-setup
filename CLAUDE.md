@@ -26,4 +26,5 @@ powershell -ExecutionPolicy Bypass -File setup-windows.ps1
 3. Bootstraps vcpkg and installs ffmpeg + rtaudio
 4. Clones WAAASAABIII from GitHub
 5. Sets persistent environment variables (VCPKG_ROOT, FFMPEG_DIR)
-6. Installs Claude Code config to ~/.claude/ (CLAUDE.md + agents + commands)
+6. HORITOMO 3D: installs Python 3.14 (winget `Python.Python.3.14`, user scope) and the ffmpeg executable (winget `Gyan.FFmpeg`) if missing, clones the private repo HORITOMO_3D into Research\HORITOMO_3D (needs GitHub sign-in), runs its `animation\setup_venv.ps1`. Scene data (animation\work\, Dropbox material) is not in git and must be copied from the Mac by hand.
+7. Installs Claude Code config to ~/.claude/ (CLAUDE.md + agents + commands)
