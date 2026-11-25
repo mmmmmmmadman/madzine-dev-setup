@@ -31,16 +31,17 @@
 ### Arthur Danto, 1964, "The Artworld"
 
 - 來源：Danto, A. "The Artworld." *The Journal of Philosophy* 61(19), Oct. 15, 1964, pp. 571–584. JSTOR stable URL: https://www.jstor.org/stable/2022937 。讀取之全文 PDF（赫爾辛基大學課程檔）：https://www.helsinki.fi/assets/drupal/2024-03/Danto-Artworld-1964.pdf
-- 讀取程度：全文
+- 讀取程度：全文（2026-11-25 再以上列赫爾辛基大學 PDF 抽取全文 pp. 571–584 逐字核對）
 - 主張：
   - 起點是 Warhol 的 Brillo Box：與超市紙箱知覺上無法區分，為何一個是藝術、另一個不是。
   - "To see something as art requires something the eye cannot decry—an atmosphere of artistic theory, a knowledge of the history of art: an artworld."（p. 580；JSTOR 掃描版印為 "decry"，一般引用作 "descry"）
   - "What in the end makes the difference between a Brillo box and a work of art consisting of a Brillo Box is a certain theory of art. It is the theory that takes it up into the world of art, and keeps it from collapsing into the real object which it is"（p. 581）
   - 提出「藝術認同之『是』」（the *is* of artistic identification）：作品成立的必要條件是其某部分或性質可被這種特殊的「是」所指稱（如「那塊白色是伊卡洛斯」）（p. 577）。
   - 提出 style matrix：藝術上的突破是「在矩陣中新增一欄」（"adding the possibility of a column to the matrix"），新增的謂詞讓整個藝術世界的其他作品也獲得相反謂詞（p. 584）。
-  - "It could not have been art fifty years ago."——作品身分有歷史條件。
+  - 歷史條件（p. 581）："It could not have been art fifty years ago. But then there could not have been, everything being equal, flight insurance in the Middle Ages, or Etruscan typewriter erasers. The world has to be ready for certain things, the artworld no less than the real one. It is the role of artistic theories, these days as always, to make the artworld, and art, possible."（直譯：它在五十年前不可能是藝術。但話說回來，在其他條件相同下，中世紀也不可能有飛行保險，伊特魯里亞人也不可能有打字機橡皮擦。世界必須為某些事物準備好，藝術世界與真實世界同樣如此。使藝術世界與藝術成為可能的，是藝術理論的角色，今日如此，向來如此。）
+  - 「準備好」的內容在前一句指明是理論與藝術史："in order to see it as part of the artworld, one must have mastered a good deal of artistic theory as well as a considerable amount of the history of recent New York painting."（p. 581）。同段末以 Lascaux 洞穴畫家為例：他們不會想到自己在牆上做的是藝術，"Not unless there were neolithic aestheticians."（p. 581）
 - 對創作者的用處：要求學生說出讓作品「不塌縮回實物」的理論是什麼。若作品與一段技術 demo 在畫面上相同，學生能否指出那個「眼睛看不到」的差異？作品是在既有矩陣裡佔一格，還是新增了一欄？
-- 常見誤用：把 Danto 的 artworld 等同於「藝術圈的人」（那是 Dickie 的用法；Danto 1981 序言明言 institutional theory 與其信念 "quite alien"，見下方 Dickie 條所引 Lacertosa 2015）。
+- 常見誤用：把 Danto 的 artworld 等同於「藝術圈的人」（那是 Dickie 的用法；Danto 1981 序言明言 institutional theory 與其信念 "quite alien"，見下方 Dickie 條所引 Lacertosa 2015）。另：把「世界必須準備好」讀成技術或媒材條件。知識庫核對過原文 p. 581：類比是中世紀的飛行保險與伊特魯里亞的打字機橡皮擦，Danto 指明的準備內容是 artistic theories 與藝術史；全文 pp. 571–584 未出現 technology、technique、technical 任一字（"information technology" 只見於 JSTOR 封面頁聲明，非 Danto 本文）。
 
 ### Arthur Danto, 1981, *The Transfiguration of the Commonplace*（含 1997 *After the End of Art* 的定義）
 

@@ -6,7 +6,7 @@
 #           → 該環境列的設定圖示 → Setup script → 貼上 → Save changes。
 # 注意：setup script 只在第一次跑，之後用快照（約 7 天或腳本改動時才重跑）。
 #       知識庫更新後要改一下這個腳本（例如改下面的版本號）才會重新安裝。
-# VERSION=1
+# VERSION=2
 set -u
 
 SRC_REPO="https://github.com/mmmmmmmadman/madzine-dev-setup.git"

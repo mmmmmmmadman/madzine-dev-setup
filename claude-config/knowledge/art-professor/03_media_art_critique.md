@@ -1,7 +1,7 @@
 # 03 媒體藝術的批評傳統
 
-> 讀取程度標記：「全文」＝本次實際讀過原文（含作者公開草稿版）；「部分全文」＝只讀了原文中的特定章節；「二手轉述」＝只讀了書評、註解或他人轉引。引文只取自標為全文／部分全文的來源；二手來源中的引文會註明轉引自何處。
-> 未讀：Christiane Paul《Digital Art》(Thames & Hudson, 2003) 本次未取得，不列條目。Krauss 兩篇與 Shanken《Art and Electronic Media》、Popper 只有二手來源。
+> 讀取程度標記：「全文」＝本次實際讀過原文（含作者公開草稿版）；「部分全文」＝只讀了原文中的特定章節；「原文節錄」＝只取得原文中的若干句子，未讀全篇；「摘要」＝只讀到出版社簡介或書目頁，未讀內文；「二手轉述」＝只讀了書評、註解或他人轉引。引文只取自標為全文／部分全文／原文節錄的來源；二手來源中的引文會註明轉引自何處。
+> 未讀：Christiane Paul《Digital Art》(Thames & Hudson, 2003) 本次未取得，不列條目。Krauss 兩篇與 Shanken《Art and Electronic Media》、Popper 只有二手來源。Groys《Art Power》(MIT 2008) 只取得出版社簡介（MIT 官網與試讀 PDF 回 403／404）；Groys《In the Flow》(Verso 2016) 只讀到 e-flux 上的章節原型（〈Entering the Flow〉全文、〈On Art Activism〉節錄）與 Google Books 書目頁的目錄，Verso 試讀與 Brooklyn Rail／Frieze／LARB 書評未取得（WebSearch 配額用盡，直接抓取回 403）。
 
 ## 核心問題
 
@@ -10,6 +10,7 @@
 - 「互動」「沉浸」「即時」本身算不算作品的內容，還是只是硬體的基本性質？（Manovich 2001；Paul）
 - 技術展示（tech demo）、商業娛樂和藝術作品，界線落在哪裡？（Youngblood 1970；Debord 1967；Farago 2021）
 - 影像在網路上流通、被壓縮、被轉貼之後，作品的意義由誰決定？（Steyerl 2009, 2013；Groys 2017）
+- 現場演出或即時生成作品結束就消失，留下的只有文件。文件是作品的替身、作品的一部分，還是另一件作品？網路上「每一次執行都被存檔」之後，還有什麼是真的消失的？（Groys 2013a, 2013b；Paul）
 - 新媒體藝術應該留在自己的領域，還是進入當代藝術主流？進入的代價是什麼？（Quaranta 2013；Shanken 2015）
 
 ## 論點
@@ -127,6 +128,17 @@
 - 對創作者的用處：問學生，觀眾只看兩分鐘時看到的是哪一個版本？作品的可變性有沒有讓觀眾意識到？
 - 常見誤用：把「抗拒物件化」當成作品不需要被完整呈現的理由。Paul 談的是展示與保存的實際困難，不是對作品的豁免。
 
+### Groys, 2008, *Art Power*
+
+- 來源：Boris Groys, *Art Power*, Cambridge, MA: MIT Press, 2008（Open Library 記錄精裝 ISBN 9780262072922、224 頁；平裝 2013 ISBN 9780262518680）。本次只讀到 Google Books 書目頁：https://books.google.it/books?vid=ISBN9780262072922 ；MIT Press 官網（https://mitpress.mit.edu/9780262518680/art-power/ ）與試讀 PDF 均回 403／404；Open Library 書目：https://openlibrary.org/search.json?q=groys+art+power
+- 讀取程度：摘要（出版社簡介一句；目錄與內文均未取得）
+- 主張（依出版社簡介）：
+  - 簡介原句："Art has its own power in the world, and is as much a force in the power play of global politics today as it once was in the arena of cold war politics."（直譯：藝術在世界上有自己的力量，在今日全球政治的權力角力中是一股力量，正如它過去在冷戰政治場域中那樣。）
+  - 簡介稱本書以意識形態功能看現代與當代藝術，對象包括極權、社會主義、後共產主義體制下的藝術，以及西方主流藝術的宣傳面向。
+  - 書中各章標題、「藝術文件」（art documentation）、「平等美學權利」等常被引用的說法，本次沒有讀到原文，不列。
+- 對創作者的用處：目前只能確認本書的範圍（藝術與政治權力）。要和學生談「作品是宣傳還是藝術」時，這本書是待讀來源，不是可引用來源。
+- 常見誤用：在沒讀過內文的情況下拿「Art Power」書名當作「藝術有力量」的口號引用。本條只有一句簡介，不能替任何關於藝術文件、裝置或策展的論點背書；需要時改引下列 Groys 2010、2013a、2013b 的全文。
+
 ### Shanken, 2009, *Art and Electronic Media*
 
 - 來源：Edward A. Shanken, *Art and Electronic Media*, Phaidon, 2009。所依書評：Carolyn Kane, "A New History for New Media," Rhizome, 5 June 2009, https://old.rhizome.org/editorial/2009/jun/05/a-new-history-for-new-media ；Weishaus 書評：https://weishaus.unm.edu/Writing/shanken.htm
@@ -151,6 +163,20 @@
   - 貧窮影像同時關乎反抗與挪用、順從與剝削："In short: it is about reality."
 - 對創作者的用處：當學生追求更高解析度、更大投影、更多顯卡時，問：解析度在這件作品裡替誰服務？低畫質會不會反而帶出流通的痕跡？
 - 常見誤用：把「低畫質」當成自動具有批判性的美學風格。Steyerl 明確說它同時涉及順從和剝削。
+
+### Groys, 2010, "The Weak Universalism"
+
+- 來源：Boris Groys, "The Weak Universalism," *e-flux journal* #15, April 2010. https://www.e-flux.com/journal/15/61294/the-weak-universalism/ 。發表於 2010 年，晚於《Art Power》(2008)，不是該書章節；是否收入其他文集本次未查證。
+- 讀取程度：全文
+- 主張：
+  - 開頭："In these times, we know that everything can be an artwork. Or rather, everything can be turned into an artwork by an artist. There is no chance of a spectator distinguishing between an artwork and a 'simple thing' on the basis of the spectator's visual experience alone."（直譯：在這個時代，我們知道任何東西都可以是藝術品。或者說，任何東西都可以被藝術家變成藝術品。觀眾不可能只靠視覺經驗區分藝術品與「單純的東西」。）
+  - "Art of the avant-garde is the art not only of weak messianism, but also of weak universalism. ... the art that manifests itself through weak images—images with weak visibility, images that are necessarily, structurally overlooked when they function as components of strong images with a high level of visibility, such as images of classical art or mass culture."（直譯：前衛藝術不只是弱彌賽亞主義的藝術，也是弱普遍主義的藝術……它透過弱影像顯現自己——能見度低的影像，當它們作為古典藝術或大眾文化這類高能見度強影像的組件時，必然在結構上被忽略。）
+  - "the avant-garde only became so universally successful by producing the weakest images possible."（直譯：前衛藝術之所以如此普遍地成功，正是因為它製造了最弱的影像。）
+  - "the weak, transcendental artistic gesture could not be produced once and for all times. Rather, it must be repeated time and again to keep the distance between the transcendental and the empirical visible—and to resist the strong images of change, the ideology of progress, and promises of economic growth."（直譯：這個弱的、先驗的藝術姿態不能一次完成、一勞永逸。它必須一再重複，才能讓先驗與經驗之間的距離保持可見——並抵抗變化的強影像、進步的意識形態與經濟成長的承諾。）
+  - "Whereas before, a chosen few produced images and texts for millions of readers and spectators, millions of producers now produce texts and images for a spectator who has little to no time to read or see them."（直譯：以前是少數人為數百萬讀者和觀眾製造影像與文字，現在是數百萬生產者為一個幾乎沒有時間讀或看的觀眾製造文字與影像。）
+  - "To be an artist has already ceased to be an exclusive fate, becoming instead an everyday practice—a weak practice, a weak gesture."（直譯：當藝術家已不再是一種專屬的命運，而成為一種日常實踐——一種弱的實踐、弱的姿態。）
+- 對創作者的用處：當學生以「畫面夠強、夠震撼」作為目標時，Groys 提供相反的座標：前衛的普遍性來自最弱的影像，而且這個姿態要一直重複。可以問：你的作品是在加入高能見度的強影像競爭，還是在做會被忽略的弱姿態？在人人都製造影像的條件下，你憑什麼要求觀眾的時間？
+- 常見誤用：把「弱影像」讀成「做得粗糙就好」。Groys 講的是先驗姿態與經驗世界的距離，不是製作品質；也不要和 Steyerl 2009 的「貧窮影像」混為一談，Steyerl 談的是流通造成的畫質損失與影像階級，Groys 談的是前衛的還原手法。
 
 ### Bishop, 2012, "Digital Divide: Contemporary Art and New Media"
 
@@ -224,6 +250,51 @@
 - 對創作者的用處：問學生，作品是在處理「傳播媒介對生活的影響」，還是在展示「藝術媒介的材料特性」？兩者的評價標準不同。
 - 常見誤用：把「超越新媒體藝術」讀成「不要用新技術」。Quaranta 反對的是以技術為分類依據，不是反對技術。
 
+### Groys, 2013a, "Art Workers: Between Utopia and the Archive"
+
+- 來源：Boris Groys, "Art Workers: Between Utopia and the Archive," *e-flux journal* #45, May 2013. https://www.e-flux.com/journal/45/60134/art-workers-between-utopia-and-the-archive/ 。本篇不在 Google Books 所列《In the Flow》目錄中（目錄見下一條），但與該書同期、同主題（網路、檔案、自我記錄）。
+- 讀取程度：全文
+- 主張：
+  - 開頭即說藝術工作的條件 "have changed drastically, due first and foremost to the emergence of the internet."（直譯：已經劇烈改變，首先且主要是因為網路的出現。）
+  - 傳統創作的時間結構："creative work is the work that presupposes the desynchronization of the time of work from the time of the exposure of its results. Creative work is practiced in a parallel time of seclusion, in secrecy—so that there is an effect of surprise when this parallel time gets re-synchronized with the time of the audience."（直譯：創作工作預設了工作時間與成果曝光時間的不同步。創作在一段平行的隱居時間、在祕密中進行——所以當這段平行時間與觀眾的時間重新同步時，會有驚奇的效果。）
+  - 網路把兩者重新同步："The documentation of the art-making process is already an artwork. Art production, presentation, and distribution coincide. The artist becomes a blogger. Almost everyone in the contemporary art world acts as a blogger—individual artists, but also art institutions, including museums."（直譯：創作過程的文件已經就是作品。藝術的生產、呈現與流通重合。藝術家變成部落客。當代藝術界幾乎每個人都像部落客一樣行動——個別藝術家，也包括美術館在內的藝術機構。）
+  - 網路不是流："the internet is not a place of data flow—it is a machine to stop and reverse data flow. The unobservability of the internet is a myth. The medium of the internet is electricity."（直譯：網路不是資料流動的地方——它是一部讓資料流停止並反轉的機器。網路不可觀察是一個迷思。網路的媒介是電。）
+  - "A digital image cannot be merely copied (as an analogue, mechanically reproducible image can) but always only newly staged or performed. And every performance of a data file is dated and archived."（直譯：數位影像不能只是被複製（像類比的、機械可複製的影像那樣），而總是只能被重新搬演或執行。而資料檔的每一次執行都被標上日期並存檔。）
+  - "Politics shapes the future by its own disappearance. Art shapes the future by its own prolonged presence. This creates a gap between art and politics"（直譯：政治以自身的消失塑造未來。藝術以自身延長的在場塑造未來。這在藝術與政治之間造成一道縫隙。）
+  - 結尾："We are becoming more interested in the decontextualization and reenactment of individual phenomena from the past than in their historical recontextualization"（直譯：我們對過去個別現象的去脈絡化與重演，比對它們的歷史再脈絡化更感興趣。）
+- 對創作者的用處：對做現場演出或直播生成系統的學生，直接問：你的工作時間和觀眾的時間是同步的嗎？如果觀眾全程看得到過程，你還需要「作品」嗎？「過程就是產品」對你是解放還是壓力？另外，Groys 說數位影像每次顯示都是一次「執行」而且被存檔——你的即時生成作品每一場的差異，有沒有被你自己當成要保存的東西？
+- 常見誤用：把「網路不是流而是停止資料流的機器」當成比喻。Groys 的依據是具體的：每一次點擊、傳輸都被記錄並標上日期（他在文中用 "surveillance" 描述）。也不要只引「藝術家變成部落客」當作對自我行銷的嘲諷；Groys 在同段說這種重新同步「看起來讓事情變好而不是變壞」，他的態度不是單純否定。
+
+### Groys, 2013b / 2016, "Entering the Flow: Museum between Archive and Gesamtkunstwerk"（《In the Flow》第 2 章）
+
+- 來源：Boris Groys, "Entering the Flow: Museum between Archive and Gesamtkunstwerk," *e-flux journal* #50, December 2013. https://www.e-flux.com/journal/50/59974/entering-the-flow-museum-between-archive-and-gesamtkunstwerk/ 。收入 Boris Groys, *In the Flow*, London: Verso, 2016（Open Library：ISBN 9781784783518，208 頁，https://openlibrary.org/isbn/9781784783518.json ）。Google Books 書目頁所列目錄：1 The Rheology of Art；2 Entering the Flow；3 Under the Gaze of Theory；4 On Art Activism；5 On Kazimir Malevich；6 Installing Communism；7 An Engineer of Art；8 On Realism；9 Global Conceptualism Revisited；10 Mechanical vs Digital Reproduction；11 Words beyond Grammar；12 The Revolt of the Clerks or Universality as Conspiracy；13 Art on the Internet（https://books.google.it/books?vid=ISBN9781784783518 ）。書版與 e-flux 版是否有改動，本次無法比對。
+- 讀取程度：全文（e-flux 版）；書的其餘章節未讀，只讀到 Google Books 的出版社簡介
+- 主張：
+  - 開頭："Traditionally, the main occupation of art was to resist the flow of time. Public art museums and big private art collections were created to select certain objects—the artworks—take them out of private and public use, and therefore immunize them against the destructive force of time."（直譯：傳統上，藝術的主要工作是抵抗時間之流。公立美術館與大型私人收藏的設立，是為了挑選某些物件——藝術品——把它們從私人與公共使用中抽出，從而使它們對時間的破壞力免疫。）
+  - 相對於此的當代態度："Not to resist the flow of time, but to let it define one's own artwork." "The idea was to make the form itself fluid."（直譯：不抵抗時間之流，而讓它定義自己的作品。／這個想法是讓形式本身變得流動。）
+  - "Today the museum has ceased to be a space for contemplating non-moving things. Instead, the museum has become a place where things happen."（直譯：今日美術館已不再是凝視不動之物的空間。美術館變成了事情發生的地方。）
+  - "One cannot reproduce a curatorial project; one can only document it."（直譯：策展計畫無法被複製；只能被記錄。）"The curatorial project, rather than the exhibition, is then the Gesamtkunstwerk because it instrumentalizes all the exhibited artworks and makes them serve a common purpose that is formulated by the curator."（直譯：策展計畫——而非展覽——才是總體藝術，因為它把所有展出作品工具化，使它們服務於策展人設定的共同目的。）
+  - 事件文件的鄉愁："our perspective, our gaze is asymmetrical with the gaze of a camera—and these gazes cannot coincide, as they could in the case of documenting an opera or a ballet. This is the reason for a certain kind of nostalgia that we necessarily feel when we are confronted with documents of past artistic events, whether exhibitions or performances. This nostalgia provokes the desire to reenact the event 'as it truly was.'"（直譯：我們的視角、我們的視線與攝影機的視線不對稱——兩者無法重合，不像記錄歌劇或芭蕾時那樣。這就是為什麼面對過去藝術事件——不論展覽或演出——的文件時，我們必然感到某種鄉愁。這種鄉愁引發把事件「如其本然」重演一次的欲望。）
+  - "The process is already the product."（直譯：過程已經就是產品。）
+  - "With the internet, time became space indeed—and it is the visible space of permanent surveillance. If art has become a flow, it flows in a mode of self-documentation."（直譯：有了網路，時間確實變成了空間——而且是永久監視的可見空間。如果藝術已成為一種流動，它是以自我記錄的模式在流動。）
+  - 結尾："The museum is a place where the asymmetrical war between the ordinary human gaze and the technologically armed gaze not only takes place, but also becomes revealed—so that it can be thematized and critically theorized."（直譯：美術館是一個地方，在那裡一般人的視線與技術武裝的視線之間的不對稱戰爭不只發生，而且被揭露——因此可以被主題化並加以批判性理論化。）
+  - 出版社簡介（Google Books 轉載）對全書的概括："digital production generates aura without objects, transforming all its materials into vanishing markers of the transitory present."（直譯：數位生產製造出沒有物件的靈光，把它所有的材料變成轉瞬即逝的現在的、正在消失的標記。）
+- 對創作者的用處：對現場演出與即時生成作品，Groys 給了三個可以直接用的檢查點。(1) 你是在抵抗時間之流（做一個可保存的物件），還是讓時間之流定義作品（作品結束就消失）？兩者都可以，但要知道自己在哪一邊。(2) 錄影不是作品的替身：攝影機的視線和現場觀眾的視線不對稱，文件必然帶著「錯過了」的鄉愁。你的文件是要安撫這個鄉愁，還是要讓它被看見？(3) 如果作品只在流動中存在，而流動又全部被自我記錄，那麼「消失」實際上發生在哪裡？
+- 常見誤用：把「流動化」讀成 Groys 的主張或讚美。他描述的是一個處境，並且立刻追問其後果（引文中的 "What is the effect of this radicalized precariousness"）。另一個誤用是把「過程就是產品」當作免除完成作品的理由；Groys 把這句放在網路監視的脈絡裡，是分析，不是許可。
+
+### Groys, 2014 / 2016, "On Art Activism"（《In the Flow》第 4 章）
+
+- 來源：Boris Groys, "On Art Activism," *e-flux journal* #56, June 2014. https://www.e-flux.com/journal/56/60343/on-art-activism/ 。收入《In the Flow》第 4 章（目錄見上一條）。
+- 讀取程度：原文節錄（只取得下列句子，未讀全篇）
+- 主張：
+  - 設計與藝術的差別："Design wants to change reality, the status quo—it wants to improve reality, to make it more attractive, better to use. Art seems to accept reality as it is, to accept the status quo. But art accepts the status quo as dysfunctional, as already failed."（直譯：設計想改變現實、改變現狀——它想改善現實，讓它更吸引人、更好用。藝術看起來接受現實的原樣、接受現狀。但藝術把現狀當作失能的、已經失敗的東西來接受。）
+  - "Artistic aestheticization means the defunctionalization of this tool, the violent annulation of its practical applicability and efficiency."（直譯：藝術的美學化意味著把這個工具去功能化，暴力地取消它的實用性與效率。）
+  - "The museum is much more of a cemetery than any real cemetery. Real cemeteries do not expose the corpses of the dead; they conceal them. The museum in the daylight is a place of definitive death that allows no resurrection, no return of the past."（直譯：美術館比任何真正的墓園更像墓園。真正的墓園不展示死者的屍體；它們把屍體藏起來。白晝中的美術館是一個決定性死亡的地方，不允許復活、不允許過去回來。）
+  - "Contemporary art puts our contemporaneity into art museums because it does not believe in the stability of the present conditions of our existence."（直譯：當代藝術把我們的當代性放進美術館，因為它不相信我們存在的現狀是穩定的。）
+  - "total aestheticization does not block political action; it enhances it."（直譯：全面美學化不會阻礙政治行動；它會強化政治行動。）
+- 對創作者的用處：學生把感測器、相機、生成模型等「工具」搬進作品時，可以用 Groys 的說法問：你是在讓這個工具更好用（設計），還是在取消它的功能、把它當作已經失敗的東西展示（藝術）？你的即時系統如果運作得越來越順，它還是藝術嗎？
+- 常見誤用：拿「美術館是墓園」當作反機構的口號。本條只有節錄，Groys 在同一篇裡把「把東西放進墓園」描述為當代藝術的做法，而不是指控；完整論證未讀，引用時要說明這一點。
+
 ### Shanken, 2015, "Contemporary Art and New Media: Digital Divide or Hybrid Discourse?"
 
 - 來源：Edward A. Shanken, "Contemporary Art and New Media: Digital Divide or Hybrid Discourse?" *Art Research Journal* (ARJ, Brasil) 2, no. 2 (jul./dez. 2015): 75–98. https://periodicos.ufrn.br/artresearchjournal/article/download/7295/5889/0 。亦收於 Christiane Paul (ed.), *A Companion to Digital Art*, Wiley-Blackwell, 2016, ch. 21。
@@ -247,7 +318,7 @@
   - 網路使每個人都在做自我美學化（selfie 等），藝術成為「日常活動之一」。
   - "Art is about storage and conservation—this is why art is deeply conservative."
 - 對創作者的用處：問學生，作品上網後會和作者的其他資訊（履歷、社群、商業活動）並列。作品是否考慮過這個脈絡？
-- 常見誤用：把「藝術是保守的」讀成貶義。Groys 的論點是保存與抵抗之間的關係。
+- 常見誤用：把「藝術是保守的」讀成貶義。Groys 的論點是保存與抵抗之間的關係。本篇與 Groys 2013a、2013b 連讀：2013 年他說網路使藝術以「自我記錄的模式」流動，2017 年把保存本身定位為技術。
 
 ### Farago, 2021, 評 "Immersive Van Gogh" 與 "Van Gogh: The Immersive Experience"
 
@@ -300,6 +371,7 @@
 | 解析度與技術品質 | 沉浸式產業（Farago、Henry 描述的高解析投影） | Steyerl 2009（解析度被拜物化；完美電影多半反動） | 高規格作為賣點 vs 低規格記錄流通與挪用 |
 | 沉浸式展覽是否只是景觀 | Farago 2021、Henry 2021（自拍背景、娛樂產業） | The Courtauldian 2017（景觀批評帶歐洲中心視角） | 批評工具是否適用於不同文化脈絡的作品；後者未處理商業結構 |
 | 藝術在網路上的位置 | Steyerl 2013（流通主義：重點在後製、發布、加速） | Groys 2017（藝術成為作者真實活動的記錄，與其他網路資訊並列） | Steyerl 關心影像流通的政治；Groys 關心藝術的保存與日常化 |
+| 流動是加速還是存檔 | Steyerl 2013「流通主義」（本章；影像作為「跨越不同載體遷移的能量與物質節點」，藝術的重點移到後製、發布、加速） | Groys 2013a、2013b（藝術「讓形式本身變得流動」，但「以自我記錄的模式」流動；「網路不是資料流動的地方，而是讓資料流停止並反轉的機器」，每一次執行都被標上日期並存檔） | 兩人都從網路時代的影像出發。Steyerl 看到的是影像離開螢幕、持續遷移，問題是流通替誰服務；Groys 看到的是每一次流動都被記錄，流動化的結果是檔案化，問題是「消失」還有沒有發生。對現場演出與即時生成作品：Steyerl 會問你的畫面流出去之後變成什麼，Groys 會問你以為消失的東西是不是早就被存起來了 |
 
 ## 可以問學生的問題
 
@@ -318,3 +390,5 @@
 13. 作品的影像離開展場、變成手機短片之後會變成什麼？它是否只是在推銷硬體或平台？〔Steyerl 2013〕
 14. 作品是否複製了「永遠亮著、永遠有回應」的時間結構？裡面有沒有停頓或不回應的時間？〔Crary 2013〕
 15. 你處理的是技術機制，還是藝術史的問題？兩邊你都交代清楚了嗎？〔Shanken 2015；Quaranta 2013〕
+16. 演出結束後，留下的只有錄影和截圖。攝影機的視線和現場觀眾的視線不對稱，文件必然帶著「錯過了」的感覺。你的文件是要安撫這種感覺，還是要讓它被看見？你有沒有為「沒到現場的人」另外設計過什麼？〔Groys 2013b〕
+17. 你的即時生成系統每一場畫面都不同、結束就消失，但程式碼、參數和輸入資料都還在，而且每一次執行都可以被記錄。作品在哪裡——在消失的畫面，還是在可以重新執行的檔案？如果觀眾全程看得到過程，「過程就是產品」對你是解放，還是讓你不用再決定作品何時完成？〔Groys 2013a, 2013b；Paul〕

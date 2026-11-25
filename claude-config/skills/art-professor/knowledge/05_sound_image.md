@@ -182,7 +182,22 @@
   - 不給觀眾指引：「I'm avoiding giving a guideline to viewers」。（CLOT）
 - 對創作者的用處：Kurokawa 公開承認變形資料，立場與 Hermann 的「客觀、可重現」相反。可以問學生：你是在可聽化資料，還是在誤用資料？你能否像 Kurokawa 一樣明說這點？
 - 常見誤用：引 Kurokawa 的「synesthesia」當作聲畫有神經學依據。他用的是創作概念，不是聯覺的臨床主張。
-- 備註：Ryoji Ikeda 與 Alva Noto（Carsten Nicolai）未找到可核實的一手訪談原文；Ikeda 僅以下列學術分析處理。
+- 備註：Alva Noto（Carsten Nicolai）未找到可核實的一手訪談原文。Ryoji Ikeda 的一手訪談見下一節（2009 浅田彰對談，全文）；Lakatos 2020 為學者分析。另有 FACT 2020 Ralph Rugoff 訪談，標題為 "For me, there's no separation between sound and visuals"（由 Lee 2025 轉引），官網 PDF 為影像檔，本次無法讀取內文，不引用。
+
+### 池田亮司 Ryoji Ikeda × 浅田彰 Akira Asada, 2009（2018 再刊）, "Ryoji Ikeda on Ryoji Ikeda"
+
+- 來源：對談於 2009-01-30 京都。原載《+/- [the infinite between 0 and 1]》（Tokyo: Esquire Magazine Japan, 2009；東京都現代美術館個展圖錄）；英譯再刊於 continuum 圖錄（Centre Pompidou, 2018）pp. 172–202。藝術家官網 articles 頁轉載 PDF：英譯 https://www.ryojiikeda.com/media/essays/2018_Conversation_with_Akira_Asada_Ryoji_Ikeda_on_Ryoji_Ikeda_continuum__EN_0wDbZu1.pdf ；日文原版 https://www.ryojiikeda.com/media/essays/2009_Interview_with_Akira_Asada_Ryoji_Ikeda_on_Ryoji_Ikeda_-___JP_inISwTT.pdf
+- 讀取程度：全文（英譯 PDF；日文版未逐句核對）
+- 主張：
+  - 聲音與影像的對應建立在同一種還原，不是「把聲音畫出來」：「In my pursuit of the question, "What is sound?", I went so far as to reduce sound to sine waves and impulses. As for the question of "What is light?" … I decided to that if I were to create a production, I would need to reduce light to pixels.」直譯：為了追問「聲音是什麼」，我把聲音一路還原到正弦波與脈衝。至於「光是什麼」……我決定如果要做作品，就必須把光還原到像素。
+  - 資料是第三個同級單位：「datamatics began as an attempt to structure the most original and minute units as "data", much like sine waves and pixels, so that the world could be viewed once more at a different resolution.」直譯：datamatics 一開始是嘗試把最原初、最細小的單位當作「資料」來組織，就像正弦波和像素一樣，好讓世界能以另一種解析度再被看一次。
+  - 知覺極限的起點是 Dumb Type《OR》的白色頻閃，他自己把「知覺極限」這個說法標為簡化：「In OR we used completely white strobe lights in a number of ways; put in simplistic terms, you could call it "the limits of perception", but what we produced was something bordering on the dangerous.」直譯：在 OR 裡我們用了各種方式使用全白的頻閃燈；簡單講可以叫它「知覺的極限」，但我們做出來的東西接近危險。接著：「It isn't really visual art, or visual anything; it's just "light".」直譯：它其實不是視覺藝術，也不是什麼視覺的東西；它只是「光」。「regardless of what we are looking at, it is only variations of the same lights that reflect in our retinas」直譯：不管我們在看什麼，落在視網膜上的都只是同一種光的變化。
+  - 速度的作用是把內容推到閾下（談以《紐約時報》每頁一幀的取樣影像）：「The significance of the information on each page within each frame is pushed into the realm of the subliminal at overwhelming speeds … This, to me, is what real is.」直譯：每一幀裡每一頁資訊的意義，在壓倒性的速度下被推進閾下的範圍……對我來說，這才是真實。
+  - 美與崇高：「If, for example, "beauty" were related to "quality", then perhaps "the sublime" would be related to "quantity".」直譯：如果「美」關乎「質」，那「崇高」或許關乎「量」。但：「I don't really think that "the beautiful" and "the sublime" as they relate to aesthetics could, in and of themselves, be viable themes. … It is more like something that starts to become visible at the end of a process of pure creation.」直譯：我不認為美學意義上的「美」與「崇高」本身可以成為可行的主題……它比較像是在純粹創作的過程走到最後才開始顯現的東西。
+  - 對「壓倒觀眾」的回應：浅田：「there seems to be something in it that won't be satisfied unless it overwhelms its observers with the sheer quantity of it …」池田：「I wouldn't go so far as to say that the work needs to overwhelm [laughs], but one does need a certain overwhelming durability.」直譯：我不會說作品需要壓倒人（笑），但確實需要某種壓倒性的耐久度。
+  - 為什麼不解釋作品：「the reason I have always refused to talk about my work is that I do not want to shrink the possibilities for such criticism or observation. By stating that in spectra, "I expressed infinity", I would immediately reduce myself to the ranks of the ludicrous.」直譯：我一直拒絕談自己的作品，是因為不想縮小這類批評或觀察的可能性。如果我說 spectra「表達了無限」，我會立刻把自己降到可笑的行列。對談結尾：「nothing could be more nonsensical than writing about Mozart's melodies. You simply need to listen to them to understand.」
+- 對創作者的用處：這是目前唯一可核實的池田一手陳述，直接回答本章三個問題。(1) 對應：他沒有「聲音→影像」的轉換規則，有的是兩邊各自還原到最小單位後並置；問學生：你的聲音與影像各自的最小單位是什麼？你有沒有做過這個還原，還是直接拿現成的聲音去驅動現成的影像？(2) 知覺極限：池田自己說「知覺極限」是簡化的講法，實際是接近危險的白光；問學生：你說的「知覺邊緣」有物理量嗎（幀率、音壓、照度），還是形容詞？(3) 黑白：池田本人沒有解釋為什麼黑白；他說的是「只是光」與「像素」。學生說「像池田所以黑白」時，請他說出自己的理由，不要替池田補一個。(4) 說明文字：池田拒絕寫「我表達了無限」；問學生的作品說明有沒有同一句。
+- 常見誤用：(a) 引這篇對談說池田「追求崇高」或「資料崇高」。他的原話是美與崇高都不是可行的主題，崇高＝量只是一個假設性類比。(b) 把「知覺極限」當成池田的宣言。他把這個詞標為 "put in simplistic terms"。(c) 把「聲音與影像沒有分別」（FACT 2020 訪談標題，本次未讀到內文）當成這篇對談的內容。這篇說的是兩者各自還原到同級單位，不是「沒有分別」。(d) 拿池田的「不解釋」當作自己不寫作品說明的理由。他的理由是保留批評空間，且他接受「可笑」的風險（spectra 照片 "looks ludicrous or like something out of a comic book"）。
 
 ### Lakatos, 2020, "Sights and Sounds of Big Data: Ryoji Ikeda's Immersive Installations"
 
