@@ -27,6 +27,7 @@ Create directories if they don't exist, then copy:
 | `windows-claude-global.md` | `$env:USERPROFILE\.claude\CLAUDE.md` |
 | `claude-config\agents\*` (including subdirectories) | `$env:USERPROFILE\.claude\agents\` |
 | `claude-config\commands\*` | `$env:USERPROFILE\.claude\commands\` |
+| `claude-config\knowledge\*` (including subdirectories) | `$env:USERPROFILE\.claude\knowledge\` |
 
 Use `-Recurse -Force` to overwrite existing files and include subdirectories.
 

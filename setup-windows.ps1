@@ -222,6 +222,20 @@ if (Test-Path $agentsSrc) {
     Write-Skip "claude-config\agents not found, skipping"
 }
 
+# Knowledge bases (used by agents, e.g. art-professor)
+$knowSrc = Join-Path $PSScriptRoot "claude-config\knowledge"
+$knowDst = Join-Path $claudeDir "knowledge"
+if (Test-Path $knowSrc) {
+    if (-not (Test-Path $knowDst)) {
+        New-Item -ItemType Directory -Path $knowDst -Force | Out-Null
+    }
+    Copy-Item "$knowSrc\*" $knowDst -Recurse -Force
+    $knowCount = (Get-ChildItem $knowDst -Filter "*.md" -File -Recurse).Count
+    Write-OK "$knowCount knowledge files installed"
+} else {
+    Write-Skip "claude-config\knowledge not found, skipping"
+}
+
 # Commands (skills)
 $cmdsSrc = Join-Path $PSScriptRoot "claude-config\commands"
 $cmdsDst = Join-Path $claudeDir "commands"

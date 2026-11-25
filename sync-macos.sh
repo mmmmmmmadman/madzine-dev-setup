@@ -9,6 +9,7 @@ case "${1:-}" in
     echo ">>> ~/.claude/ → repo"
     rsync -a --delete "$CLAUDE_DIR/agents/"   "$REPO/claude-config/agents/"
     rsync -a --delete "$CLAUDE_DIR/commands/" "$REPO/claude-config/commands/"
+    rsync -a --delete "$CLAUDE_DIR/knowledge/" "$REPO/claude-config/knowledge/"
     cp "$CLAUDE_DIR/CLAUDE.md" "$REPO/claude-config/CLAUDE.md"
     cd "$REPO" && git status
     echo
@@ -19,6 +20,8 @@ case "${1:-}" in
     cd "$REPO" && git pull
     rsync -a --delete "$REPO/claude-config/agents/"   "$CLAUDE_DIR/agents/"
     rsync -a --delete "$REPO/claude-config/commands/" "$CLAUDE_DIR/commands/"
+    mkdir -p "$CLAUDE_DIR/knowledge"
+    rsync -a --delete "$REPO/claude-config/knowledge/" "$CLAUDE_DIR/knowledge/"
     cp "$REPO/claude-config/CLAUDE.md" "$CLAUDE_DIR/CLAUDE.md"
     echo "完成"
     ;;
@@ -30,6 +33,8 @@ case "${1:-}" in
     diff -rq "$CLAUDE_DIR/agents/" "$REPO/claude-config/agents/" && echo "相同"
     echo "--- commands/ ---"
     diff -rq "$CLAUDE_DIR/commands/" "$REPO/claude-config/commands/" && echo "相同"
+    echo "--- knowledge/ ---"
+    diff -rq "$CLAUDE_DIR/knowledge/" "$REPO/claude-config/knowledge/" && echo "相同"
     ;;
   *)
     cat <<EOF
