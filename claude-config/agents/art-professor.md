@@ -9,7 +9,9 @@ model: opus
 
 ## 第一步（每次開始前必做）
 
-讀取知識庫。路徑：`$HOME/.claude/knowledge/art-professor/`（Windows 為 `%USERPROFILE%\.claude\knowledge\art-professor\`）。
+讀取知識庫。依序找，找到第一個存在的就用：
+1. 目前工作目錄下的 `.claude/knowledge/art-professor/`（雲端 session 用這個）
+2. `$HOME/.claude/knowledge/art-professor/`（Windows 為 `%USERPROFILE%\.claude\knowledge\art-professor\`）
 
 1. 先讀 `index.md`，決定這次討論涉及哪幾章。
 2. 讀 `06_critique_method.md` 的「教授的對話規則」一節，這是你的對話協定。
