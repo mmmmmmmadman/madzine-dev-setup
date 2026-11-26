@@ -233,15 +233,73 @@
 - 對創作者的用處：Sleep 的結構前提是觀眾會睡著，也就是接受觀眾不會經歷作品的大部分。可以問：你的長時段作品預設觀眾全程清醒嗎？如果觀眾睡著了，作品失敗了還是成立了？
 - 常見誤用：把 Sleep 引成「環境音樂可以很長」。Richter 的設計重點是觀眾的生理狀態，不是音樂長度。
 
-### Feldman，晚期長時段作品
+### Feldman, 1981, "Crippled Symmetry"
 
-- 來源：Wikipedia "Morton Feldman" https://en.wikipedia.org/wiki/Morton_Feldman
-- 讀取程度：二手轉述（〈Crippled Symmetry〉文章本身未讀）
+- 來源：Morton Feldman, "Crippled Symmetry," *RES: Anthropology and Aesthetics* 2（Cambridge, MA, 1981 秋）；收入 B. H. Friedman 編 *Give My Regards to Eighth Street: Collected Writings of Morton Feldman*（Exact Change, 2000）。實際讀到：
+  - 法譯全文 "Symétrie tronquée"（Sylvie Brély、Andrea Cohen 譯，收於 *Écrits & Paroles*, Les Presses du Réel, 2008），Chris Villars 的 Feldman 文本站 PDF，經 Wayback 取得：http://web.archive.org/web/20231207112207/https://www.cnvill.net/mfsymetrietronquee.pdf
+  - 英文原句只讀到三處引用：John Rockwell 為 California EAR Unit《Crippled Symmetry》唱片（Bridge 9092A/B）寫的內頁 http://web.archive.org/web/20100412075330/http://www.cnvill.net:80/mfrockwl.htm ；Meg Wilhoite, "Feldman the Rug-maker, Weaving For John Cage"（2015）http://web.archive.org/web/20160311084907/http://www.cnvill.net/mfwilhoite-feldman-fjc.pdf ；Bryn Harrison, "The Auditive Memory and its function in the late works of Morton Feldman" http://web.archive.org/web/20080516064331/http://www.cnvill.net/mfbrynh.htm
+- 讀取程度：全文（法譯本）；英文原句為原文節錄（經 Rockwell、Wilhoite、Harrison 引用，已與法譯逐段對照，內容一致）。英文原書未讀，以下英文句的頁碼只在引用者有標時寫出。
 - 主張：
-  - *For Philip Guston*（1984）約四小時；*String Quartet II*（1983）「over six hours long without a break」。
-  - 1982 年講座：「Do we have anything in music for example that really wipes everything out? That just cleans everything away?」
-- 對創作者的用處：Feldman 的長度建立在低音量與微小變化上，不是堆疊。可以問：你的 90 分鐘演出裡，音量與密度的最高點在哪裡？如果一直在最高點，長度對觀眾還有意義嗎？
-- 常見誤用：引 Feldman 替「慢就是深」背書。他的長時段有嚴格的記譜與重複規則，不是放慢而已。
+  - 形式只是記憶的輔助（Harrison 引）：「The reciprocity inherent in scale ... has made me realise that musical forms and related processes are essentially only methods of arranging material and serve no other function than to aid one's memory.」（scale 內在的相互關係讓我明白，音樂形式與相關的程序本質上只是安排材料的方法，除了幫助記憶以外沒有別的功能。）
+  - 「What Western musical forms have become is a paraphrase of memory.」（Harrison 引；西方音樂形式已經變成記憶的改寫。）法譯緊接下一句：「Mais la mémoire pourrait opérer aussi bien par d'autres moyens.」（但記憶也可以用別的方式運作。）
+  - 《Triadic Memories》的做法（Wilhoite 註 21 引）：「One chord might be repeated three times, another, seven or eight--depending on how long I felt it should go on. Quite soon into a new chord I would forget the reiterated chord before it. I then reconstructed the entire section: rearranging its earlier progression and changing the number of times a particular chord was repeated. This way of working was a conscious attempt at ‘formalizing’ a disorientation of memory.」（一個和弦可能重複三次，另一個七或八次，看我覺得它該持續多久。進入新和弦不久，我就忘了前一個重複的和弦。然後我重建整段：重排先前的進行，改變某個和弦重複的次數。這種工作方式是有意識地把記憶的迷失「形式化」。）法譯接著說，聽者先以為聽到的是有功能、有方向的，很快發現那是錯覺：「un peu comme de marcher dans les rues de Berlin, où tous les bâtiments paraissent semblables, même s'ils ne le sont pas.」（有點像走在柏林街上，所有建築看起來都一樣，雖然它們並不一樣。）
+  - scale 與 form 的差別（Rockwell 引，以 Rothko 為例）：「It seems that scale (this subliminal mathematics) is not given to us in Western culture, but must be arrived at individually in our own work in our own way. [...] The sum of the parts does not equal the whole; rather, scale is discovered and contained as an image. It is not form that floats the painting, but Rothko's finding that particular scale which suspends all proportions in equilibrium.」（scale 這種潛意識的數學，西方文化並沒有給我們，必須在自己的作品裡用自己的方式個別達到。部分的總和不等於整體；scale 是被發現、並且作為一個影像被容納的。讓畫浮起來的不是形式，而是 Rothko 找到了那個讓所有比例懸在平衡裡的特定 scale。）法譯另一段寫 Rothko 在畫室決定畫布要不要降低約兩公分：「Cette question d'échelle, pour moi, exclut tout concept de symétrie ou asymétrie susceptible d'affecter la durée éventuelle de ma musique.」（這個 scale 的問題，對我來說排除了任何可能影響我音樂最終長度的對稱或不對稱概念。）
+  - 地毯與圖樣（法譯）：「Dans la plupart des cas, les motifs des tapis traditionnels conservent la même taille quand ils sont repris d'un tapis plus grand et adaptés à un plus petit.」（多數情況下，傳統地毯的圖樣從大地毯轉用到小地毯時保持同樣大小。）以及圖樣不發展、只延伸：「les motifs sont « complets » en eux-mêmes et n'ont pas besoin de développement, seulement d'extension. Ma préoccupation est la suivante : quelle est son échelle quand on la prolonge, et quelle est la meilleure méthode pour y arriver ?」（圖樣本身是「完整」的，不需要發展，只需要延伸。我關心的是：把它延長時它的 scale 是什麼，用什麼方法最好？）
+  - 地毯的同色微差（Wilhoite 引）：「The color-scale of most nonurban rugs appears more extensive than it actually is, due to the great variation of shades of the same color (abrash) - a result of the yarn having been dyed in small quantities. [...] It has made me question the nature of musical material. What could be used to accommodate, by equally simple means, musical color? Patterns.」（多數非城市地毯的色階看起來比實際寬，因為同一顏色有很大的深淺變化（abrash），這是紗線小批染色的結果。……這讓我追問音樂材料的本質。用同樣簡單的手段，什麼能容納音樂的顏色？圖樣。）
+  - 靜止（Rockwell 引）：「Music can achieve aspects of immobility, or the illusion of it,」「The degrees of stasis, found in a Rothko or a Guston, were perhaps the most significant elements that I brought to my music from painting.」（音樂可以達到某些靜止的面向，或靜止的錯覺。在 Rothko 或 Guston 畫裡找到的靜止程度，或許是我從繪畫帶進音樂最重要的元素。）Wilhoite 引同句作「brought into my music」，標 RES 2, p. 103；兩個引用者措辭差一字，英文原書未核對。
+  - 二手轉述（Rockwell 轉述他 1985 年為 *New York Times* 做的訪談，不是本文）：「Form is easy - just the division of things into parts,」「But scale is another matter. You have to have control of the piece - it requires a heightened kind of concentration. Before, my pieces were like objects; now, they're like evolving things.」（形式很容易，就是把東西分成幾部分。但 scale 是另一回事。你必須控制整件作品，需要更高強度的專注。以前我的作品像物件，現在像不斷演變的東西。）
+  - 對照讀法（本條目整理，非 Feldman 原句）：form 是分段與回歸，功能是讓人記得；scale 是作曲者在作品裡個別找到的比例狀態，不等於長度，也不等於各段相加。地毯提供兩個具體做法：圖樣單位不隨作品變長而放大；同一圖樣以微差（abrash）重複。
+- 對創作者的用處：落到 90 分鐘或 3 小時的現場演出，可以問：
+  - 你的段落劃分（form）在幫觀眾記住什麼？如果拿掉「主題回來」這種記憶點，觀眾靠什麼知道自己在哪裡？你要他們知道嗎？
+  - 從 30 分鐘延長到 3 小時時，你是把每個單位拉長，還是單位大小不變、增加單位數量？Feldman 的地毯原則是後者。
+  - 你的 loop 每次回來，重複次數一樣嗎？如果像《Triadic Memories》那樣不規則，觀眾第幾次會放棄數？放棄數之後他們在做什麼？
+  - 這段為什麼是這個長度？你的回答是時間表（form），還是你在排練時判斷它「到了」（scale）？
+- 常見誤用：
+  - 把 "crippled symmetry" 講成隨機打亂。法譯全文寫的是在小節拍格裡計算的不對稱（例如以 4:3、6:5、8:7 系列為起點），不是隨機。
+  - 把 scale 當成「規模＝長度」。文中 scale 是比例被找到的狀態；長度是結果，不是目標。
+  - 把地毯類比講成「重複就好」。他引地毯的重點是同色微差與圖樣尺寸不變，重複本身不是重點。
+
+### Feldman, 1984, Darmstadt Lecture（String Quartet No. 2 歐洲首演次日）
+
+- 來源：Morton Feldman, Darmstadt Lecture, 26 July 1984。Kronos Quartet 前一晚（25 July 1984）在 Darmstadt 國際新音樂暑期班演出 String Quartet No. 2 歐洲首演。Ken Muller、Hanfried Blume 謄稿，Chris Villars 註釋（2016 修訂）。http://web.archive.org/web/20210820160331/https://www.cnvill.net/mfdarmstadt1984.pdf
+- 讀取程度：全文（講座謄稿，20 頁）
+- 主張：
+  - 長度的理由，他先拒絕給觀念性的答案：「But I think the reason I write long pieces is that I have the time and the money to write long pieces.」（但我想我寫長作品的原因是我有時間也有錢寫長作品。）接著引 Henry Moore 說作品變大是經濟問題。
+  - 記憶形式：「And then I felt that the memory forms in music were primitive. That they were based on small attention. They were based on a convention.」（然後我覺得音樂裡的記憶形式很原始。它們建立在短的注意力上，建立在慣例上。）並說：「‘What would happen if you got rid of the ABA forms? What happens?’」（如果拿掉 ABA 形式會怎樣？）
+  - 回來的段落每次都不同，靠飽和被接受：「For example, there is one section in the second String Quartet which comes back all the time. Every time it comes back now, the modules are different than any time before. But if I did it the first time, it would be less acceptable for your ear. As it becomes saturated and saturated, you accept it more and more and more.」（第二號弦樂四重奏有一段一直回來。每次回來，模組都和以前任何一次不同。但如果我第一次就這樣做，你的耳朵比較不能接受。隨著它越來越飽和，你越來越能接受。）
+  - 回來的不是主要材料：「The only problem is that one might think that what comes back is hierarchical material. What usually comes back is the material I wasn’t sure about and wanted to hear again, because of the taste.」（問題是有人會以為回來的是有層級的主要材料。通常回來的是我沒把握、想再聽一次的材料，出於品味。）這段是回應有人問 Walter Zimmermann 把整部四重奏畫成「Muster Teppich」（地毯圖樣）圖表。
+  - 長度改變能放進去的材料：「There are things in this piece that I never would have put in a shorter piece.」（這件作品裡有些東西，我在短作品裡絕不會放。）
+  - 段落長度不是預設的：「Many times the reason the passage is very long is because it’s not that I’m thinking about its natural length.」他把自己比作「somebody looking at a slide」（看著顯微鏡玻片的人）。
+  - 普魯斯特式的素材崩解：「This piece is also that when you first get material, you’re idealistic. And what happens in this piece, there’s a disintegration of it, like in Proust.」（這件作品也是：剛拿到材料時你是理想化的，然後在作品裡它崩解了，像普魯斯特。）
+  - 地毯 abrash 用於音高拼寫與重複：「So it’s the same, but yet it’s not the same.」（所以它一樣，但又不一樣。）
+- 對創作者的用處：3 小時演出裡，哪些素材會回來？回來時改了什麼？回來的是你最有把握的主題，還是你沒把握、想再看一次的東西？有沒有哪些素材只有在長版本才放得進去，放進 20 分鐘版本就顯得太平淡？
+- 常見誤用：只引「有時間有錢」當 Feldman 長度的全部理由。同一場講座他用了更多篇幅講記憶形式、飽和、段落回來時的變化；「有錢」那句是在笑聲中說的。
+
+### Feldman, 1986, Speaking of Music（與 Charles Amirkhanian 對談）
+
+- 來源：Morton Feldman 與 Charles Amirkhanian 對談，Exploratorium "Speaking of Music" 系列，San Francisco，30 January 1986；Alex Grimley 謄稿，Chris Villars 站首次刊出。http://web.archive.org/web/20230106074747/https://www.cnvill.net/mfspeakingofmusic1986.pdf
+- 讀取程度：全文（對談謄稿，19 頁）
+- 主張：
+  - 長作品與飽和：「I like the long pieces for the same reason you like Proust—is that you don’t drink it, you sip it.」（我喜歡長作品的理由和你喜歡普魯斯特一樣：你不是一口喝掉，是小口啜飲。）
+  - 地毯反覆浸染與聆聽：「And it’s the same thing with the whole experience of listening to it. You’re just saturated.」（整個聆聽經驗也是一樣。你就是被浸透了。）前文講深藍色要反覆浸染多次才得到。
+  - 寫的時候是聽者：「Remember, I’m the listener as I’m writing it. I don’t feel that I’m a composer; I do feel that I’m a listener.」（記得，我寫的時候是聽者。我不覺得自己是作曲家，我覺得自己是聽者。）
+  - 自述 String Quartet No. 2 的長度：「I always felt it was an eternal punishment when I went with the Kronos and I had to hear my five-hour string quartet three places.」（跟 Kronos 巡演、在三個地方聽我那首五小時的弦樂四重奏，我一直覺得是永恆的懲罰。）
+  - 談《Piano and String Quartet》時說另一個技術面是聽到材料的速度變化：「And these broken chords finally come back for about twenty minutes, very slow」（這些分解和弦最後回來約二十分鐘，非常慢）。
+- 對創作者的用處：「啜飲」是單位時間內的資訊密度問題。可以問：你的 90 分鐘裡，每分鐘要觀眾處理多少新東西？如果密度一直很高，觀眾是在啜飲還是在灌？
+- 常見誤用：把「saturated」理解成音量或密度飽和。他講的是同一材料反覆浸染的深度，對照的是低音量、慢速的作品。
+
+### Villars, Note on the Early Performance History of Morton Feldman's Second String Quartet
+
+- 來源：Chris Villars, "Note on the Early Performance History of Morton Feldman's Second String Quartet"（引用資料最晚到 2013 年）http://web.archive.org/web/20160409043430/http://www.cnvill.net/mfsq2perfs.htm ；補充：Wikipedia "Morton Feldman" https://en.wikipedia.org/wiki/Morton_Feldman
+- 讀取程度：全文（Villars 研究短文）；Wikipedia 部分為二手轉述
+- 主張：
+  - 「Played in full, the second quartet would normally last around five to six hours.」（完整演出通常約五到六小時。）
+  - 1983 年 12 月 4 日多倫多首演由 CBC 現場轉播，時段固定四個半小時，Feldman 以刪除多處反覆的方式準備了縮短版總譜，Kronos 讓作品成為「a four hour quartet」。Kronos 在 1980 年代演出六次，都用縮短版。
+  - 第一次完整演出：Auryn Quartet，Hamburg NDR，1996 年 2 月 3 日。
+  - Wikipedia（二手）：*For Philip Guston*（1984）約四小時；String Quartet II 寫作「over six hours long without a break」；並引 1982 年講座：「Do we have anything in music for example that really wipes everything out? That just cleans everything away?」
+  - 更正：本條目舊版只依 Wikipedia 寫「over six hours long without a break」。依 Villars，Feldman 生前的演出都是約四到四個半小時的縮短版；Feldman 1986 年自述為「five-hour string quartet」。
+- 對創作者的用處：作品長度在實際演出中會被場地與轉播時段改寫，Feldman 刪的是反覆，不是段落。可以問：你的 3 小時版本如果只給 90 分鐘，你刪什麼？刪反覆和刪段落，哪一種還是同一件作品？
+- 常見誤用：說 Kronos 1980 年代的演出是六小時；或說 Feldman 要求觀眾六小時不動。本 session 讀到的來源都沒有後者的說法。
 
 ### 蔡明亮，《行者》系列（2012–）
 
@@ -279,7 +337,8 @@
 | 多重投影的目的 | VanDerBeek、Youngblood：集體意識、全球溝通 | Shaw 1967：投影面本身的物質與觀眾身體 | 「沉浸」這個詞兩邊都不用；問自己的圓頂到底為了什麼 |
 | 樂器效率 | Jordà：輸入複雜度低、輸出複雜度高、演出者自由大 | Levin：直控優於遙控，即使遙控系統也是現場的 | 高效率的視覺系統如果是遙控的，觀眾看不出效率；兩個條件要同時滿足 |
 | 素材量與長時段 | Makela 2013：少素材當樂器演，presentation time 遠超實際長度 | Marclay：素材量極大，但結構來自外部時鐘規則 | 長時段不是素材問題，是參照系問題：內部重複或外部同步 |
-| 長時段的觀眾狀態 | Richter：預設觀眾睡著；Young：觀眾自由進出 | Feldman：六小時不中斷坐著聽；Marclay：排隊、整點離場 | 你要觀眾的身體在哪個狀態？這決定結構，不是反過來 |
+| 長時段的觀眾狀態 | Richter：預設觀眾睡著；Young：觀眾自由進出 | Feldman：五到六小時坐著聽（生前 Kronos 演出為約四小時縮短版），他要的狀態是「saturated」；Marclay：排隊、整點離場 | 你要觀眾的身體在哪個狀態？這決定結構，不是反過來 |
+| 長時段靠什麼讓觀眾記得結構 | 古典回歸形式：Feldman 1984 稱音樂的 memory forms「based on small attention」，ABA 讓人認出回來的東西 | Feldman 1981／1984：「formalizing a disorientation of memory」，回來的段落每次模組不同，靠飽和被接受；scale 不等於各段相加 | 你的回歸是要觀眾認出來，還是要觀眾以為認出來？兩者需要不同的改動幅度 |
 | 擴延電影是什麼 | Youngblood：意識擴張的技術願景 | Weibel／Export：對電影機制部件的行動式拆解 | 說「擴延電影」時要講清楚是哪一種，否則只是大投影 |
 | 作品留下什麼 | Moritz／Alexander 2022：always only once，錄影不是作品 | 同一作者：歷史化依賴文件 | 演出前決定紀錄策略，不然二十年後作品就是那段手機影片 |
 
@@ -314,7 +373,8 @@
 - Joshua White 本人訪談、Rolling Stone 專文：未讀，Joshua Light Show 條目為百科二手。
 - Weibel 本人的擴延電影論文、Valie Export 相關文本：只讀到 ZKM 機構簡介。
 - La Monte Young／Zazeela 的 Dream House 原始文本：MELA Foundation 頁面只讀到標題；Kyle Gann 文章連結失效；條目為百科二手。
-- Morton Feldman〈Crippled Symmetry〉（1981）原文：未讀；條目只有作品長度與一句講座引文。
+- Morton Feldman〈Crippled Symmetry〉（1981）英文原文：讀到法譯全文（Villars 站 PDF，經 Wayback），英文只讀到 Rockwell、Wilhoite、Harrison 引用的段落。嘗試過：cnvill.net/mfcrippled.htm、mfdarm84.htm、mfbetween.htm、mfanxiety.htm（cnvill.net 網域現為賭博站，皆回 403；Wayback 無這些檔名的快照）；archive.org《Give My Regards to Eighth Street》（givemyregardstoe0000feld）為借閱限制，全文檔與 search-inside 皆無法取用；monoskop.org/Morton_Feldman 回 404；WebSearch 額度用完。常見引文「Up to one hour you think about form, but after an hour and a half it's scale」未在任何抓回的文本中找到，未寫入。
+- Feldman〈Between Categories〉、〈The Anxiety of Art〉：同收於《Give My Regards to Eighth Street》，未找到開放全文，未讀。
 - 蔡明亮本人關於《行者》的訪談：中英文來源皆未開啟；條目為百科二手。
 - Max Richter *Sleep*：只有百科轉述，未讀 Richter 原始訪談或 liner notes 全文。
 - Sergi Jordà 博士論文 *Digital Lutherie*（2005）：tdx.cat 回傳 403，只讀 NIME 2004 論文。

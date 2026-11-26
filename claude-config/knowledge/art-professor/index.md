@@ -1,26 +1,26 @@
 # art-professor 知識庫目錄
 
-建立日期：2026-11-25（01–06 章）；同日擴充 07–18 章。各章由獨立 research agent 從開放取用來源整理，每條論點標註來源與讀取程度（全文 / 部分 / 摘要 / 二手轉述）。
+建立日期：2026-11-25（01–06 章）；同日擴充 07–18 章；2026-11-26 補缺口（v3）。各章由獨立 research agent 從開放取用來源整理，每條論點標註來源與讀取程度（全文 / 部分 / 摘要 / 二手轉述）。
 
 | 檔案 | 主題 | 回答哪類問題 | 來源數 | 全文比例 |
 |---|---|---|---|---|
 | 01_meaning.md | 作品的「意義」怎麼成立 | 作品與 demo 的差別在哪、「關於」是否被形式承載、觀眾要做什麼工作、技術是手段還是過程 | 13 | 8 全文 |
-| 02_concept_rule_process.md | 概念、規則、過程 | 作品的位置在構想／規則／執行／輸出的哪一層、用系統或機遇的理由、藝術家的決定落在哪 | 16 | 12 全文 |
-| 03_media_art_critique.md | 媒體藝術的批評傳統 | 「用技術」和「思考技術」的差別、互動／沉浸／即時算不算內容、tech demo 與作品的界線 | 27 | 16 全文 |
-| 04_liveness_audience.md | 現場、表演、觀眾 | 現場性由誰判定、看不見因果會不會被當成播放、投影讓觀眾主動還是被動、生成／預編／即興的差別 | 18 | 8 全文 |
-| 05_sound_image.md | 聲音與影像的對應 | 連結來自對應還是同步、軸線指派的理由、可聽化／樂譜／機器輸入三種標準、換輸入影像作品是否仍成立 | 23 | 15 全文 |
-| 06_critique_method.md | 藝術批評與指導的方法 | 教授怎麼進行評圖：描述→詮釋→判斷、何時保留意見、如何用理論不掉書袋、如何偵測「技術就是內容」、如何結尾 | 21 | 6 全文 |
+| 02_concept_rule_process.md | 概念、規則、過程 | 作品的位置在構想／規則／執行／輸出的哪一層、用系統或機遇的理由、藝術家的決定落在哪 | 18 | 14 全文 |
+| 03_media_art_critique.md | 媒體藝術的批評傳統 | 「用技術」和「思考技術」的差別、互動／沉浸／即時算不算內容、tech demo 與作品的界線 | 29 | 19 全文 |
+| 04_liveness_audience.md | 現場、表演、觀眾 | 現場性由誰判定、看不見因果會不會被當成播放、投影讓觀眾主動還是被動、生成／預編／即興的差別 | 19 | 8 全文 |
+| 05_sound_image.md | 聲音與影像的對應 | 連結來自對應還是同步、軸線指派的理由、可聽化／樂譜／機器輸入三種標準、換輸入影像作品是否仍成立 | 25 | 16 全文 |
+| 06_critique_method.md | 藝術批評與指導的方法 | 教授怎麼進行評圖：描述→詮釋→判斷、何時保留意見、如何用理論不掉書袋、如何偵測「技術就是內容」、如何結尾 | 20 | 7 全文 |
 | 07_photographic_image.md | 攝影與影像本體 | 一張／一段影像為什麼「有東西」、記錄與觀點的差別、影像的指示性與真實 | 17 | 13 全文 |
 | 08_film_time.md | 電影理論與時間 | 鏡頭停多久、剪與不剪、長鏡頭與蒙太奇、時間怎麼留在影像裡 | 23 | 3 全文＋16 原文節錄 |
 | 09_experimental_diary_essay.md | 實驗電影、日記電影、散文電影 | 自己拍的素材怎麼成為作品、個人記錄與作品的界線、結構電影為什麼把形式當內容 | 23 | 7 全文 |
 | 10_place_city_walking.md | 地方、城市、漫遊 | 在某個城市拍到的素材和在別處差在哪、旅行者與居民的影像、走路作為方法 | 24 | 13 全文 |
 | 11_abstract_visual_music.md | 抽象影像與視覺音樂 | 非具象動態畫面怎麼不變成螢幕保護程式、抽象從哪裡來、「漂亮」和「成立」的差別 | 22 | 12 全文 |
-| 12_east_asian_aesthetics.md | 東亞美學 | 氣韻、留白、幽玄、間能不能用在動態影像、形似與神似、這些概念怎麼被浪漫化誤用 | 22 | 5 全文＋14 原文節錄 |
+| 12_east_asian_aesthetics.md | 東亞美學 | 氣韻、留白、幽玄、間能不能用在動態影像、形似與神似、這些概念怎麼被浪漫化誤用 | 23 | 5 全文＋15 原文節錄 |
 | 13_generative_authorship.md | 生成藝術與作者性 | 演算法輸出的作者在哪、什麼時候變成「餵什麼都一樣」、資料集的作者性 | 20 | 16 全文 |
 | 14_artists_on_material.md | 藝術家談自己怎麼選素材 | 一手訪談：為什麼拍這個、留什麼、丟什麼、什麼時候知道素材「有東西」 | 24 | 13 全文 |
-| 15_body_matter_affect.md | 身體、物質、情動 | 觀眾身體實際感覺到什麼、觸覺視覺、噪訊與解析度怎麼被感知、「感覺」怎麼被討論 | 22 | 3 全文＋7 原文節錄 |
-| 16_live_visuals_expanded_cinema.md | 現場視覺與擴延電影 | VJ／live cinema／audiovisual performance 的差別、投影為什麼常只是背景、長時段演出的結構 | 22 | 10 全文 |
-| 17_case_library.md | 作品案例庫 | 74 件具體作品：做了什麼決定、為什麼成立、常被誤讀成什麼、拿來問學生什麼。分 A 素材成作品／B 錄像裝置／C 聲音影像／D 生成系統／E 現場時間／F 地方漫遊／G 東亞台灣 | 74 件 | 一手 41 |
+| 15_body_matter_affect.md | 身體、物質、情動 | 觀眾身體實際感覺到什麼、觸覺視覺、噪訊與解析度怎麼被感知、「感覺」怎麼被討論 | 22 | 3 全文＋8 原文節錄 |
+| 16_live_visuals_expanded_cinema.md | 現場視覺與擴延電影 | VJ／live cinema／audiovisual performance 的差別、投影為什麼常只是背景、長時段演出的結構 | 25 | 14 全文 |
+| 17_case_library.md | 作品案例庫 | 75 件具體作品：做了什麼決定、為什麼成立、常被誤讀成什麼、拿來問學生什麼。分 A 素材成作品／B 錄像裝置／C 聲音影像／D 生成系統／E 現場時間／F 地方漫遊／G 東亞台灣 | 75 件 | 一手 42 |
 | 18_self_questions.md | 創作者的自我提問 | 由 01–17 章歸納的 128 個可當場回答的問題，依拍攝前／拍攝中／看素材／交給系統前／聲畫對應／演出前／寫說明／完成後八個階段排列；另有 25 列「創作者常說的話 → 教授追問 → 依據章」對照表 | 無新來源 | 歸納 01–17 |
 
 每章結構相同：核心問題 → 論點（每來源一節：來源、讀取程度、主張、對創作者的用處、常見誤用）→ 論點之間的對立 → 可以問學生的問題 → 本章缺口。例外：18 章無來源節，只有問題與對照表；06 章末尾為「教授的對話規則」（第 1–6 節為文獻規則，第 7 節「表達方式」為 2026-11-25 依創作者回饋新增）；17 章每件作品一節（作品是什麼／來源／做了什麼決定／為什麼成立／常被誤讀／拿來問學生）。
@@ -31,9 +31,9 @@
 
 | 章 | 缺口 |
 |---|---|
-| 01 | Danto《Transfiguration of the Commonplace》、Dickie 原著、Bourriaud 英文版、Adorno《Aesthetic Theory》 |
-| 02 | Lippard & Chandler 1968、Ono《Grapefruit》原書、Marius Watz |
-| 03 | Krauss 兩篇原文、Paul《Digital Art》2003、Groys《Art Power》（僅出版社簡介，MIT 官網／試讀 403）、Groys《In the Flow》其餘章節與書評（Verso 試讀、Brooklyn Rail／Frieze／LARB 未取得；已讀 e-flux 版〈Entering the Flow〉全文、〈On Art Activism〉節錄） |
-| 04 | Auslander 1999/2008 原書、Fischer-Lichte 原書、Emmerson 2007 內文、Ostertag 2002 原文 |
-| 05 | Hermann 2008 全文、Supper 2014 全文、McLaren 一手文本、Xenakis《Formalized Music》、Ikeda／Alva Noto 一手訪談 |
-| 06 | Elkins《Art Critiques: A Guide》原書、Black Mountain College 專門來源、Feldman 原著 |
+| 01 | Danto《Transfiguration of the Commonplace》、Dickie 原著、Bourriaud 英文版、Adorno《Aesthetic Theory》（2026-11-26 再查：英文開放全文仍未找到） |
+| 02 | 已補：Lippard & Chandler 1968（節錄）、Ono《Grapefruit》（全文）、Watz 2010（全文）、Haacke 1965／1967 聲明 |
+| 03 | Krauss 兩篇原文、Paul《Digital Art》2003、Groys《Art Power》其餘各篇（已讀〈Art in the Age of Biopolitics〉〈From Image to Image File〉兩篇全文）、Groys《In the Flow》其餘章節與書評 |
+| 04 | Auslander 1999/2008 原書、Fischer-Lichte 原書、Emmerson 2007 內文、Ostertag 2002 原文（已補 Ostertag 1996 全文、Reeves 2005 全文） |
+| 05 | Supper 2014 全文、McLaren 一手文本、Cook 1998 正文（只讀到各章開頭段）（已補 Hermann 2008 全文、Supper 2012 節錄、Xenakis 節錄） |
+| 06 | Elkins《Art Critiques》其餘章節（已讀第 30 節）、E. B. Feldman 原著（已補 Albers 1934 全文） |

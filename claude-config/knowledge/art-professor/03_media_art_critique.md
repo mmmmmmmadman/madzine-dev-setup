@@ -1,7 +1,7 @@
 # 03 媒體藝術的批評傳統
 
 > 讀取程度標記：「全文」＝本次實際讀過原文（含作者公開草稿版）；「部分全文」＝只讀了原文中的特定章節；「原文節錄」＝只取得原文中的若干句子，未讀全篇；「摘要」＝只讀到出版社簡介或書目頁，未讀內文；「二手轉述」＝只讀了書評、註解或他人轉引。引文只取自標為全文／部分全文／原文節錄的來源；二手來源中的引文會註明轉引自何處。
-> 未讀：Christiane Paul《Digital Art》(Thames & Hudson, 2003) 本次未取得，不列條目。Krauss 兩篇與 Shanken《Art and Electronic Media》、Popper 只有二手來源。Groys《Art Power》(MIT 2008) 只取得出版社簡介（MIT 官網與試讀 PDF 回 403／404）；Groys《In the Flow》(Verso 2016) 只讀到 e-flux 上的章節原型（〈Entering the Flow〉全文、〈On Art Activism〉節錄）與 Google Books 書目頁的目錄，Verso 試讀與 Brooklyn Rail／Frieze／LARB 書評未取得（WebSearch 配額用盡，直接抓取回 403）。
+> 未讀：Christiane Paul《Digital Art》(Thames & Hudson, 2003) 本次未取得，不列條目。Krauss 兩篇與 Shanken《Art and Electronic Media》、Popper 只有二手來源。Groys《Art Power》(MIT 2008) 已取得 archive.org 上的掃描本 OCR 全書文字，本次只讀〈Art in the Age of Biopolitics〉與〈From Image to Image File—and Back〉兩篇全文及目錄、出處表，其餘各篇（含〈On the New〉〈The Logic of Equal Aesthetic Rights〉〈Iconoclasm as an Artistic Device〉〈Multiple Authorship〉）未讀；Documenta 11 圖錄德文原版未見（MIT 官網與試讀 PDF 回 403／404，Google Books API 回 429，WebSearch 配額用盡）；Groys《In the Flow》(Verso 2016) 只讀到 e-flux 上的章節原型（〈Entering the Flow〉全文、〈On Art Activism〉節錄）與 Google Books 書目頁的目錄，Verso 試讀與 Brooklyn Rail／Frieze／LARB 書評未取得（WebSearch 配額用盡，直接抓取回 403）。
 
 ## 核心問題
 
@@ -130,14 +130,47 @@
 
 ### Groys, 2008, *Art Power*
 
-- 來源：Boris Groys, *Art Power*, Cambridge, MA: MIT Press, 2008（Open Library 記錄精裝 ISBN 9780262072922、224 頁；平裝 2013 ISBN 9780262518680）。本次只讀到 Google Books 書目頁：https://books.google.it/books?vid=ISBN9780262072922 ；MIT Press 官網（https://mitpress.mit.edu/9780262518680/art-power/ ）與試讀 PDF 均回 403／404；Open Library 書目：https://openlibrary.org/search.json?q=groys+art+power
-- 讀取程度：摘要（出版社簡介一句；目錄與內文均未取得）
-- 主張（依出版社簡介）：
-  - 簡介原句："Art has its own power in the world, and is as much a force in the power play of global politics today as it once was in the arena of cold war politics."（直譯：藝術在世界上有自己的力量，在今日全球政治的權力角力中是一股力量，正如它過去在冷戰政治場域中那樣。）
-  - 簡介稱本書以意識形態功能看現代與當代藝術，對象包括極權、社會主義、後共產主義體制下的藝術，以及西方主流藝術的宣傳面向。
-  - 書中各章標題、「藝術文件」（art documentation）、「平等美學權利」等常被引用的說法，本次沒有讀到原文，不列。
-- 對創作者的用處：目前只能確認本書的範圍（藝術與政治權力）。要和學生談「作品是宣傳還是藝術」時，這本書是待讀來源，不是可引用來源。
-- 常見誤用：在沒讀過內文的情況下拿「Art Power」書名當作「藝術有力量」的口號引用。本條只有一句簡介，不能替任何關於藝術文件、裝置或策展的論點背書；需要時改引下列 Groys 2010、2013a、2013b 的全文。
+- 來源：Boris Groys, *Art Power*, Cambridge, MA: MIT Press, 2008（精裝 ISBN 978-0-262-07292-2、224 頁；平裝 2013 ISBN 9780262518680）。本次取得 archive.org 上使用者上傳的掃描本 OCR 文字：https://archive.org/details/art-power-boris-groys （文字檔 https://archive.org/download/art-power-boris-groys/Art_Power_Boris_Groys_djvu.txt ）。掃描本版權頁為 MIT Press 2008、ISBN 978-0-262-07292-2，與精裝版一致。頁碼依掃描本頁首推算；OCR 有錯字（如 "is" 被辨識為 "zs"），含錯字的句子不引用。前次嘗試：MIT Press 官網（https://mitpress.mit.edu/9780262518680/art-power/ ）與試讀 PDF 回 403／404，Google Books 書目頁（https://books.google.it/books?vid=ISBN9780262072922 ）只有簡介，Google Books API 回 429。
+- 讀取程度：原文節錄（全書 OCR 文字已取得；本次讀了目錄、書末 Sources 出處表，以及〈Art in the Age of Biopolitics〉與〈From Image to Image File—and Back〉兩篇全文，兩篇另立條目如下；其餘各篇未讀）
+- 目錄（掃描本原文，括號內為起始頁）：Introduction (1)；Part I：The Logic of Equal Aesthetic Rights (13)；On the New (23)；On the Curatorship (43)；Art in the Age of Biopolitics: From Artwork to Art Documentation (53)；Iconoclasm as an Artistic Device: Iconoclastic Strategies in Film (67)；From Image to Image File—and Back: Art in the Age of Digitalization (83)；Multiple Authorship (93)；The City in the Age of Touristic Reproduction (101)；Critical Reflections (111)；Part II：Art at War (121)；The Hero's Body: Adolf Hitler's Art Theory (131)；Educating the Masses: Socialist Realist Art (141)；Beyond Diversity: Cultural Studies and Its Post-Communist Other (149)；Privatizations, or Artificial Paradises of Post-Communism (165)；Europe and Its Others (173)；Notes (183)；Sources (189)。
+- 各篇原發表處（書末 Sources 節錄）：〈The Logic of Equal Aesthetic Rights〉原題 "The Politics of Aesthetic Equal Rights"，刊於 *Resistencia/Resistance*（SITAC, Mexico, 2004）；〈On the New〉原刊 *Research Journal of Anthropology and Aesthetics*, no. 38 (autumn 2000): 5–17；〈On the Curatorship〉原題 "The Curator as Iconoclast"，刊於 *Cautionary Tales: Critical Curating*（Apexart, 2007）；〈Art in the Age of Biopolitics〉原為 Documenta 11_Plattform 5 圖錄德文稿（2002，見下條）；〈Iconoclasm as an Artistic Device〉原刊 *Iconoclash*（MIT Press, 2002）；〈From Image to Image File—and Back〉原題 "Art in the Digital Age"，2006 年雪梨雙年展演講，未出版；〈Multiple Authorship〉原刊 *The Manifesta Decade*（MIT Press, 2005）；〈Critical Reflections〉原刊 *Artforum*（October 1997）；〈Art at War〉原題 "The Fate of Art in the Age of Terror"，刊於 *Making Things Public*（MIT Press, 2005）；〈Europe and Its Others〉未曾發表。
+- 主張：
+  - 出版社簡介原句（前次自 Google Books 書目頁取得）："Art has its own power in the world, and is as much a force in the power play of global politics today as it once was in the arena of cold war politics."（直譯：藝術在世界上有自己的力量，在今日全球政治的權力角力中是一股力量，正如它過去在冷戰政治場域中那樣。）
+  - 與現場演出、即時生成、數位影像直接相關的是第一部的兩篇，論點見下兩條。第二部（戰爭、納粹與社會主義寫實藝術、後共產主義）本次未讀。
+- 對創作者的用處：要和學生談演出文件、錄影展出、數位作品每次顯示的差異時，引下兩條（各有頁碼）。要談「作品是宣傳還是藝術」時，本書第二部是相關來源，但本次未讀，不能引。
+- 常見誤用：拿「Art Power」書名當作「藝術有力量」的口號引用。另一個誤用是把單篇論點當作全書主旨：本書是 1997–2007 年間單篇文章與演講的合集（見上列出處），各篇論點不一定互相推導。〈The Topology of Contemporary Art〉不在本書目錄中，不要標成本書章節。
+
+### Groys, 2002 / 2008, "Art in the Age of Biopolitics: From Artwork to Art Documentation"（《Art Power》第一部第 4 篇）
+
+- 來源：原以德文發表為 "Kunst im Zeitalter der Biopolitik. Vom Kunstwerk zur Kunstdokumentation," in *Katalog*, ed. Okwui Enwezor et al., pp. 107–113, Documenta 11_Plattform 5, Hatje Cantz, 2002（依《Art Power》書末 Sources；書中編者名拼作 "Enwesor"）。英譯 Steven Lindberg，收入 *Art Power*, pp. 53–65。本次讀的是英譯書版（archive.org 掃描本 OCR，https://archive.org/details/art-power-boris-groys ）；德文原版未見，兩版是否有改動無法比對。
+- 讀取程度：全文（英譯書版該篇）
+- 主張：
+  - p. 53："Art documentation is by definition not art; it merely refers to art, and in precisely this way it makes it clear that art, in this case, is no longer present and immediately visible but rather absent and hidden."（直譯：藝術文件依定義不是藝術；它只是指向藝術，而正是以這種方式，它表明了藝術在此情況下不再在場、不再直接可見，而是缺席、隱藏的。）
+  - 文件有兩種。一種指向演出、臨時裝置、偶發，事後展出以回憶它們；Groys 說 "Whether such recollecting is really possible is, of course, an open question."（p. 53，直譯：這種回憶是否真的可能，當然是個未決的問題。）另一種不宣稱再現任何過去事件，對象是介入日常生活、長期的討論與分析、創造特殊的生活情境等活動，這些活動只能透過文件呈現。p. 54："Correspondingly, art documentation is neither the making present of a past art event nor the promise of a coming artwork, but rather is the only possible form of reference to an artistic activity that cannot be represented in any other way."（直譯：相應地，藝術文件既不是讓過去的藝術事件再次在場，也不是對將來作品的預告，而是指向一種無法以其他方式再現的藝術活動的唯一可能形式。）
+  - p. 54："Art becomes a life form, whereas the artwork becomes non-art, a mere documentation of this life form."（直譯：藝術成為一種生活形式，而作品成為非藝術，只是這種生活形式的文件。）他稱此為藝術變得「生命政治的」。
+  - p. 55："Life itself as pure activity, as pure duration, is thus fundamentally inaccessible to the traditional arts, which remain oriented toward products or results in one form or another."（直譯：作為純粹活動、純粹延續的生命本身，因此根本上是傳統藝術觸及不到的，傳統藝術始終以某種形式的產品或結果為導向。）
+  - p. 56："Now, however, time, duration, and thus life as well cannot be presented directly but only documented."（直譯：然而，時間、延續，因而生命也是，無法被直接呈現，只能被記錄。）同頁："The dominant medium of modern biopolitics is thus bureaucratic and technological documentation"（直譯：現代生命政治的主導媒介因此是官僚與技術的文件），藝術在指涉自身為生命時使用同一種媒介。
+  - p. 57："life can be documented but not shown."（直譯：生命可以被記錄，但不能被展示。）
+  - 技術文件與藝術文件的區分，p. 57："The technical documentation is, incidentally, never constructed as history but always as a system of instructions for producing particular objects under given circumstances. The artistic documentation, whether real or fictive, is, by contrast, primarily narrative, and thus it evokes the unrepeatability of living time."（直譯：技術文件從不被建構為歷史，而總是一套在給定條件下產生特定物件的指令系統。相對地，藝術文件，不論真實或虛構，主要是敘事的，因此喚起活的時間的不可重複性。）
+  - 例子：莫斯科集體行動小組（Kollektivnye Deystviya）在雪地的演出只透過照片與參與者的敘述文字流傳；Sophie Calle〈Les aveugles〉；Carsten Höller 2001 年在布魯塞爾原子塔的演出。Groys 以 Höller 對照電視實境節目 Big Brother：電視一再顯示被關起來的人，觀眾反而懷疑操弄；Höller 的演出不被展示，只由參與者的敘述記錄。p. 60："Here, then, life is understood as something narrated and documented but unable to be shown or presented. This lends the documentation a plausibility of representing life that a direct visual presentation cannot possess."（直譯：在這裡，生命被理解為被敘述、被記錄，但無法被展示或呈現的東西。這使文件具有一種再現生命的可信度，是直接的視覺呈現所不能擁有的。）
+  - 後半節 "Topology of the Aura" 改寫 Benjamin 的靈光：原作與複本的差別是場所的差別，不是物質的差別；裝置給文件一個場所。p. 64："If reproduction makes copies out of originals, installation makes originals out of copies."（直譯：如果複製把原作變成複本，裝置就把複本變成原作。）同頁："To be an original and possess an aura means the same thing as to be alive."（直譯：是原作、擁有靈光，與活著是同一件事。）
+- 對創作者的用處：對現場演出與即時生成作品，這篇給出四個可以直接問的問題。(1) 你的文件屬於哪一種：回憶一場已經發生的演出（Groys 認為這種回憶是否可能本身是未決問題），還是作品本來就是一段活動，文件是唯一能指向它的形式？(2) 技術文件與藝術文件：程式碼、patch、參數紀錄是「在給定條件下產生特定物件的指令系統」，可以重跑，但不會讓某一場變成不可重複的那一場。你有沒有留下敘事——誰在場、發生了什麼、哪裡出了錯？(3) 錄影還是敘述：Groys 說一再顯示的影像反而招來懷疑，只靠敘述的文件更可信。你的演出全程錄影，是在做 Big Brother 做的事嗎？(4) 在展場放演出錄影時，你有沒有給它一個場所（裝置、觀眾的移動路線），還是只是把一支影片放上螢幕？
+  與本章 Groys 2013a、2013b 連讀（以下是整理者的對照，不是 Groys 的原話）：本篇（2002）的文件是藝術家選擇的形式，要靠敘事與裝置的場所才能指向生命；2013a 說網路上「創作過程的文件已經就是作品」，而且「每一次執行都被標上日期並存檔」；2013b 說攝影機的視線與觀眾不對稱，文件帶著鄉愁。三篇放在一起可以問學生：網路自動留下的紀錄，按本篇的區分比較接近技術文件（指令、監視紀錄），還是敘事的藝術文件？自動存檔能不能讓一場演出成為不可重複的那一場？
+- 常見誤用：把「文件不是藝術」讀成貶低文件。Groys 同時說 "to categorize art documentation as “simple” artwork would be to misunderstand it"（p. 54，直譯：把藝術文件歸類為「簡單的」作品，是誤解它），文件的特徵正在於它指向不在場的藝術活動。第二，把 biopolitics 讀成基因工程或生物藝術：Groys 明說 "Biopolitics is often confused with scientific and technical strategies of genetic manipulation"（p. 55，直譯：生命政治常被與基因操作的科學技術策略混淆），他認為那些仍是設計，生命政治的重點是對生命時間（lifespan）的塑造。第三，把「裝置把複本變成原作」當作任何錄影上牆都自動有靈光：他的論證依賴場所與觀眾的移動（裝置把觀眾變成漫遊者 flâneur，pp. 63–64），不是依賴螢幕本身。
+
+### Groys, 2006 / 2008, "From Image to Image File—and Back: Art in the Age of Digitalization"（《Art Power》第一部第 6 篇）
+
+- 來源：原題 "Art in the Digital Age"，2006 年雪梨雙年展演講，未出版（依《Art Power》書末 Sources）；收入 *Art Power*, pp. 83–91。本次讀的是書版（archive.org 掃描本 OCR，https://archive.org/details/art-power-boris-groys ）。
+- 讀取程度：全文（書版該篇）
+- 主張：
+  - 數位影像是不可見資料的可見複本。p. 84："The digital image is a visible copy of the invisible image file, of the invisible data."（直譯：數位影像是不可見的影像檔、不可見資料的可見複本。）
+  - p. 85："The digital image is a copy—but the event of its visualization is an original event, because the digital copy is a copy that has no visible original."（直譯：數位影像是複本——但它被視覺化的事件是一個原初事件，因為數位複本是一個沒有可見原作的複本。）同頁："Thus one can say that digitalization turns the visual arts into a performing art."（直譯：因此可以說，數位化把視覺藝術變成一種表演藝術。）並且 "Every performance is an interpretation and every interpretation is a betrayal, a misuse."（直譯：每一次表演都是一次詮釋，每一次詮釋都是一次背叛、一次誤用。）策展人因此 "becomes now not only the exhibitor but the performer of the image"（直譯：現在不只是影像的展出者，也是影像的表演者）。
+  - 硬體、軟體、螢幕、投影、手機與社會脈絡不同，同一個檔案每次顯示都不一樣。p. 87："And here, each presentation of a digitalized image becomes a re-creation of this image."（直譯：在這裡，數位化影像的每一次呈現都成為對這個影像的再創造。）
+  - 動態影像進入展場後，觀眾與作品都在移動。p. 89："In the case of a video installation, a struggle arises between the viewer and the artist over the control of the duration of contemplation."（直譯：在錄像裝置中，觀者與藝術家之間出現一場爭奪觀看時長控制權的鬥爭。）
+  - 技術條件可以當材料，p. 90："However, one can also use the technical constraints productively"（直譯：然而，也可以把技術限制用得有生產性），包括螢幕或投影面的材質與環境光。
+  - 結論，p. 91："There is no such thing as a copy."（直譯：沒有所謂的複本。）"The exhibition makes copying reversible: It transforms a copy into an original."（直譯：展覽使複製可逆：它把複本變成原作。）
+- 對創作者的用處：對即時生成與現場影像作品：每一場、每台投影機、每個場地都是一次搬演。問學生：你把哪些顯示條件（投影機型號、投影面材質、環境光、硬體世代）當作作品的一部分，哪些當作要排除的雜訊？觀眾在展場走動，作品要他們停多久，由誰決定？本篇與 Groys 2013a 連讀：2013a 的 "A digital image cannot be merely copied ... but always only newly staged or performed" 是本篇論點的延續，2013a 再加上「每一次執行都被標上日期並存檔」。本篇開頭把可自行流通的數位影像稱為 "a truly strong image"（p. 83，直譯：真正強的影像），隨即追問它能否在每次顯示中保持同一；這組強／弱影像的用語可與 Groys 2010〈The Weak Universalism〉對照。
+- 常見誤用：把 "There is no such thing as a copy" 讀成「數位作品每次都是原作，所以不用管顯示條件」。Groys 的結論相反：每次呈現都不同一、部分不可見，所以策展與呈現的選擇無法避免。也不要和 Steyerl 2009 混為一談：Steyerl 談複本在流通中畫質損失與影像階級，Groys 談每次顯示事件與不可見的原始資料之間的關係。
 
 ### Shanken, 2009, *Art and Electronic Media*
 
@@ -262,7 +295,7 @@
   - "A digital image cannot be merely copied (as an analogue, mechanically reproducible image can) but always only newly staged or performed. And every performance of a data file is dated and archived."（直譯：數位影像不能只是被複製（像類比的、機械可複製的影像那樣），而總是只能被重新搬演或執行。而資料檔的每一次執行都被標上日期並存檔。）
   - "Politics shapes the future by its own disappearance. Art shapes the future by its own prolonged presence. This creates a gap between art and politics"（直譯：政治以自身的消失塑造未來。藝術以自身延長的在場塑造未來。這在藝術與政治之間造成一道縫隙。）
   - 結尾："We are becoming more interested in the decontextualization and reenactment of individual phenomena from the past than in their historical recontextualization"（直譯：我們對過去個別現象的去脈絡化與重演，比對它們的歷史再脈絡化更感興趣。）
-- 對創作者的用處：對做現場演出或直播生成系統的學生，直接問：你的工作時間和觀眾的時間是同步的嗎？如果觀眾全程看得到過程，你還需要「作品」嗎？「過程就是產品」對你是解放還是壓力？另外，Groys 說數位影像每次顯示都是一次「執行」而且被存檔——你的即時生成作品每一場的差異，有沒有被你自己當成要保存的東西？
+- 對創作者的用處：對做現場演出或直播生成系統的學生，直接問：你的工作時間和觀眾的時間是同步的嗎？如果觀眾全程看得到過程，你還需要「作品」嗎？「過程就是產品」對你是解放還是壓力？另外，Groys 說數位影像每次顯示都是一次「執行」而且被存檔——你的即時生成作品每一場的差異，有沒有被你自己當成要保存的東西？這個「每次顯示都是搬演」的論點，Groys 在《Art Power》〈From Image to Image File—and Back〉(2006 演講) 已提出；「文件指向不能直接呈現的活動」則見〈Art in the Age of Biopolitics〉(2002)，兩條見上。
 - 常見誤用：把「網路不是流而是停止資料流的機器」當成比喻。Groys 的依據是具體的：每一次點擊、傳輸都被記錄並標上日期（他在文中用 "surveillance" 描述）。也不要只引「藝術家變成部落客」當作對自我行銷的嘲諷；Groys 在同段說這種重新同步「看起來讓事情變好而不是變壞」，他的態度不是單純否定。
 
 ### Groys, 2013b / 2016, "Entering the Flow: Museum between Archive and Gesamtkunstwerk"（《In the Flow》第 2 章）
@@ -372,6 +405,8 @@
 | 沉浸式展覽是否只是景觀 | Farago 2021、Henry 2021（自拍背景、娛樂產業） | The Courtauldian 2017（景觀批評帶歐洲中心視角） | 批評工具是否適用於不同文化脈絡的作品；後者未處理商業結構 |
 | 藝術在網路上的位置 | Steyerl 2013（流通主義：重點在後製、發布、加速） | Groys 2017（藝術成為作者真實活動的記錄，與其他網路資訊並列） | Steyerl 關心影像流通的政治；Groys 關心藝術的保存與日常化 |
 | 流動是加速還是存檔 | Steyerl 2013「流通主義」（本章；影像作為「跨越不同載體遷移的能量與物質節點」，藝術的重點移到後製、發布、加速） | Groys 2013a、2013b（藝術「讓形式本身變得流動」，但「以自我記錄的模式」流動；「網路不是資料流動的地方，而是讓資料流停止並反轉的機器」，每一次執行都被標上日期並存檔） | 兩人都從網路時代的影像出發。Steyerl 看到的是影像離開螢幕、持續遷移，問題是流通替誰服務；Groys 看到的是每一次流動都被記錄，流動化的結果是檔案化，問題是「消失」還有沒有發生。對現場演出與即時生成作品：Steyerl 會問你的畫面流出去之後變成什麼，Groys 會問你以為消失的東西是不是早就被存起來了 |
+| 數位影像是複本還是原作 | Steyerl 2009（貧窮影像是 "a copy in motion"，低解析度記錄挪用與移置） | Groys 2008〈From Image to Image File—and Back〉（"There is no such thing as a copy"；數位影像每次被視覺化都是一個原初事件，"digitalization turns the visual arts into a performing art"） | Steyerl 從流通路徑看複本的劣化與影像階級；Groys 從顯示事件看，每次的硬體、空間、脈絡不同，所以每次都是再創造。對即時生成作品：Steyerl 問畫面流出去之後被壓成什麼樣，Groys 問你在現場用什麼條件把不可見的資料搬演出來 |
+| 演出文件：影像還是敘事 | Groys 2013b（攝影機視線與現場觀眾不對稱，文件帶著鄉愁並引發重演欲望） | Groys 2008〈Art in the Age of Biopolitics〉（"life can be documented but not shown"；Höller 的演出只由參與者敘述，比一再顯示影像的 Big Brother 更可信；技術文件是指令，藝術文件是敘事） | 同一作者前後兩個重點。2002 年的文章把文件的可信度放在敘事與裝置的場所；2013 年的文章從攝影機紀錄出發，談鄉愁與重演。對現場演出：你的文件靠的是錄影還是敘述，各自缺了什麼 |
 
 ## 可以問學生的問題
 

@@ -70,21 +70,32 @@
 
 ### Lucy R. Lippard, 1973/1997, *Six Years: The Dematerialization of the Art Object from 1966 to 1972*（含 Lippard & Chandler 1968）
 
-- **來源**：Lucy R. Lippard, *Six Years: The Dematerialization of the Art Object from 1966 to 1972* (New York: Praeger, 1973; reprint Berkeley: University of California Press, 1997)，含 1997 年導言 "Escape Attempts"。PDF：https://saxophone-celery-xyrk.squarespace.com/s/Six-Years-The-Dematerialization-of-the-Art-Lucy-R-Lippard.pdf 。相關文章：Lucy R. Lippard and John Chandler, "The Dematerialization of Art," *Art International* 12, no. 2 (February 1968).
-- **讀取程度**：書：Preface 與 1997 導言 "Escape Attempts" 全文；書中年表正文未逐頁讀。1968 年 Lippard & Chandler 文章：未取得全文，僅經 Lippard 在 "Escape Attempts" 中的自述（二手轉述）。
+- **來源**：Lucy R. Lippard, *Six Years: The Dematerialization of the Art Object from 1966 to 1972* (New York: Praeger, 1973; reprint Berkeley: University of California Press, 1997)，含 1997 年導言 "Escape Attempts"。PDF：https://saxophone-celery-xyrk.squarespace.com/s/Six-Years-The-Dematerialization-of-the-Art-Lucy-R-Lippard.pdf 。相關文章：Lucy R. Lippard and John Chandler, "The Dematerialization of Art," *Art International* 12, no. 2 (February 1968), pp. 31–36；所讀為 Allen Fisher 整理的節錄打字本（以 "( ... )" 標示刪節，拼寫已改為英式 "dematerialisation"，有若干打字錯誤）：https://allenfisher.edublogs.org/files/2020/02/Lippard-and-Chandler-the-dematerialisation-of-art.pdf
+- **讀取程度**：書：Preface 與 1997 導言 "Escape Attempts" 全文；書中年表正文未逐頁讀。1968 年 Lippard & Chandler 文章：原文節錄（Fisher 節錄本全文讀過；被刪節的段落未讀；Monoskop 掃描本 https://monoskop.org/images/3/3a/Lippard_Lucy_R_Chandler_John_1968_1971_The_Dematerialization_of_Art.pdf 抽不出文字，未用）。
 - **主張**：
+  - 1968 文章（以下引文依 Fisher 節錄本的拼寫）：
+    - "The studio is again becoming a study."（工作室再次變成書房。）前文說越來越多作品在工作室設計、在別處由專業工匠執行，物件只成了最終產品。
+    - "Such a trend appears to be provoking a profound dematerialisation of art, especially of art as object, and if it continues to prevail, it may result in the objects becoming wholly obsolete."（這種趨勢似乎正在引發藝術的深度去物質化，特別是作為物件的藝術；若持續下去，物件可能完全過時。）
+    - 觀眾抱怨 "there is 'not enough to look at,' or rather not enough of what they are accustomed to looking for"（「沒有足夠的東西可看」，或者說，沒有足夠的他們習慣去找的東西）；"More time must be spent in experience of a detail-less work"（沒有細節的作品需要花更多時間去經驗）。文中以 Michael Snow 的影片 *Wavelength* 為例：45 分鐘的鏡頭緩慢推進，聲音單調地升高音高與音量。
+    - "Dematerialised art is post-aesthetic only in its increasingly non-visual emphases."（去物質化的藝術只在其日益非視覺的側重上是「後美學」的。）
+    - "Judgment of ideas is less interesting than following the ideas through."（判斷觀念的好壞，不如把觀念追到底有趣。）接著把觀念分為好（開放到能引出無限可能）、平庸（可窮盡）、壞（已經窮盡）三種。
+    - "As visual art, a highly conceptual work still stands or falls by what it looks like"（作為視覺藝術，高度觀念性的作品的成敗仍取決於它看起來怎樣）；"Intellectual and aesthetic pleasure can merge in this experience when the work is both visually strong and theoretically complex."（當作品在視覺上強、在理論上複雜時，智性的與美感的愉悅可以在這經驗中合一。）
   - Lippard 承認「去物質化」不準確：一張紙或一張照片與一噸鉛一樣是物件；她沿用此詞指「對物質面向（獨特性、永久性、裝飾吸引力）的弱化」。原文："for lack of a better term I have continued to refer to a process of dematerialization, or a deemphasis on material aspects (uniqueness, permanence, decorative attractiveness)."
   - 1969 年訪談中的說法：關鍵不是作品有多少物質性，而是藝術家拿它做什麼（"what the artist is doing with it"）。
   - 1997 導言的定義：觀念藝術指構想為首要、物質形式次要、輕量、短暫、廉價、不矯飾和/或「去物質化」的作品。
   - 論 LeWitt：概念比系統產生的視覺結果更重要的前提，透過回歸內容而動搖形式主義；其窮舉排列把機遇重新引入系統性藝術。
   - 書末後記（導言中引用）：期待觀念藝術能避開商業化的希望大致落空；資本主義社會中藝術與藝術家仍是奢侈品。
 - **對創作者的用處**：
+  - 問學生：你的觀念是可以一直追下去、引出更多版本的，還是做一件就窮盡了？（1968 文章的好／平庸／壞觀念三分）
+  - 問學生：作品很觀念，但它看起來怎樣？1968 文章本身就說高度觀念的作品作為視覺藝術仍取決於外觀。
   - 可問：作品的物質形式是被刻意弱化，還是只是沒處理？「做什麼」比「有多少物質」更值得交代。
   - Lippard 對 LeWitt 的描述指出：嚴格的系統（窮舉排列）本身可以產生非預期的結果。
   - 後記提醒：以「非物件」形式作為抵抗市場的策略，在歷史上未成功。
 - **常見誤用**：
   - 把「去物質化」當成字面上的「沒有物質」；Lippard 自己在序言中承認此詞不準確。
+  - 把 1968 文章讀成「觀念藝術不必看」。文章明說高度觀念的作品作為視覺藝術仍以外觀定成敗。
   - 把觀念藝術描述為成功脫離市場；Lippard 後記明確否定。
+  - 引用 1968 文章時用 Fisher 節錄本的拼寫與段落，要註明是節錄本，不是 *Art International* 原刊排版。
 
 ### John Cage, 1961, *Silence: Lectures and Writings*（"Lecture on Nothing"、"Experimental Music"、"Experimental Music: Doctrine"）
 
@@ -124,23 +135,35 @@
   - 把 Pollock 式的手勢潑灑與機械隨機混為一談；Brecht 區分兩者，並在後記中把重點放在 Cage。
   - 把事件譜當成「任何結果都等價」而不問譜中保留了什麼約束。
 
-### Yoko Ono, 1964, *Grapefruit*；及 1966 年衛斯理大學演講摘錄
+### Yoko Ono, 1964/2000, *Grapefruit*（含 "To the Wesleyan People," 1966；致 Ivan 書信, 1965）
 
-- **來源**：Yoko Ono, *Grapefruit* (Tokyo: Wunternaum Press, 1964; New York: Simon & Schuster, 1970)。所讀二手來源：Stacy Suaya, "This Yoko Ono Book Channels Dadaism and Buddhism," Getty News, September 28, 2026, https://www.getty.edu/news/yoko-ono-grapefruit-book/ 。演講摘錄：Yoko Ono, lecture at Wesleyan University, January 1966，摘錄頁面註明轉引自 Lippard, *Six Years*：https://id3419.securedata.net/artnotart/fluxus/yono-lecture.html
-- **讀取程度**：二手轉述。*Grapefruit* 原書未讀；作品文字轉引自 Getty 文章。演講僅讀摘錄（摘錄頁未標題；是否即 "To the Wesleyan People" 全文未確認；未在 *Six Years* 原書中核對）。
+- **來源**：Yoko Ono, *Grapefruit: A Book of Instructions and Drawings* (Tokyo: Wunternaum Press, 1964; New York: Simon & Schuster, 2000 年版)。2000 年版 OCR 全文：https://archive.org/download/ono-yoko-grapefruit-a-book-of-instructions-and-drawings-2000/Ono_Yoko_Grapefruit_A_Book_of_Instructions_and_Drawings_2000_djvu.txt （同書 PDF：https://monoskop.org/images/6/64/Ono_Yoko_Grapefruit_A_Book_of_Instructions_and_Drawings_2000.pdf ）。先前所依二手：Stacy Suaya, Getty News, https://www.getty.edu/news/yoko-ono-grapefruit-book/ ；演講摘錄頁 https://id3419.securedata.net/artnotart/fluxus/yono-lecture.html
+- **讀取程度**：全文（2000 年版 OCR 文字；OCR 有雜訊，引文已逐字核對；書中手稿與圖像頁的文字未讀出）。
 - **主張**：
-  - *Grapefruit* 收錄 150 件以上指令作品（Getty 文章）。例："Fly Piece"："Fly."；"Lighting Piece"（1955）："Light a match and watch till it goes out."；"Tunafish Sandwich Piece" 要讀者想像一千個太陽同時出現在天空一小時，然後做一個鮪魚三明治吃掉。
-  - Getty 文章指出許多指令在物理上無法執行；文章副標為 "The act of considering the art is the art"。
-  - 演講摘錄：Ono 說她在音樂以外的作品都有「事件」傾向；事件不像 Happening 那樣融合其他藝術，而是從各種感官知覺中「抽離」（"an extrication from various sensory perceptions"）；不是群聚，而是「與自己打交道」；沒有腳本，只有某種讓它開始的東西，「最接近的字可能是願望或希望」。
-  - 演講摘錄：在她的指令繪畫中，她主要的興趣是「在腦中建構的繪畫」（"painting to construct in your head"）。
-  - 演講摘錄：此方法可追溯到二戰時沒有食物，她與兄弟「在空中交換菜單」。
+  - 指令原文（2000 年版，每件附創作季節年份）：
+    - LIGHTING PIECE："Light a match and watch till it goes out."（1955 autumn）
+    - FLY PIECE："Fly."（1963 summer）
+    - CLOUD PIECE："Imagine the clouds dripping. Dig a hole in your garden to put them in."（1963 spring）
+    - TUNAFISH SANDWICH PIECE："Imagine one thousand suns in the sky at the same time. Let them shine for one hour. Then, let them gradually melt into the sky. Make one tunafish sandwich and eat."（1964 spring）
+    - MAP PIECE（1962 summer）最後要求："The map must be followed exactly, or the event has to be dropped altogether."（地圖必須被精確地遵循，否則這個事件就整個放棄。）同一本書裡同時有不可執行的指令與要求嚴格執行的指令。
+  - 書中收錄 "To The Wesleyan People (who attended the meeting). -a footnote to my lecture of January 13th, 1966."：先前條目所依的演講摘錄即出自這篇，它是 1966 年 1 月 13 日演講之後寫的「註腳」，不是演講稿本身。
+    - "I think of my music more as a practice (gyo) than a music."（我把我的音樂看作一種修行〔行〕，而不是音樂。）
+    - "My paintings, which are all instruction paintings (and meant for others to do)"（我的畫全是指令繪畫〔而且是給別人去做的〕）
+    - "Among my instruction paintings, my interest is mainly in “painting to construct in your head”."（在我的指令繪畫中，我的興趣主要在「在腦中建構的繪畫」。）
+    - "The painting method derives from as far back as the time of the Second World War when we had no food to eat, and my brother and I exchanged menus in the air."（這種繪畫方法可追溯到二戰時，我們沒有東西吃，我和我兄弟在空中交換菜單。）
+    - "Event, to me, is not an assimilation of all the other arts as Happening seems to be, but an extrication from the various sensory perceptions."（事件對我來說，不像 Happening 那樣融合所有其他藝術，而是從各種感官知覺中抽離。）接著說它不是 "a get togetherness"，而是 "a dealing with oneself"；"it has no script as happenings do, though it has something that starts it moving - the closest word for it may be a “wish” or “hope”."（它不像 happening 有腳本，但有某種讓它開始動的東西，最接近的字可能是「願望」或「希望」。）
+    - 更正：先前條目依摘錄頁寫成 "an extrication from various sensory perceptions"，原文是 "from the various sensory perceptions"。
+  - 致畫廊主 Ivan 的信（1965 年 1 月 4 日，收於書中 LETTERS 部分）：
+    - "I think painting can be instructionalized, Artist, in this case, will only give instructions or diagrams for painting -and the painting will be more or less a do-it-yourself kit according to the instructions."（我認為繪畫可以被指令化。這時藝術家只給出繪畫的指令或圖示，繪畫多少會成為依指令自己動手的套件。）
+    - "The painting starts to exist only when a person follows the instructions to let the painting come to life"（只有在一個人依指令讓畫活起來時，這幅畫才開始存在。）之後人們會 "according to or, sometimes, against the given instructions" 加上自己的努力（依照、有時違反所給的指令）。
 - **對創作者的用處**：
-  - Ono 的指令可以不被執行；可問創作者：作品是否需要被執行？若指令本身就是作品，觀眾讀到指令時發生了什麼？
-  - 與 LeWitt 的「機械執行」對照：Ono 的指令把執行交給讀者的想像，不追求可重複的結果。
-  - 事件 vs Happening 的區分可用於檢查作品是在累積感官，還是在隔離單一感官。
+  - 問學生：你的指令是給誰的？是給機器精確執行，給別人照做，還是給讀者在腦中完成？Ono 在同一本書裡三種都有。
+  - 問學生：觀眾違反你的指令時，作品是壞了，還是正在發生？Ono 1965 年的信把「違反指令」算進畫的生命。
+  - 事件 vs Happening 的區分可用來檢查：作品是在疊加感官，還是在把一個感官隔離出來？
 - **常見誤用**：
-  - 把 Ono 的指令作品與程式碼或 LeWitt 的牆面繪畫指令視為同類「規則藝術」；Ono 的許多指令不可執行，目的不在產生輸出。
-  - 以上引文皆為二手轉引，引用時應標明出處層級。
+  - 把 Ono 的指令一律說成「不可執行」。LIGHTING PIECE 可以照做，MAP PIECE 要求精確執行；不可執行的是其中一部分（如 TUNAFISH SANDWICH PIECE 前半）。
+  - 把 Ono 的指令與程式碼或 LeWitt 的牆面繪畫指令視為同類「規則藝術」而不區分執行者與執行方式。
+  - 把 "To the Wesleyan People" 當作演講稿引用；文中自稱是演講的「註腳」。
 
 ### Allan Kaprow, 1958, "The Legacy of Jackson Pollock"
 
@@ -182,19 +205,49 @@
 
 ### Hans Haacke, 1965, 聲明（Cologne, January 1965）
 
-- **來源**：Hans Haacke, statement, Cologne, January 1965；轉引自 Philip Galanter, "What is Generative Art?" (GA2003)，http://www.philipgalanter.com/downloads/ga2003_paper.pdf 。作品例：*Condensation Cube* (1963)，亦見 Galanter 2003 討論。
-- **讀取程度**：二手轉述（聲明文字以引文形式完整出現於 Galanter 2003；原始出版處未查）
-- **主張**：
-  - "...make something which experiences, reacts to its environment, changes, is non-stable..."
-  - "...make something indeterminate, which always looks different, the shape of which cannot be predicted precisely..."
-  - 做出沒有環境協助就無法「表演」的東西；做出存在於時間中並讓「觀者」經驗時間的東西。
-  - Burnham 1968 引 Haacke：這些過程不需觀者的移情而演化，觀者成為見證者；系統不是想像的，是真實的。
+- **來源**：
+  - Philip Galanter, "What is Generative Art?" (GA2003), §9.8，http://www.philipgalanter.com/downloads/ga2003_paper.pdf ：以 "HANS HAACKE Statement" 為題轉載七行，末署 "Cologne, January 1965"，註 [26] 指向 S. Cotter & C. Douglas eds., *Force Fields: Phases of the Kinetic* (Barcelona: MACBA, 2000)。
+  - Jack Burnham, *Beyond Modern Sculpture* (New York: George Braziller, 1968), p. 347，Monoskop PDF：https://monoskop.org/images/d/d8/Burnham_Jack_Beyond_Modern_Sculpture.pdf ：引其中四行，稱為 "a few terse statements given to the author by the artist"，未標日期。
+  - Caroline A. Jones, "Hans Haacke 1967," in *Hans Haacke 1967* (Cambridge, MA: MIT List Visual Arts Center, 2011), pp. 14–15，Monoskop PDF：https://monoskop.org/images/d/df/Hans_Haacke_1967_2011.pdf ：稱之為 Haacke 的 "first published statement from 1965"，引第五行。該目錄另有藝術家聲明重印，但 Monoskop 檔只含 Jones 一文。
+- **讀取程度**：原文節錄（經轉載：Galanter 2003 七行、Burnham 1968 四行、Jones 2011 一行；1965 年原始出版物未取得）
+- **主張**（以 Galanter 2003 版為準；Burnham 1968、Jones 2011 的措辭差異加註）：
+  - "...make something which experiences, reacts to its environment, changes, is non-stable..."（做出會經驗、對環境反應、會變、不穩定的東西。）
+  - "...make something indeterminate, which always looks different, the shape of which cannot be predicted precisely..."（做出不確定、每次看都不同、形狀無法精確預測的東西。Burnham 版作 "that always looks different"。）
+  - "...make something which cannot 'perform' without the assistance of its environment..."（做出沒有環境協助就無法「表演」的東西。Burnham 版無此行。）
+  - "...make something which reacts to light and temperature changes, is subject to air currents and depends, in its functioning, on the forces of gravity..."（做出對光與溫度變化反應、受氣流影響、運作依賴重力的東西。Burnham 版作 "make something that reacts to light and temperature changes, that is subject to air currents"。）
+  - "...make something which the 'spectator' handles, with which he plays and thus animates..."（做出讓「觀者」拿在手上、把玩並因而使之活動的東西。Jones 2011 引作 "with which he plays, and thus animates"；Burnham 版無此行。）
+  - "...make something which lives in time and makes the 'spectator' experience time..."（做出存在於時間中、讓「觀者」經驗時間的東西。Burnham 版作 "make something that lives in time and allows the "spectator" to experience time"。）
+  - "...articulate: something natural..."（陳述：某種自然的東西。Burnham 版無此行。）
+  - 七行並存兩種觀者位置：第五行要觀者動手才啟動；第一、三、四行要環境（光、溫度、氣流、重力）啟動。Jones 2011 指出 Haacke 在做封閉的 *Condensation Cube* 之前，已做要靠手翻轉的壓克力水箱（如 1962 年 *Rain Tower*）。1967 年的聲明改為「有些系統在觀者不在場時也運作」（見下條）。
+  - Burnham 1968〈Systems Esthetics〉引 Haacke：這些過程不需觀者的移情而演化，觀者成為見證者；系統不是想像的，是真實的。此段與 Haacke 1967〈Untitled Statement〉結語措辭相近（見下條）。
 - **對創作者的用處**：
   - 可問：作品對環境的依賴是真實的（輸入確實改變輸出），還是裝飾性的？
   - 可問：作品是否讓觀眾經驗時間，還是只呈現一個瞬間的結果？
+  - 可問：把七行逐條對照你的作品，哪幾行成立？「讓觀者動手」和「靠環境運作」你的作品是哪一種，還是兩種都有？
 - **常見誤用**：
-  - 把「不可預測」當成目的本身；Haacke 的聲明把不可預測連結到環境反應與時間經驗。
-  - Galanter 2003 區分「關於系統的作品」與「使用系統製作的作品」，不應混用（見下條）。
+  - 把「不可預測」當成目的本身；聲明把不可預測連結到具體的環境變數（光、溫度、氣流、重力）與時間經驗。
+  - 只引第一行。七行中有一行要求觀者動手，與 1967 年「觀者成為見證者」的立場不同；引用時要標年份與版本。
+  - Galanter 2003 區分「關於系統的作品」與「使用系統製作的作品」，不應混用（見 Galanter 2003 條）。
+  - 更正：本條舊版標為「二手轉述（原始出版處未查）」。現查得 Galanter 註明轉自 *Force Fields* (2000)，另有 Burnham 1968 的較早引錄，兩版措辭有差（which／that、makes／allows），行數也不同（七行／四行）。
+
+### Hans Haacke, 1967, "Untitled Statement"
+
+- **來源**：Hans Haacke, "Untitled Statement" (1967)，原未發表，首刊於 Grasskamp, Nesbit, Bird, *Hans Haacke* (Phaidon Press, 2004), pp. 102–103。讀到的是 etantdonnes.com 依該書掃描做的 OCR 轉錄：http://www.etantdonnes.com/SystemsArt/Haacke_Statement1967.html 。Jones 2011（pp. 22–23）記這是 Haacke 準備 1967 年 MIT 個展時寫下的。
+- **讀取程度**：全文（第三方 OCR 轉錄，未與 Phaidon 原書比對）
+- **主張**：
+  - 系統的定義："A system is most generally defined as a grouping of elements subject to a common plan and purpose."（系統最一般的定義，是一組服從共同計畫與目的的元素。）Haacke 隨即承認好的繪畫、雕塑、建築也符合這個條件，所以這個定義不足以區分。
+  - 區分標準是有沒有傳遞："I believe there are sound reasons for reserving the term "system" for certain non-static "sculptures", since only in this category does a transfer of energy, material or information occur."（我認為有充分理由把「系統」一詞保留給某些非靜態的「雕塑」，因為只有這一類會發生能量、物質或資訊的傳遞。）版本差異：Skrebowski 2006（*Tate Papers* no. 5，https://www.tate.org.uk/research/tate-papers/05/all-systems-go-recovering-jack-burnhams-systems-aesthetics ）引同書 p. 102 作 "transformation of energy, material or information"，與 OCR 版的 "transfer" 不同，未能以原書核對。
+  - 與靜態作品對比：畫家與靜態雕塑家希望作品盡量不受時間與環境影響（"the intention of these artists is to make something that alters as little as possible"）；系統作品則是 "produced with the explicit intention of having their components physically communicate with each other and the whole communicate physically with the environment"。
+  - 觀者的三種位置：提供物理能量（拉、推、轉是程式的一部分）、只需在場、或完全不需要（"there are systems which function properly even when the viewer is not present at all"）。
+  - 系統的程式不受觀者的知識、經驗、情緒或投入程度影響："The viewer becomes a witness rather than a resounding instrument striving for empathy."（觀者成為見證者，而不是追求移情的共鳴器。）
+  - 觀者的主觀投射仍會發生，但 "These projections, however, can be measured relative to the system's actual programme."（這些投射可以對照系統實際的程式來衡量。）結語："A system is not imagined; it is real."
+- **對創作者的用處**：
+  - 用「有沒有能量、物質或資訊在元素之間、在作品與環境之間傳遞」檢查：作品是系統，還是外觀像系統的靜態物？
+  - 可問：觀者在你的作品裡是能量來源、在場者，還是不需要？作品說明寫的是哪一種，實際裝置是哪一種？
+  - 可問：觀眾對作品的解讀，能不能拿作品實際的程式（規則、資料流）來對照？若不能，作品的意義是否仍全靠觀眾投射？
+- **常見誤用**：
+  - 把「觀者成為見證者」讀成 Haacke 不在乎觀眾。聲明的論點是系統的運作不依賴觀者的心理參與。Jones 2011 也認為，這個「獨立於人」的立場在 1968 年後 Haacke 轉向社會系統時已難維持。
+  - 引 "transfer" 或 "transformation" 任一版本時，不註明版本差異。
 
 ### Philip Galanter, 2003, "What is Generative Art? Complexity Theory as a Context for Art Theory"
 
@@ -311,6 +364,27 @@
   - 把 Hertzmann 的「社會行動者」假說當成定論；他本人稱之為假說，並列出可能改變的情況。
   - 以「只是工具」為由忽略系統帶來的不可預測性；Hertzmann 自己承認結果常出乎意料。
 
+### Marius Watz, 2010, "Closed systems: Generative art and Software Abstraction"
+
+- **來源**：Marius Watz, "Closed systems: Generative art and Software Abstraction," 為 Lab[au] *Metadesign* 專書所寫，文末署 2010 年 5 月；作者網站 2012 年 3 月 30 日刊出：https://mariuswatz.com/2012/03/30/closed-systems-generative-art-and-software-abstraction/ （頁面另附 PDF 201005-Marius-Watz-Closed-Systems.pdf，未下載）
+- **讀取程度**：全文（作者網站版；與專書印刷版是否有差異未核對）
+- **主張**：
+  - 開頭引兩條定義，"Closed system" 為 "An isolated system having no interaction with an environment […] a SYSTEM whose BEHAVIOR is entirely explainable from within, a system without INPUT."（一個與環境無互動的孤立系統……行為完全可從內部解釋、沒有輸入的系統。）
+  - "By using parametric processes to produce an infinite series of possible outcomes, the author is allowed to take the privileged position of harvesting the most successful results."（用參數化過程產出無限系列的可能結果，作者得以站在收割最成功結果的特權位置。）
+  - "Every aspect of the system must be explicitly described, including details that might seem insignificant when considered individually. When considered as a whole, however, these series of decisions become the very body of the work."（系統的每個面向都必須被明確描述，包括單獨看似無關緊要的細節。但整體看來，這一連串決定就是作品的本體。）
+  - "Despite the essential immateriality of computer code algorithms nevertheless display material properties, often showing a specific bias towards certain outcomes."（儘管程式碼本質上非物質，演算法仍表現出物質性質，常對某些結果有特定偏向。）
+  - 生成藝術 "does not in fact constitute an art movement as such. Rather it describes a strategy for the invention of works that share a certain methodology"（其實不構成一個藝術運動，而是描述一種發明作品的策略，這些作品共用某種方法。）
+  - 與互動藝術的區分：互動藝術利用系統與使用者之間的回饋迴路；"Generative art is primarily interested in closed system, self-contained constructs investigated for their formal and material qualities."（生成藝術主要關心封閉系統，即為其形式與物質性質而被研究的自足構造。）這使它 "closer to traditions of drawing or painting than to the relational aesthetics so common in the media art field"（更接近素描或繪畫的傳統，而不是媒體藝術領域常見的關係美學。）
+  - LeWitt 的文字指令 "has become something of a golden standard , an art historical reference providing generative art with mainstream legitimacy beyond comparisons to screensavers and audio visualizers."（已成為某種黃金標準，一個藝術史參照，讓生成藝術在被拿來和螢幕保護程式、音樂視覺化器比較之外，取得主流正當性。）
+  - 結尾："While generative art is inextricably linked to the computer as a means of production, the work is not about the computer itself."（生成藝術與作為生產工具的電腦密不可分，但作品不是關於電腦本身。）
+- **對創作者的用處**：
+  - 問學生：你從多少個參數組合裡「收割」了展出的這一個？Watz 自己把這稱為作者的特權位置，這個位置要不要對觀眾交代？
+  - 問學生：你的系統有沒有輸入？如果有觀眾互動或感測器，它還是 Watz 說的封閉系統嗎？作品的重點是回饋迴路，還是形式本身？
+  - 問學生：你選的演算法偏向哪些結果？換一種寫法，作品會不會變成另一件？
+- **常見誤用**：
+  - 把 Watz 的「封閉系統」當成所有生成藝術的定義。文中他把它限定為與 1990 年代互動藝術相對的一種取向，並在結尾期待輸出擴展到螢幕之外（數位製造、資料雕塑）。
+  - 引用「LeWitt 是黃金標準」當作 Watz 對 LeWitt 的藝術史判斷。原句說的是 LeWitt 為生成藝術提供了「主流正當性」，是在描述論述上的用途。
+
 ## 論點之間的對立
 
 | 議題 | 立場 A | 立場 B | 對作品的檢驗 |
@@ -320,12 +394,14 @@
 | 藝術的價值標準 | Kosuth 1969：價值依質疑藝術本質的程度衡量；批評形態學層面的形式主義 | Galanter 2003：生成藝術只說明 how、不說明 why，意識形態中立 | 作品只是一種製作方法，還是提出關於藝術的命題？ |
 | 藝術在哪裡 | Kosuth 1969：作品是對藝術的定義（分析命題） | Burnham 1968：藝術在人與人、人與環境的關係中；系統由概念焦點界定 | 作品的意義在命題、在輸出，還是在關係與邊界？ |
 | 規則藝術是否等於生成藝術 | LeWitt 1967/1969：指令與計畫製造作品 | Galanter 2016：Albers、Ruscha、On Kawara 等的規則只提示行動，未讓給功能自主系統，不算生成藝術 | 規則是完全決定行動，還是需要人逐步判斷？ |
-| 指令是否需要執行 | LeWitt 1969：過程應跑完；Reas 2010：文字要轉譯為軟體 | Ono（Getty 文章；1966 演講摘錄）：許多指令不可執行，作品在「腦中建構」 | 作品需要被執行嗎？若不需要，物質呈現的角色是什麼？ |
+| 指令是否需要執行 | LeWitt 1969：過程應跑完；Reas 2010：文字要轉譯為軟體 | Ono *Grapefruit*（"To the Wesleyan People" 1966）：興趣在「在腦中建構的繪畫」，部分指令不可執行；但同書 MAP PIECE 要求精確執行，1965 致 Ivan 信把「違反指令」也算進畫的生命 | 作品需要被執行嗎？若不需要，物質呈現的角色是什麼？ |
 | 作品本體：文字/程式 vs 輸出 | Reas 2010：文字首要，軟體詮釋次要；Nake 2010：作品是無限可能作品的描述 | Boden & Edmonds 2009：作品是程式還是每次輸出仍是開放問題；Galanter 2016：在物件、系統、程式碼或其他？ | 展示與保存的單位是什麼？觀眾看到的是不是作品？ |
 | 作者責任 | Boden & Edmonds 2009：程式「自行其事」時是否承擔作者責任？創造力在哪裡？ | Galanter 2016：選擇本身是作者行為；價值判斷大多需要人；Hertzmann 2018：演算法是工具，作者是人 | 輸出挑選、參數調整是否被說明？ |
 | Pollock 的位置 | Kaprow 1958：Pollock 的過程開啟了日常材料與 Happenings | Galanter 2003：Pollock 不是生成藝術，沒有自主系統；Brecht 1965 後記：機遇的重要含義在 Cage 而非 Pollock | 作品的「隨機」來自手勢還是來自自主系統？ |
 | 物質性 | Lippard 1973：去物質化、弱化獨特性與永久性 | Lippard 自己：此詞不準確；LeWitt 1967：有物質形式就須看起來像某物 | 物質形式是被刻意處理的，還是被忽略的？ |
 | 去物質化與市場 | Lippard 1997 導言：觀念藝術以輕量、廉價、短暫為特徵 | Lippard 後記：避開商業化的希望大致落空 | 「非物件」形式是否帶有抵抗市場的主張？主張是否成立？ |
+| 系統是否接受輸入 | Watz 2010：生成藝術主要關心封閉、自足的系統，比較接近素描繪畫傳統而非關係美學 | Burnham 1968：藝術在人與人、人與環境的關係中；Haacke 1965：作品依賴環境 | 系統有沒有輸入？作品的重點是形式，還是與環境、觀眾的回饋？ |
+| 觀念與外觀 | Lippard & Chandler 1968：判斷觀念不如把觀念追到底；物件可能完全過時 | 同文：作為視覺藝術，高度觀念的作品仍以外觀定成敗 | 觀念能否引出更多版本？作品看起來的樣子是否撐得住？ |
 
 ## 可以問學生的問題
 
@@ -344,3 +420,6 @@
 13. 請說明你的系統的目標、邊界、結構、輸入與輸出。（Burnham 1968）
 14. 你的作品在追問什麼是藝術，還是在既有形式中變化？如果是後者，你接受 Kosuth 的批評嗎？（Kosuth 1969；Galanter 2003）
 15. 如果作品的物質形式「不重要」，你為什麼選了這個尺寸、材料與呈現方式？（LeWitt 1967；Lippard 1973）
+16. 你的觀念是能一直追下去、引出更多版本的，還是做一件就窮盡了？（Lippard & Chandler 1968）
+17. 觀眾不照你的指令做、或反著做時，作品是壞了，還是正在發生？（Ono 1965 致 Ivan 信；MAP PIECE）
+18. 你從參數空間裡「收割」了哪些結果？你的系統有沒有輸入，作品的重點在形式還是在回饋？（Watz 2010）

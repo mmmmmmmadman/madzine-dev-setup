@@ -12,7 +12,7 @@
 - 隨機性在作品裡承擔什麼：讓人感到變化而非任意（Levin 2005），還是掩蓋沒想清楚的部分（McCormack et al. 2014 Q6）？觀眾能否分辨「有意的變化」與「亂數」？（Levin 2005, McCormack et al. 2014, Akten 2021）
 - 訓練資料是不是作品的一部分？資料的分類、標注、來源、勞動，是否進入作品的意義，還是被「它只是素材」一句帶過？（Crawford & Paglen 2019, Steyerl 2023, Zylinska 2020）
 - 「機器有沒有創造力」是不是正確的問題？Cohen 從未宣稱 AARON 有創造力；Zylinska 說這是誤導性的問題；Boden 給了三種可檢驗的類型。對創作者來說，哪個問法會帶出可以改作品的答案？（Cohen 1999, Zylinska 2020, Boden 1990/2004, McCormack et al. 2014 Q1）
-- 大型資料視覺化作品（Ikeda 的 datamatics、Anadol 的 *Unsupervised*）之間的差別在哪：資料被當成「純資料」的物質，還是被當成風格化的素材？評論怎麼分辨？（Ikeda, Zylinska 2020「platform art」, Manovich 2018；Anadol 評論原文見缺口）
+- 大型資料視覺化作品（Ikeda 的 datamatics、Anadol 的 *Unsupervised*）之間的差別在哪：資料被當成「純資料」的物質，還是被當成風格化的素材？評論怎麼分辨？（Ikeda, Zylinska 2020「platform art」, Manovich 2018；Anadol 的評論原文 Haigney 2019、Davis 2023、Saltz 2023 見 17 章 D 組）
 
 ## 論點
 
@@ -276,7 +276,8 @@
 | 隨機性 | Levin 2005：無限變化仍要感到必然；McCormack Q6：完全理解過程就不需要隨機 | Cage（見 02 章）：隨機用來去除自我；Xenakis：隨機是意志產物的必要部分 | 每一處隨機都要能回答「為什麼這裡」；回答不出來的隨機是沒想清楚的部分 |
 | 「機器有沒有創造力」這個問題 | McCormack Q1 認真問；Boden 三型提供可檢驗的分類 | Cohen 1999 從不宣稱；Zylinska 2020 稱之為誤導性的問題 | 對創作者有用的是 Boden 的「哪一型」與 Cohen 的「程式知道什麼」，不是是非題 |
 | 美學同質化 | Steyerl 2023：收斂到平均；Zylinska：crowd-sourced beauty；Watz：演算法有材料偏向 | Manovich 2018：兩個方向的力量並存，應量測而非斷言 | 可直接檢查：你的輸出跟同工具其他使用者差多少、差在哪 |
-| 大型資料視覺化 | Ikeda：純資料、數學精確、知覺門檻 | Zylinska 的 "platform art"、Steyerl 的 "hallucinated mediocrity"（Anadol 的 Saltz／Davis 評論原文未取得，見缺口） | 資料「很美」不是主題；主題要落在系統、知覺或資料政治三者之一 |
+| 大型資料視覺化 | Ikeda：純資料、數學精確、知覺門檻 | Zylinska 的 "platform art"、Steyerl 的 "hallucinated mediocrity"（Steyerl 原文未點名 Anadol；Davis 2023 評《Unsupervised》時以 Steyerl、Paglen 的批判取向作對照，見 17 章） | 資料「很美」不是主題；主題要落在系統、知覺或資料政治三者之一 |
+| 資料崇高 vs 平均影像 | Anadol／MoMA：資料量與潛在空間本身是體驗。Anadol 形容把整個典藏放進多維空間 "I don't know how else to say it—divine"；MoMA 展覽頁："Unsupervised is visionary: it explores fantasy, hallucination, and irrationality"；Reas："perceptually and qualitatively, there's a lot there that's just not in the dataset"（MoMA Magazine 2021、展覽頁，見 17 章） | Steyerl 2023：生成影像 "converge around the average, the median; hallucinated mediocrity"（原文未點名 Anadol，並列是本章的對照）；Davis 2023 評《Unsupervised》：藝術史被當成 "a bunch of random visual tics to be permuted"；Saltz 2023："it's derivative and familiar and struggles to transcend its source material" | 資料量放大，輸出不一定更特別，可能更接近資料集的平均。問學生：資料量放大十倍，畫面會更特別還是更平均？觀眾在現場感受到的是資料的「量」，還是某個具體內容？說明文字寫「夢」「幻覺」的地方，換成系統實際做的事（插值、聚類、提早停止訓練）之後，作品還剩什麼？ |
 
 ## 可以問學生的問題
 
@@ -301,7 +302,7 @@
 - Vera Molnár：一手訪談與自述（如 *Leonardo* 1975 "Toward Aesthetic Guidelines for Paintings with the Aid of a Computer"）未取得——JSTOR 回錯誤頁、veramolnar.com SSL 錯誤、dam.org 憑證過期、monoskop 403；ZKM 與 Wikipedia 頁面無可引原文。本章未立條目，不以二手代替。
 - Max Bense 原文（1965 德文、1971 英譯）未取得；僅經 Galanter 2016 所引一段與 Nake 2010 的轉述。
 - Frieder Nake, "Information Aesthetics: An heroic experiment"（*Journal of Mathematics and the Arts*, 2012）付費牆，摘要亦未取得。
-- Refik Anadol *Unsupervised*（MoMA 2022–23）的評論：Jerry Saltz（*Vulture*）與 Ben Davis（*Artnet News*）原文均無法開啟（站點封鎖、artnews.com 轉向付費代理）；Wikipedia 頁面無評論引文。本章只在核心問題與對立表提及，未引用任何評論句。
+- Refik Anadol *Unsupervised*（MoMA 2022–23）的評論：2026-11 補查已取得 Davis（*Artnet News* 2023-01-23，archive.org 快照）、Saltz（*New York*／Vulture 2023-02-22）、Haigney（*Art in America* 2019-09-18，評 NYC 版）全文，條目寫在 17 章 D 組；本章只在核心問題與對立表引用，不另立條目。前次記錄的「站點封鎖」對 Vulture 與 artnews.com 已不成立。更正：前次缺口與對立表把 Steyerl 2023 與 Anadol 並列，Steyerl 原文沒有提到 Anadol、*Unsupervised* 或 MoMA，並列是本章的對照，不是 Steyerl 的評論。仍缺：Kate Wagner、Jason Farago、Artforum 是否評過此作（未找到篇名與 URL）。
 - Manfred Mohr 1971 巴黎目錄：僅見掃描縮圖與 21MB PDF 連結，文字未讀；emohr.com 其他自述頁只有導覽。
 - Marius Watz 2010 "Closed Systems"：僅經 Scribd 頁面讀到部分段落；原始發表處文件內未標。
 - Ryoji Ikeda 訪談未取得，僅用網站作品聲明；分析見 05 章 Lakatos 2020。

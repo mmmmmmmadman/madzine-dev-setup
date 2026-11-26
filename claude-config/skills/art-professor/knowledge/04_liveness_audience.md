@@ -137,6 +137,26 @@
 - 對創作者的用處：可以問：這場演出的身體在哪裡？在表演者的手、在觀眾的身體，還是被投影取代了？
 - 常見誤用：當成「必須加大肢體動作」的處方。Ostertag 描述的是缺口，沒有開出固定解法。
 
+### Ostertag, 1996, "Why Computer Music Sucks"
+
+- 來源：Bob Ostertag, "Why Computer Music Sucks," *Resonance* 5, no. 1 (1996)；作者網站作品目錄另註：同年以 "At A Dead End?" 之名刊於 Ars Electronica 1996 年的出版物。所讀網頁版（Wayback 2016 年 3 月 12 日快照）：http://web.archive.org/web/20160312125123/http://bobostertag.com/writings-articles-computer-music-sucks.htm ；目錄頁：http://web.archive.org/web/2016/http://bobostertag.com:80/writings-articles.htm
+- 讀取程度：全文（作者網站網頁版；出版資訊依作者網站目錄頁；*Resonance* 原刊 PDF 的 Wayback 快照回 404，未核對原刊版面）
+- 主張：
+  - "Today, we have computers with technical capabilities inconceivable at the time of Varèse and the early works of Cage and Stockhausen. Yet as the technical capabilities have expanded, the range of musical possibilities which are being explored has become increasingly restricted."（今天電腦的技術能力是 Varèse 與早期 Cage、Stockhausen 時代無法想像的。但技術能力擴張的同時，被嘗試的音樂可能性範圍越來越窄。）
+  - 他給兩個原因："Two reasons: one having to do with artistic stasis, and the other to do with social self-interest."（兩個原因：一是藝術上的停滯，一是社會上的自身利益。）停滯指議程固定在電腦進入音樂時西方前衛的關注：演算法作曲（"which is really a digital extension of serial music"，其實是序列音樂的數位延伸）與延伸音色探索。
+  - 以 Ars Electronica 該年 287 件投件為據："after listening to the 287 pieces submitted to Ars Electronica, I would venture to say that the pieces created with today's cutting edge technology (spectral resynthesis, sophisticated phase vocoding schemes, and so on) have an even greater uniformity of sound among them than the pieces done on MIDI modules available in any music store serving the popular music market."（聽完 287 件投件，我敢說用最先進技術〔頻譜再合成、精密的相位聲碼器等〕做的作品，彼此的聲音比用一般樂器行 MIDI 音源做的作品更趨一致。）評審發現一件被認為音色特別新穎的作品，主要是用舊的 Buchla 類比設備做的。
+  - "To put the matter in its bluntest form, it appears that the more technology is thrown at the problem, the more boring the results. People set out for new timbral horizons, get lost along the way in the writing of the code, the trouble-shooting of the systems, and the funding to make the whole thing possible, then fail to notice that the results do not justify the effort."（說得最直白：投入越多技術，結果越無聊。人們出發去找新的音色地平線，途中迷失在寫程式、排除系統故障和籌措經費裡，然後沒注意到結果配不上這些努力。）
+  - 舞曲、Prince 的律動、Ikue Mori 的鼓機、自動混音台、取樣都因電腦而改變了音樂，"And none of it is Computer Music."（而這些都不算電腦音樂。）取樣不算的原因："Precisely because it sampling is everywhere."（正因為取樣無所不在；原文如此）
+  - 他聲明不是以市場為標準："I am not arguing that the market in which popular music is bought and sold is a valid arbiter of artistic excellence."（我不是主張流行音樂的買賣市場是藝術優劣的有效仲裁者。）
+  - 結尾："And yet Computer Music can find no audience beyond those who make it."（然而電腦音樂找不到製作者以外的聽眾。）
+- 對創作者的用處：
+  - 問學生：演出用的系統花了多少時間在寫程式和除錯？觀眾聽到的結果，和用一台普通合成器能做到的差在哪裡？說得出來嗎？
+  - 問學生：作品的新意在音色、在演算法，還是在別的地方？如果在音色，Ostertag 的 287 件經驗說明技術層級不保證音色差異。
+  - 問學生：你的觀眾除了同行還有誰？
+- 常見誤用：
+  - 當成反科技的宣言。Ostertag 列舉了電腦改變舞曲、混音、取樣的例子，他批評的是被當作學科的「Computer Music」範圍收窄。
+  - 和同作者 2002 年 "Human Bodies, Computer Music"（上一條）混為一篇。1996 年這篇談的是技術投入與音色結果、學院自身利益；身體問題是 2002 年那篇的主題。
+
 ### Collins et al., 2003 / Ward et al., 2004 / Schloss, 2003：筆電「在收信」之爭與 live coding
 
 - 來源：
@@ -236,13 +256,42 @@
 
 ### Reeves, Benford, O'Malley & Fraser, 2005, "Designing the spectator experience"
 
-- 來源：Reeves, S., Benford, S., O'Malley, C. & Fraser, M. (2005). "Designing the spectator experience." *Proc. CHI 2005*. https://doi.org/10.1145/1054972.1055074
-- 讀取程度：二手轉述（搜尋摘要）
+- 來源：Reeves, S., Benford, S., O'Malley, C. & Fraser, M. (2005). "Designing the Spectator Experience." *Proc. CHI 2005*, 741–750. https://doi.org/10.1145/1054972.1055074 ；全文 PDF（Nottingham 機構典藏的 Wayback Machine 2022-12-25 存檔）：https://web.archive.org/web/20221225025242/https://nottingham-repository.worktribe.com/file/1020600/1/p133-reeves.pdf （典藏原址與 ACM DL 直接抓取皆回 403）
+- 讀取程度：全文（10 頁，含圖 1、圖 2 與圖說；頁碼依論文集 741–750 對應，PDF 第 1 頁 = p.741）
+- 更正（原條目來自搜尋摘要）：(1) 兩軸不是「可見／不可見」二分，刻度是 hidden、partially revealed/hidden, transformed、revealed、amplified；(2) suspenseful 不是「效果稍後才顯現」，原文是效果要等觀眾自己輪到操作時才體驗得到；(3) 原「用處」寫 magical「正是會引起『是不是在放錄音』懷疑的配置」，論文沒有討論播放或錄音，那是本知識庫的推論，已改寫並標明。
 - 主張：
-  - 以兩個維度分類旁觀者的體驗：操作（manipulation）是否可見、效果（effect）是否可見。
-  - 四種策略：secretive（操作與效果都隱藏）、expressive（兩者都可見）、magical（效果可見、操作隱藏）、suspenseful（操作可見、效果稍後才顯現）。
-- 對創作者的用處：可以用這四格定位作品：手部操作看得見嗎？聲音與畫面的效果看得見嗎？「magical」（只見效果）正是會引起「是不是在放錄音」懷疑的配置。
-- 常見誤用：以為 expressive 永遠最好。四種是設計選項，不是優劣排序。
+  - 問題設定（p.741）：「how should spectators experience a performer's interaction with a computer?」作法是把互動拆成兩部分（p.742）：「we deconstruct interaction into manipulations and effects.」
+  - 操作的定義（p.742）：「Manipulations are the actions carried out by the primary user of the interface who we shall henceforth refer to as the 'performer.'」也包含感測範圍外的動作：「manipulations correspond to more than just system 'input' since their definition includes non-sensed actions as well.」
+  - 效果的定義（p.743）：「Effects are the results of these manipulations, for example the display of images, graphics and sounds or the actuation of physical objects.」效果也包含選單、圖示、游標等操作過程中出現的畫面，以及演出者自己的反應：「effects are not confined to being located purely in the technology but can also be found in the human elements.」
+  - 圖 1 圖說（p.743）：「Figure 1: Classifying interfaces according to how they hide or reveal manipulations and effects」。橫軸 Manipulations、縱軸 Effects，兩軸刻度皆為 hidden／partially revealed/hidden, transformed／revealed／amplified。依圖面判讀：Photo booth、Cubicle 兩軸皆 hidden；Schizophrenic Cyborg、Wizard of Oz 操作 hidden、效果 revealed 附近；HMD、Telescope 操作 revealed 到 amplified、效果 hidden；Powerpoint 效果 amplified、操作 partially；Pamela Z、Stelarc、Toshio Iwai's pianos、Recollections 在右上。
+  - 四種策略（p.745–746；結論 p.748 重述）：
+    - secretive：「Secretive interfaces tend towards hiding both manipulations and effects. This may be to protect spectators from knowing about the experience until it is their turn, or to protect performers from interference.」
+    - expressive：「Expressive interfaces tend towards revealing, even amplifying, both manipulations and effects. For performances, their primary concern is to entertain spectators by enabling them to appreciate how well a performer is interacting with the system」
+    - magical：「Magical interfaces tend towards revealing effects while hiding the manipulations that led to them.」依據 Lamont & Wiseman 的 method／effect 區分：「the magician's skill lies in ensuring the spectator is only aware of the effect. A magical interface may reveal the performer, making clear that they are causing the effects whilst not revealing the manipulations, or alternatively the performer may be completely hidden, in order to impress spectators with the implied capabilities of the interface alone.」
+    - suspenseful：「Suspenseful interfaces tend towards revealing manipulations while hiding effects.」觀眾看得到別人操作，但「will not experience the effects until it is their turn」（p.746）。論文舉的情境是主題樂園排隊。
+  - 圖 2 圖說（p.746）：「Figure 2: Secretive, expressive, magical and suspenseful approaches to designing the spectator's view」。MAGICAL 在左上、EXPRESSIVE 右上、SECRETIVE 左下、SUSPENSEFUL 右下，以從中心向四角延伸的虛線箭頭表示傾向，不是四個封閉的格子。
+  - 軸上的中間做法（p.746–747）：partially revealing、transforming、amplifying。Transforming：「We may transform manipulations, for example through non-linear mappings or by aggregating multiple inputs when mapping them onto effects, as employed by artists to introduce an element of unpredictability or ambiguity to an interface in order to provoke curiosity and reflection.」ToneTable 一例（p.744–745）：非線性映射讓觀眾「whilst it was clear that performers were interacting, the legibility of their interaction – the relationship between manipulations and effects – was not immediately obvious or even ultimately predictable」。Amplifying 包括「introducing additional visualisations or sonifications of manipulations alongside the primary effects」（p.747）。
+  - 舞台演出（p.745）：「Artists who interact with technologies in front of audiences are not always content with revealing manipulations, but may actively seek to amplify them in order to make their performances more expressive.」Pamela Z 使用手勢控制器，「both reveals and then amplifies the manipulations that are normally involved in the playing of electronic instruments.」
+  - 投影簡報（p.745）：「What is interesting – and problematic – is that spectators often see and hear the whole of the computer's output, including alerts, system messages and all of the visible effects of the performer's interactions with the underlying operating system. Ideally, in our view, only the performer would see this information」。
+  - 不排優劣（p.748）：「there are very many valid approaches to this question」。各策略有取捨：「Learning by watching others is one option that is supported more by expressive designs than for suspenseful experiences.」
+  - 角色區分：分類本身只用 performer（介面的主要使用者）與 spectator 兩個角色。其他角色出現在：
+    - bystander（p.742，引 vom Lehn et al. 的博物館研究）：「those who are directly interacting, those in an immediate co-located group who share the interaction, and bystanders who observe from a distance, learning by watching others and waiting their turn」。論文沒有把 bystander 另設為分類的一軸。
+    - 會互動的觀眾（Interactive Spectators，p.747）：觀眾可能有意或無意地輸入，例如走進攝影機畫面；同節寫到「the manifest presence of an audience is clearly critical to the sense of 'liveness.'」
+    - orchestrator（p.748）：「orchestrators will typically be aware of the manipulations and effects of other participants, both performers and spectators, while having their own manipulations hidden (and effects disguised) from spectators」。
+    - 觀眾與演出者之間的轉換（Transitions and Handovers，p.747–748）。
+- 對創作者的用處（以下是把框架套用到筆電與模組演出，論文本身沒有分析筆電音樂）：
+  - 站在筆電後面演出時觀眾看到什麼：螢幕朝向演出者，鍵盤與觸控板上的小動作接近論文對手機與 PDA 的描述：「More distant spectators will miss small manipulations of mobile devices such as key presses, but will probably still be able to see that the device is being used」（p.744）。聲音經 PA、影像經投影，則是被放大的效果。照圖 1 的軸，這個配置落在操作 partially revealed/hidden、效果 revealed 到 amplified 之間，偏 magical 一側。可以問：從第一排和最後一排，觀眾各看得到你哪些操作？
+  - 即時生成 vs 播放：magical 的前提是觀眾知道有人在造成效果（「making clear that they are causing the effects」）。在這個框架裡，即時生成與播放預錄檔可以給出完全相同的觀眾視角：效果相同，操作同樣隱藏。四個策略描述的是觀眾看到什麼，不能替觀眾分辨聲音是不是當下生成。可以問：把 patch 換成預錄檔，觀眾看到的操作與效果有任何不同嗎？沒有的話，「即時」要靠什麼讓觀眾知道？
+  - 投影畫面：Reeves et al. 認為觀眾看到作業系統層的訊息是問題（p.745），與 Ward et al. 2004「Show us your screens」方向相反。可以問：你投影的是內容（效果），還是操作畫面（被轉成效果的操作）？通知、游標、選單出現在投影上時，是作品的一部分還是干擾？
+  - Transforming：非線性映射讓觀眾知道有人在操作、但讀不出對應關係（ToneTable）。可以問：你的映射是刻意讓觀眾「看得到在操作、看不懂怎麼對應」，還是沒有從觀眾的位置想過？
+  - Amplifying：可以加一層專門呈現操作的視覺或聲音。可以問：投影裡有沒有任何一層是在顯示你的操作，而不是內容？
+  - Orchestrator：如果控台後還有第二個人在操作，他的操作通常被設計成隱藏。可以問：觀眾知道有幾個人在決定畫面與聲音嗎？需要知道嗎？
+- 常見誤用：
+  - 以為 expressive 永遠最好。論文寫「very many valid approaches」，並列出各策略的取捨。
+  - 把兩軸當成可見／不可見的二分。原文有 partially、transformed、amplified，四種策略只是四個角落的傾向。
+  - 把 suspenseful 理解成「效果延遲出現」。原文指觀眾要等自己輪到操作才體驗到效果。
+  - 當成觀眾研究的結論。這篇是整理既有案例得出的分類，沒有實測觀眾反應；也不是現場性理論，「liveness」只在 Interactive Spectators 與 Performer Awareness 兩節帶過。
+  - 引用成「筆電演出就是 magical」。論文的演出例子是 Pamela Z、Toshio Iwai、Stelarc、Schizophrenic Cyborg 與 PowerPoint 簡報，沒有筆電音樂；把筆電放進圖 1 是使用者自己的判斷。
 
 ## 論點之間的對立
 
@@ -254,7 +303,9 @@
 | 觀眾要不要主動參與 | Fischer-Lichte：重視舞台與觀眾互相影響 | Rancière：不必消除距離，不必強迫參與；Boenisch 批評 Fischer-Lichte 仍是二元結構 | 要不要設計觀眾互動？ |
 | 視覺缺席怎麼辦 | Stuart 2003：轉向聽覺表演性；Cascone 2002：以景觀補救只會加深混淆；Oliveros：聆聽是觀眾自己的練習 | Emerson & Egermann 2018：可感知的因果影響評分；Schloss 2003：缺乏因果與姿態是問題；Fels 2002：觀眾透明度軸 | 讓觀眾看清操作，還是引導觀眾閉眼聽？ |
 | 現場感需要身體嗎 | Bown et al. 2014：察覺到決策即可（認知現場性），媒介化可能放大現場感 | Ostertag 2002：缺的是身體；Croft 2007：會出錯的身體對上什麼都能放的喇叭；Emmerson 2001：失去人的能動性就失去現場感 | 生成式 patch 加極少操作，是否足夠？ |
-| 揭露還是隱藏操作 | Ward et al. 2004：「Show us your screens」，反對蒙昧主義 | Reeves 2005：secretive／magical 都是合法的設計選項；Cascone 2002 主張的是新符碼，不是直接展示 | 要不要投影接線或 patch 狀態？ |
+| 揭露還是隱藏操作 | Ward et al. 2004：「Show us your screens」，反對蒙昧主義 | Reeves et al. 2005：secretive／expressive／magical／suspenseful 都是設計選項，結論寫「there are very many valid approaches to this question」；magical 依魔術的 method／effect 區分，只讓觀眾察覺效果；Cascone 2002 主張的是新符碼，不是直接展示 | 要不要投影接線或 patch 狀態？ |
+| 投影整個電腦畫面 | Ward et al. 2004：「Show us your screens」，讓觀眾看到演出者的螢幕 | Reeves et al. 2005（PowerPoint 例）：觀眾看到「the whole of the computer's output, including alerts, system messages」是問題，理想上只有演出者看得到 | 投影的是內容，還是操作畫面？兩者要不要分開輸出？ |
+| 技術投入與結果 | 以先進技術（頻譜再合成、相位聲碼器等）擴展音色是電腦音樂的核心議程（Ostertag 1996 所描述的學院主流） | Ostertag 1996：287 件投件中，先進技術作品的聲音比 MIDI 音源作品更一致；投入越多技術，結果越無聊 | 觀眾能不能聽出系統複雜度帶來的差異？聽不出來時，複雜度為誰服務？ |
 
 ## 可以問學生的問題
 
@@ -271,5 +322,7 @@
 11. 哪些聲音能讓觀眾對應到你的手部動作（local），哪些是環境或生成層（field）？兩者的比例是刻意安排的嗎？（Emmerson 1994）
 12. 只聽聲音，聽得出你在哪裡做了決定嗎？（Bown et al. 2014）
 13. 用 Croft 的四個條件逐項檢查：動作與回應成比例、能量關係、起音同步、映射穩定，你的作品符合哪幾項？不符合的是刻意的嗎？（Croft 2007）
-14. 在操作可見/效果可見的四格中，你的作品屬於 secretive、expressive、magical 還是 suspenseful？這是選擇的結果，還是預設？（Reeves et al. 2005）
+14. 用 Reeves et al. 的兩軸定位作品：從觀眾席看，你的操作在 hidden、partially/transformed、revealed、amplified 哪一級？聲音與畫面在哪一級？作品偏 secretive、expressive、magical 還是 suspenseful，是選擇的結果，還是預設？（Reeves et al. 2005）
 15. 你考慮過投影 patch 狀態或接線畫面嗎？原提倡者承認這解決不了「被困在螢幕後」的問題，你的理由是什麼？（Ward et al. 2004；Collins et al. 2003）
+16. 把 patch 換成預錄檔，觀眾看到的操作與效果會有任何不同嗎？投影上出現通知、游標、選單時，那是作品的一部分還是干擾？（Reeves et al. 2005；Ward et al. 2004）
+17. 你的系統花在寫程式與除錯的時間，換來的聲音和一台普通合成器能做到的差在哪裡？觀眾除了同行還有誰？（Ostertag 1996）

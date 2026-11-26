@@ -81,7 +81,7 @@
   - UPIC 1977 年在 CEMAMu 完成，*Mycènes Alpha*（1978）是首批作品。
   - 引 Xenakis 1979 年《Le Monde de la Musique》訪談（p. 96）：「The solution was the hand: that the musician should give orders to the computer by means of drawings, and not by means of punch cards or programs.」
   - 引 Estrada：UPIC 實現了 Xenakis 思想中「the analogical representation of sounds by means of a two-dimensional graph」，x 軸是時間，y 軸是頻率。
-  - Xenakis《Formalized Music》本書未讀，此處僅依本文與 ZKM 文集轉述 UPIC 的設計。
+  - Xenakis《Formalized Music》的序與第一章見下方 Xenakis 1992 條目；UPIC 的設計仍依本文與 ZKM 文集轉述（該書附錄 "The New UPIC System" 未讀）。
 - 對創作者的用處：UPIC 是「手繪圖形直接成為聲音」的歷史先例，而且明確採用 x＝時間、y＝頻率。可以問學生：你的系統與 UPIC 的差別是什麼？如果沒有差別，你的作品對這個先例增加了什麼？
 - 常見誤用：把 UPIC 的二維圖當成中性、必然的對應。它是 Xenakis 特定的作曲思想（Estrada 的說法），Levin 2000 則認為這種軸線指派是任意的。
 
@@ -96,6 +96,27 @@
   - Nowok 一章引 Cardew《Treatise Handbook》，主張記譜是「visual form of thinking」，不只是中性的儲存媒介。
 - 對創作者的用處：Pape 的「畫波形不可信」與 Shimazu 的「工具會帶著設計者的風格」兩點，可直接用來問學生：你畫或選的輪廓，你能預知它的聲音嗎？你的作品聽起來像你，還是像你使用的工具或模組？
 - 常見誤用：只引「no right or wrong way」當作不需辯護的理由，忽略同書中對繪圖可信度的質疑。
+
+### Xenakis, 1992, *Formalized Music: Thought and Mathematics in Composition*（Revised edition；序與第一章）
+
+- 來源：Iannis Xenakis, *Formalized Music: Thought and Mathematics in Composition*, revised edition, Pendragon Press, 1992（版權頁標 1992 年 Pendragon Press；第一至六章英譯者 Christopher A. Butchers）。archive.org OCR 文字：https://archive.org/download/XenakisIannisFormalizedMusicThoughtAndMathematicsInComposition/Xenakis_Iannis_Formalized_Music_Thought_and_Mathematics_in_Composition_djvu.txt （同書 PDF：https://monoskop.org/images/7/74/Xenakis_Iannis_Formalized_Music_Thought_and_Mathematics_in_Composition.pdf ）
+- 讀取程度：原文節錄（讀了 "Preface"、"Preface to Musiques Formelles" 與第一章 "Free Stochastic Music" 的段落；OCR 文字，圖說與部分頁面亂碼；第一章頁碼因圖頁穿插無法逐一確認，只標確定的頁碼；第二章以後與附錄 "The New UPIC System" 未讀）
+- 主張：
+  - "My musical, architectural, and visual works are the chips of this mosaic."（我的音樂、建築與視覺作品是這幅馬賽克的碎片。）（Preface, p. vii）"any theory or solution given on one level can be assigned to the solution of problems on another level."（在一個層次上給出的任何理論或解法，都可以指派給另一個層次的問題。）（同頁）
+  - 同頁的例子："in considering clouds of points and their distribution over a pressure-time plane, we can bypass the heavy harmonic analyses and syntheses and create sounds that have never before existed."（把點雲及其在壓力－時間平面上的分布納入考慮，就能繞過繁重的諧波分析與合成，造出前所未有的聲音。）
+  - "the qualification “beautiful” or “ugly” makes no sense for sound, nor for the music that derives from it; the quantity of intelligence carried by the sounds must be the true criterion of the validity of a particular music."（「美」或「醜」的評語對聲音、對由聲音而來的音樂都沒有意義；聲音所攜帶的智性的量，才應是判斷一首音樂是否成立的真正標準。）（Preface to Musiques Formelles, p. ix）
+  - 第一章引自己的〈The Crisis of Serial Music〉：線性複音因過度複雜而自我毀滅，"There is consequently a contradiction between the polyphonic linear system and the heard result, which is surface or mass."（因此，線性複音系統與聽到的結果之間有矛盾，聽到的是面或團塊。）
+  - 第一章：冰雹、雨、夏日田野的蟬聲 "are made out of thousands of isolated sounds ; this multitude of sounds, seen as a totality, is a new sonic event."（由成千上萬個孤立的聲音構成；這群聲音作為整體，是一個新的聲音事件。）談到政治群眾示威的聲音時說 "The statistical laws of these events, separated from their political or moral context, are the same as those of the cicadas or the rain."（這些事件的統計規律，脫離其政治或道德脈絡後，與蟬聲或雨聲的規律相同。）
+  - 第一章：把滑音畫成直線可以產生直紋曲面（"It is possible to produce ruled surfaces by drawing the glissandi as straight lines."）；他用 *Metastasis*（1955 年 Donaueschingen 首演）做了這個實驗，後來為 Le Corbusier 設計 Philips Pavilion 時以此為靈感，"Thus I believe that on this occasion music and architecture found an intimate connection."（因此我相信，在這個場合音樂與建築找到了緊密的連結。）
+  - 第一章開頭說藝術作品要讓人進入一種 "tremendous truth"，它 "is not made of objects, emotions, or sensations; it is beyond these, as Beethoven’s Seventh Symphony is beyond music."（不是由物件、情感或感覺構成；它超出這些，如同貝多芬第七交響曲超出音樂。）（p. 1）並說本章所談 "is also valid for all forms of art (painting, sculpture, architecture, films, etc.)."（也適用於所有藝術形式〔繪畫、雕塑、建築、電影等〕。）
+- 對創作者的用處：
+  - Xenakis 的圖與聲共用的是同一個結構（滑音的直線＝直紋曲面的母線），不是把一張圖「翻譯」成聲音。問學生：你的影像與聲音共用的是哪一個結構？說得出那個結構，還是只說得出「影像控制聲音」？
+  - 問學生：你的系統控制的是單一聲音，還是一團聲音的統計分布（密度、平均、離散）？3D 輪廓的點如果是成千上萬個，你處理的是點還是點雲？
+  - 他把「美／醜」換成「聲音攜帶的智性的量」。問學生：觀眾從你的聲音裡能聽出多少關於影像的資訊？還是只聽到「好聽」？
+- 常見誤用：
+  - 把 UPIC 或「手繪聲音」當成 Xenakis 圖聲思想的全部。本書序與第一章的核心是跨層次套用同一個理論（統計、集合、曲面），繪圖只是其中一種介面。
+  - 把「統計規律與蟬聲相同」讀成 Xenakis 不在乎內容。原句說的是「脫離政治或道德脈絡後」的統計層面，同一段他把示威的聲音描述為 "an event of great power and beauty in its ferocity"（一個在其兇猛中具有巨大力量與美的事件）。
+  - 引用本書時要註明是 1992 Pendragon 修訂版的英譯；第一至六章由 Butchers 翻譯，不是 Xenakis 的英文原文。
 
 ### Cardew, 1971, Treatise Handbook
 
@@ -213,16 +234,28 @@
 
 ### Hermann, 2008, "Taxonomy and Definitions for Sonification and Auditory Display"
 
-- 來源：Thomas Hermann, "Taxonomy and Definitions for Sonification and Auditory Display," *Proceedings of the 14th International Conference on Auditory Display (ICAD 2008)*, Paris: IRCAM, 2008. 作者定義頁：https://sonification.de/?p=39 ；另見 Barrass & Vickers 2011 的轉述。
-- 讀取程度：作者網站上的定義摘要（論文 PDF 未取得）
+- 來源：Thomas Hermann, "Taxonomy and Definitions for Sonification and Auditory Display," *Proceedings of the 14th International Conference on Auditory Display (ICAD 2008)*, Paris, June 24–27, 2008, 8 pp.（頁碼依 PDF 頁腳 ICAD08-1 至 ICAD08-8）。全文 PDF：https://www.icad.org/Proceedings/2008/Hermann2008.pdf ；作者定義頁（短版定義）：https://sonification.de/?p=39
+- 讀取程度：全文（由原「作者網站定義摘要」升級）
+- 更正：原條目依網站版引用，條件編號為 (A)–(D)，(A) 作「the sound reflects properties / relations in the input data」，(B) 作「completely systematic」。論文版編號為 C1–C4，C1 有「objective」一字，C2 寫「systematic」並要求提供精確定義。以下以論文為準；本章核心問題中的「條件 D」即論文的 C4。
 - 主張：
-  - 四個條件：(A)「the sound reflects properties / relations in the input data」；(B)「the transformation is completely systematic」；(C)「reproducible: given the same data and identical interactions/triggers the resulting sound has to be structurally identical」；(D)「the system can intentionally be used with different data, and also be used in repetition with the same data」。
-  - 定義：「Sonification is the data-dependent generation of sound, if the transformation is systematic, objective and reproducible, so that it can be used as scientific method.」
-  - 可聽化可以被當成音樂聽，「yet this use is different from their original intention」。
-  - 演奏樂器不是演奏者情緒的可聽化（無法以相同資料重複），但是與樂器互動的可聽化。
-  - 撰寫動機之一：藝術家開始把自己的作品稱為 sonification。
-- 對創作者的用處：四條件可當檢查表。若學生自稱作品是「影像的可聽化」，問：同一張影像兩次演出，聲音在結構上相同嗎？若不同，差異來自哪裡？若學生在演出中即時調整，依 Hermann 的例子，被可聽化的其實是演出者的操作，不是影像。
-- 常見誤用：拿 Hermann 判定藝術作品「不合格」。他的定義是為科學方法劃界，不是藝術價值的標準。
+  - 定義（p. 2）：「A technique that uses data as input, and generates sound signals (eventually in response to optional additional excitation or triggering) may be called sonification, if and only if」以下四條全部成立。中文直譯：一項以資料為輸入、產生聲音訊號（可回應額外的激發或觸發）的技術，若且唯若下列條件成立，才可稱為可聽化。
+    - 客觀性：「(C1) The sound reflects objective properties or relations in the input data.」聲音反映輸入資料中客觀的性質或關係。
+    - 系統性：「(C2) The transformation is systematic. This means that there is a precise definition provided of how the data (and optional interactions) cause the sound to change.」轉換是系統性的，也就是提供一份精確定義，說明資料（與選用的互動）如何使聲音改變。
+    - 可重現：「(C3) The sonification is reproducible: given the same data and identical interactions (or triggers) the resulting sound has to be structurally identical.」同樣的資料加上相同的互動（或觸發），產生的聲音必須在結構上相同。
+    - 可換資料：「(C4) The system can intentionally be used with different data, and also be used in repetition with the same data.」系統可以刻意套用到不同資料，也可以對同一資料重複使用。
+    - 作者網站的短版：「Sonification is the data-dependent generation of sound, if the transformation is systematic, objective and reproducible, so that it can be used as scientific method.」（此句不在論文內，出自 sonification.de）
+  - 條件的放寬（pp. 3–4）：「randomness is allowed in the definition, yet it is important to declare where and what random elements are used」（定義允許隨機性，但必須聲明用在哪裡、是哪些隨機成分）。C3 的「結構上相同」：「Sample-based identity is not necessary, yet all possible psychophysical tests should come to identical conclusions.」（不需要逐樣本相同，但所有可能的心理物理測試應得到相同結論。）
+  - 演奏與互動（pp. 4, 6）：「With C4, however, "playing a musical instrument" is not a sonification of the performer's emotional state, since it can not be repeated with the 'identical' data.」（依 C4，演奏樂器不是演奏者情緒狀態的可聽化，因為無法用「相同」資料重複。）但聲音可以稱為「a sonification of the interactions with the instrument (regarded here as data)」（與樂器互動的可聽化，互動在此被視為資料）。即時改對應屬於互動式可聽化中的參數調整：「Parameter Adjustment is done when the user changes parameters, such as what data feature are mapped to acoustic parameters, control ranges, compression factors, etc.」（使用者改變參數，例如哪個資料特徵對應到哪個聲學參數、控制範圍、壓縮係數等。）
+  - 與音樂及媒體藝術的交集（p. 5）：以動作追蹤或生理感測資料驅動演出時，「often the condition for the transformation to be systematic C2 is violated and the exact rules are not made explicit.」（常違反 C2，確切規則沒有公開。）「But without making the relationship explicit, the listener cannot use the sound to understand the underlying data better.」（不公開關係，聽者就不能用聲音更了解底層資料。）「In addition, condition C4 may often be violated.」（C4 也常被違反。）這類作品「it might, for the sake of clarity, better be denoted as 'data-inspired music', or 'data-controlled music' than as sonification.」（為清楚起見，稱為「資料啟發的音樂」或「資料控制的音樂」較稱為可聽化恰當。）例：「Iannis Xenakis, for instance, did not even want the listener to be aware of the data source nor the rules of sound generation.」（Xenakis 甚至不希望聽者知道資料來源與生成規則。）
+  - 可聽化與音樂的分界（pp. 2–4）：以視覺化與繪畫類比，「The visualization is expected to have a precise connection to the underlying data, else it would be useless for the process of interpreting the data.」（視覺化被期待與底層資料有精確連結，否則無助於詮釋資料。）「Same as some data visualizations may be 'viewed' as art, sonifications may be heard as 'music'[5], yet this use differs from the original intent.」（可聽化可以被當音樂聽，但這種用法不同於原本的意圖。）「Being a scientific method, a prefix like in "scientific sonification" is not necessary.」（既然是科學方法，不需要加「科學的」前綴。）撰寫動機之一：「recently more and more artists incorporate methods from sonification in their work.」（p. 2）作者自述：「The definition is neither exhaustive nor complete」（p. 4），是供社群討論的工作定義。
+- 對創作者的用處：用四條件判斷學生的影像到 CV 系統是可聽化還是作曲。
+  - C2：你能不能把輪廓到 CV 的規則寫成一份精確定義，讓別人照著重建？寫不出來或不打算公開，依 p. 5 的分類，作品較接近「data-controlled music」，說明裡就不要寫「影像的可聽化」。
+  - C3：同一張影像、同一組旋鈕操作（錄下來重放），兩次輸出在結構上相同嗎？模組裡的隨機源（取樣保持、噪音）有沒有聲明用在哪裡、為什麼用？
+  - C4 與 C1：換一張影像，系統照樣運作，而且聲音的差異能對應到影像的差異嗎？聲音反映的是影像的哪一種客觀性質（亮度分佈、輪廓曲率、深度）？
+  - 演出中即時改對應或範圍：依 p. 6 屬於互動式可聽化，但 C3 已把互動納入，操作要能重現；操作不可重複時，依 p. 4，聲音是演奏者與系統互動的可聽化，不是影像的可聽化。
+  - 與 Levin 2009 可轉換性對照：兩者都說「輸入可以換」，結論相反。Hermann 的 C4 要求換資料後聲音的變化反映資料的變化（C1），換資料是為了讓聲音告訴聽者資料；Levin 描述的可轉換性作品「may or may not reveal the origin of their input data」，Campbell 則指輸入「fundamentally arbitrary and thus interchangeable」。問學生：換一張影像，作品的什麼改變了？聲音變了而作品的意思不變，你的作品屬於 Levin 描述的可轉換性；你要觀眾從聲音聽出影像的差異，就要滿足 Hermann 的 C2，公開規則。
+  - 判斷結果是「作曲」不是缺點，只是評判標準換成作曲的標準。
+- 常見誤用：拿 Hermann 判定藝術作品「不合格」。p. 5 只建議改稱「data-inspired music」或「data-controlled music」，沒有評價作品；定義是為科學方法劃界。另一個誤用：以為 C3 排除即時演出與隨機性。論文允許聲明過的隨機成分，並把互動列入 C3 的比較條件。
 
 ### Kramer et al., 1999, The Sonification Report
 
@@ -265,7 +298,7 @@
 ### Supper, 2014, "Sublime Frequencies"
 
 - 來源：Alexandra Supper, "Sublime Frequencies: The Construction of Sublime Listening Experiences in the Sonification of Scientific Data," *Social Studies of Science* 44(1) (2014): 34–58. https://doi.org/10.1177/0306312713496875
-- 讀取程度：摘要（SAGE 全文無法取得）
+- 讀取程度：摘要（SAGE 全文無法取得：journals.sagepub.com 的 /doi/full、/doi/pdf、/doi/epdf 與 sss.sagepub.com 舊網址皆回 403；OpenAlex 標示為 hybrid OA、CC BY-NC，但 Maastricht CRIS 頁面無檔案。同名主標題的博士論文第 2 章見下條 Supper 2012）
 - 主張（依摘要）：
   - 可聽化已普遍「as an artistic practice and as a means of popularizing science」。
   - 可聽化吸引公眾想像，靠的是「the promise of sublime experiences」。這種「auditory sublime」透過技術、音樂與修辭策略的不同組合被建構出來。
@@ -273,17 +306,36 @@
 - 對創作者的用處：可以問學生：你的作品說明、燈光、音量是否在建構崇高感？崇高感來自影像資料，還是來自演出的修辭與音量？
 - 常見誤用：把 Supper 讀成反對崇高感。依摘要，她分析崇高感如何被建構，以及這個建構的代價（聲音被排除在專業科學之外）。
 
+### Supper, 2012, Lobbying for the Ear（博士論文）
+
+- 來源：Alexandra Supper, *Lobbying for the Ear: The Public Fascination with and Academic Legitimacy of the Sonification of Scientific Data*, PhD dissertation, Maastricht University, 2012. https://doi.org/10.26481/dis.20120606as ；PDF：https://cris.maastrichtuniversity.nl/ws/files/706794/guid-f9e34ec6-b0f4-4618-9d2b-cbf321bebc6e-ASSET1.0.pdf
+- 讀取程度：原文節錄（全文 PDF 已取得，共 254 個 PDF 頁；實際讀第 1.4 節章節概要、第 2 章開頭與 2.3–2.4 節、第 3 章討論 Hermann 2008 定義的段落 pp. 95–99。頁碼為論文印刷頁碼）
+- 與 Supper 2014 的關係：本論文第 2 章標題為「Sublime Frequencies: The Public Life of Sonification」，與 2014 期刊論文主標題相同。兩者內容是否一致未核對（期刊全文未取得）。
+- 主張：
+  - 崇高感是被製造的期待（pp. 64–65）：「the fascination with sonification is based on its creation of expectations of sublime experiences.」（大眾對可聽化的著迷，建立在它製造出的對崇高經驗的期待。）依 Nye，「Nye poses that the sublime is socially constructed」（Nye 主張崇高是社會建構的）。
+  - 音量與黑暗（p. 66）：作者在 Wien Modern 2008 聽 Baier 與 Hermann 的 EEG 可聽化演出（先以黑底白字說明，播放時全黑），稱之為可聽化中崇高感的範例，其美感來自「the ability of the combination of (loud) sounds with darkness to elicit a frightening and oppressive atmosphere」（大音量聲音與黑暗結合，產生驚懼、壓迫氛圍的能力）。
+  - 隱藏技術（pp. 69–70）：「the sense of immersion and of experiencing the sublime is often heightened by making the technology invisible and transparent.」（讓技術隱形、透明，常會加強沉浸與崇高的感受。）「What is being hidden with these metaphors of star songs, volcano voices and brain symphonies is the fact that the phenomena themselves usually have no sound」（星星之歌、火山之聲、大腦交響曲這些隱喻遮蔽的事實是：現象本身通常沒有聲音。）
+  - 經驗而非知識（p. 71）：「what sonification offers, in popular science as well as in music, is not so much entirely new knowledge or ways of thinking about the world, but rather a new way of experiencing it.」（可聽化在科普與音樂中提供的，與其說是新的知識或思考世界的方式，不如說是一種新的經驗世界的方式。）
+  - 分析 Hermann 2008（pp. 97–99）：「Whether something is to count as a sonification is determined not by the purpose for which a transformation of data into sound has been created (as was the case in all previously discussed definitions), but by the criteria of objectivity, systematicity, reproducibility, and applicability to different datasets, all of which are built into the transformation itself.」（p. 97；某物算不算可聽化，不再由轉換的目的決定，而由客觀性、系統性、可重現性、可套用於不同資料集這些內建在轉換本身的標準決定。）「The definition thus involves drawing a sharper, less permeable boundary between 'scientific sonification' and 'artistic sonification'; or rather, it denies the existence of the latter category altogether」（p. 97；這個定義在「科學可聽化」與「藝術可聽化」之間畫出更清楚的界線，或者說，否定了後者這個類別的存在。）「While contributions by artists and composers are not ruled out categorically, they have to submit to an explicitly scientific logic.」（p. 97；藝術家與作曲家的貢獻沒有被排除，但必須服從明確的科學邏輯。）「The definition thus has implications not just for what counts as a sonification, but also for who is considered qualified to make one.」（p. 98；定義的後果不只是什麼算可聽化，也包括誰被認為有資格做可聽化。）p. 99 記錄反對意見：受訪者 Barrass、Vickers 認為可聽化應包含藝術或設計取向；ICAD 2008 會場一位評論者認為現在收窄定義太早，若藝術家做出能有效傳達資料、但不完全符合 Hermann 條件的聽覺顯示，無法算作可聽化會是領域的損失。
+- 對創作者的用處：兩個問題。(1) 依 pp. 97–98：你把作品稱為「可聽化」，是在借用科學方法的可信度嗎？借用這個詞就接受了公開、可重現規則的檢驗；不打算公開規則，改稱作曲或資料控制的音樂比較準確。(2) 依 pp. 66、69–70：演出現場的黑暗、音量、環繞喇叭，以及「影像本身在發聲」的說法，是否在製造崇高感？燈打開、音量降到一般水準、說明對應規則之後，作品還剩什麼？
+- 常見誤用：把 Supper 讀成支持或反對 Hermann。她在 p. 38 註 13 寫「As an analyst, I do not want to impose my own definition, but study how the categories are used by the actors.」（作為分析者，我不想強加自己的定義，而是研究行動者如何使用這些分類。）她描述定義劃界的後果，不判斷哪個定義正確。
+
 ### Cook, 1998, Analysing Musical Multimedia
 
-- 來源：Nicholas Cook, *Analysing Musical Multimedia*, Oxford: Clarendon Press, 1998. 經由：(1) Lawrence M. Zbikowski, "Music Theory, Multimedia, and the Construction of Meaning," *Intégral* 16/17 (2002/2003), https://theory.esm.rochester.edu/integral/wp-content/uploads/2019/06/INTEGRAL_16_17_zbikowski.pdf ；(2) Scott D. Lipscomb, "Modeling Multimedia Cognition: A Review of Nicholas Cook's *Analysing Musical Multimedia*," *Intégral* 16/17, https://theory.esm.rochester.edu/integral/wp-content/uploads/2019/06/INTEGRAL_16_17_lipscomb.pdf
-- 讀取程度：二手轉述（Cook 原書未讀）
+- 來源：Nicholas Cook, *Analysing Musical Multimedia*, Oxford: Clarendon Press, 1998. 原文：Oxford 學術平台以各章首段作為章節摘要，經 Crossref 公開 metadata 取得——ch. 1 "Synaesthesia and Similarity"（pp. 24–56）https://api.crossref.org/works/10.1093/oso/9780198165897.003.0002 ；ch. 2 "Multimedia as Metaphor"（pp. 57–97）https://api.crossref.org/works/10.1093/oso/9780198165897.003.0003 ；ch. 3 "Models of Multimedia"（pp. 98–129）https://api.crossref.org/works/10.1093/oso/9780198165897.003.0004 ；Part II "Introduction: Steps towards Analysis"（pp. 133–146）https://api.crossref.org/works/10.1093/oso/9780198165897.003.0005 。轉述：(1) Lawrence M. Zbikowski, "Music Theory, Multimedia, and the Construction of Meaning," *Intégral* 16/17 (2002/2003), https://theory.esm.rochester.edu/integral/wp-content/uploads/2019/06/INTEGRAL_16_17_zbikowski.pdf ；(2) Scott D. Lipscomb, "Modeling Multimedia Cognition: A Review of Nicholas Cook's *Analysing Musical Multimedia*," *Intégral* 16/17, https://theory.esm.rochester.edu/integral/wp-content/uploads/2019/06/INTEGRAL_16_17_lipscomb.pdf
+- 讀取程度：原文節錄（只讀到四章的首段；三種模式、similarity test 與 difference test 的內文未讀，相關內容仍經 Zbikowski、Lipscomb 轉述）
 - 主張：
+  - 分析多媒體的前提（ch. 1 首段，p. 24）："To analyse something as multimedia is to be committed to the idea that there is some kind of perceptual interaction between its various individual components, such as music, speech, moving images, and so on; for without such interaction there is nothing to analyse." 把某物當多媒體分析，就是承諾它的各組成（音樂、語言、動態影像等）之間有知覺上的互動；沒有互動就沒有東西可分析。
+  - 對應要在作品內建立（ch. 2 首段，p. 57）：Eisenstein "rejected synaesthetic correspondences as a viable basis for the relationship between music and moving pictures, and emphasized instead the need to forge associations between the two media within the context of the individual film." Cook 接著指出 Eisenstein 的模型和 Kandinsky 一樣是三元的："picture and music are related not directly, but by virtue of something that they both embody."
+  - ch. 3 首段（p. 98）："I put forward three basic models of multimedia. The intention is to provide an inventory of the ways in which different media can relate to one another, together with an associated terminology for describing them"。
+  - 描述與規範分開（Part II 導論首段，p. 133）："the traditional language for analysing the interaction of different media is thoroughly entangled with prescription"；建立較標準化的詞彙，是為了 "so prising description apart from prescription."
+  - 三種模式（依 Zbikowski, p. 257 及其 Example 1）：一致（conformance），媒介間相似處多，極端時可被當成單一媒介；互補（complementation），差異足以區分媒介，但不至於互相矛盾；對抗（contest），相似只在最抽象的層次，極端時會分裂成各自的媒介。Example 1 把三者沿相似—相異的連續體排列，標為：媒介彼此一致／相反但不矛盾／互相矛盾。
+  - 兩個測試（依 Lipscomb, p. 232）："At its most fundamental level, this model consists of two steps: a similarity test and a difference test." Lipscomb 轉述：媒介傳達同一訊息是 conformant（對應 Lakoff & Johnson 的 "consistent"）；各媒介意義互相矛盾是 contest；兩極之間是 complementary，"neither consistent nor contradictory"。Lipscomb 並指出 Cook 刻意自創術語，不用常見的 consistent、coherent、contradictory。兩個測試各自的判準本次未讀到原文。
   - 依 Zbikowski：對 Cook 而言重要的「is not how media are like one another, but how they are different from one another」，這是 multimedia 與聯覺的區別。多媒體需要「enabling similarity」：媒介間有限的屬性交集，使差異可以被注意，進而用來建構意義。
-  - 三種模式：一致（conformance），極端時可被當成單一媒介；互補（complementation），不同但不至於互相矛盾；對抗（contest），相似只在最抽象的層次，極端時會分裂成各自的媒介。
-  - 依 Lipscomb 引 Cook：多媒體有「transfer of attributes」（p. 70），其湧現性質「cannot be subsumed within a model based on the simple mixing or averaging of the properties of each individual medium」（p. 69）。
+  - 依 Lipscomb 引 Cook：多媒體有「transfer of attributes」（p. 70），其湧現性質「cannot be subsumed within a model based on the simple mixing or averaging of the properties of each individual medium」（p. 69）。Part I 的結論（p. 97，Lipscomb p. 232 轉引，強調為 Lipscomb 所加）："whatever music's contribution to cross-media interaction, what is involved is a dynamic process: the reciprocal transfer of attributes that gives rise to a meaning constructed, not just reproduced, by multimedia"。
   - Lipscomb 的批評：Cook 的例子以音樂為中心；Cohen（1999）指出 Cook 不願採納實驗認知心理學。
-- 對創作者的用處：影像直接驅動聲音的系統容易落在「一致」，依 Cook 極端時等於單一媒介。可以問學生：你的作品中聲音與影像的差異在哪裡？差異是否被設計過？
-- 常見誤用：把「一致」當成最好的聲畫關係。Cook 的框架是說明一致只是三種模式之一，而且極端的一致等於取消多媒體。
+- 對創作者的用處：影像直接驅動聲音的系統容易落在「一致」，依 Cook 極端時等於單一媒介。可以問學生：你的作品中聲音與影像的差異在哪裡？差異是否被設計過？你的亮度→音量這類對應，是在作品裡被建立起來、讓觀眾在前幾分鐘學會的，還是假設觀眾天生就懂（Cook 引 Eisenstein 的立場是前者）？先用一致／互補／對抗描述你的聲畫關係，再談它好不好——描述和評價要分開。
+- 常見誤用：把「一致」當成最好的聲畫關係。Cook 的框架是說明一致只是三種模式之一，而且極端的一致等於取消多媒體。另一個誤用是把三種模式當成評價等級；Cook 建立這組詞彙的目的，是讓描述與規範分開。
 
 ### Zbikowski, 2002/2003, "Music Theory, Multimedia, and the Construction of Meaning"
 
@@ -302,7 +354,8 @@
 |---|---|---|---|
 | 聲畫連結的來源 | Chion：同步即產生黏合，錘子配一百種聲音都行，但非全自動 | Fischinger：形狀決定響度，有明確規則 | 觀眾感到的連結可能只來自同步，不來自映射 |
 | 位置對應音高 | Estrada 論 UPIC：x＝時間、y＝頻率是 Xenakis 思想的實現 | Levin 2000：軸線指派是圖表語言的任意產物；Whitney 1980：上下＝音高「invalid」 | y 軸＝音高需要理由，不能當預設 |
-| 可聽化的定義依據 | Hermann 2008：系統性、客觀、可重現 | Barrass & Vickers 2011：功能意圖才是定義特徵 | 學生要說清楚自己用哪一個標準自我定位 |
+| 圖與聲的關係 | Xenakis 1992 第一章：滑音直線與直紋曲面共用同一結構（*Metastasis* → Philips Pavilion），一個層次的解法可套用到另一層次 | Chion：連結可能只來自同步；Levin 2000：軸線指派是任意的 | 圖與聲共用的是結構，還是只是同時發生？ |
+| 可聽化的定義依據 | Hermann 2008：客觀（C1）、系統（C2）、可重現（C3）、可換資料（C4），由轉換本身決定 | Barrass & Vickers 2011：功能意圖才是定義特徵 | 學生要說清楚自己用哪一個標準自我定位 |
 | 輸入資料的地位 | Kramer et al. 1999：資料關係要轉為感知關係 | Levin 2009 / Campbell：輸入可能任意、可互換 | 換一張影像作品還成立，表示影像不是作品的論點 |
 | 資料的正確性 | Hermann 2008：同資料同結構，可當科學方法 | Kurokawa 2016：變形資料，誤用比正確使用更吸引 | 兩種立場都可以，但不能同時宣稱 |
 | 資料是否純粹 | Lakatos 論 Ikeda：聲畫是同一資料的雙重表達 | Lakatos 同文：資料從不純粹，總經詮釋與修改 | 前處理（閾值、平滑、縮放）是作者決定，需要交代 |
@@ -310,8 +363,11 @@
 | 手的不精確 | Oram 1972：徒手的不精確增加豐富性、確認個體性 | Hermann 2008：轉換必須完全系統化 | 輸入雜訊是要保留還是消除，需要明確選擇 |
 | 繪製波形是否可信 | Fischinger 1932 / Oram 1972：畫出波形即可得聲音，可反覆試 | Pape（ZKM 2020）：具象音樂作曲家認為畫波形不可信 | 創作者能否預知某輪廓的聲音，影響「作曲」是否成立 |
 | 直覺對應的有效性 | 一般設計直覺：直覺對應較好懂 | Grond & Berger 引 Walker & Kramer 1996：隨機與「壞」對應較有效，極性改變結果 | 對應的直覺性需要測試，不能假設 |
-| 媒介間的相似或差異 | Lakatos 論 Ikeda：同步、風格相近 | Cook 1998（經 Zbikowski）：意義來自差異，極端一致等於單一媒介 | 完全由影像驅動的聲音可能取消多媒體的意義空間 |
+| 媒介間的相似或差異 | Lakatos 論 Ikeda：同步、風格相近 | Cook 1998（章首段原文；模式細節經 Zbikowski、Lipscomb）：分析多媒體的前提是媒介間有知覺互動；意義來自差異，極端一致等於單一媒介 | 完全由影像驅動的聲音可能取消多媒體的意義空間 |
 | 可聽化的公共修辭 | Kramer et al. 1999：目的是溝通與詮釋 | Supper 2014（摘要）：公共可聽化以崇高經驗吸引人 | 演出中的崇高感需要分清來自資料還是來自修辭與音量 |
+| 換輸入資料的意義 | Hermann 2008 C4：系統可刻意套用到不同資料，換資料後聲音的差異要反映資料的差異（C1） | Levin 2009 / Campbell：可轉換性作品的輸入「fundamentally arbitrary and thus interchangeable」，來源可以不揭露 | 同樣是「可以換影像」，學生要說清楚換了之後聲音該不該讓觀眾聽出影像的差異 |
+| 資料驅動演出的名稱 | Hermann 2008 p. 5：規則未公開、違反 C2 或 C4 者宜稱「data-inspired music」或「data-controlled music」 | Supper 2012 p. 99 記錄 Barrass、Vickers 與 ICAD 2008 評論者：可聽化應容納藝術與設計取向，收窄定義太早 | 作品叫可聽化還是作曲，取決於是否公開對應規則 |
+| 定義與資格 | Hermann 2008 p. 3：可聽化是科學方法，不需要「scientific」前綴 | Supper 2012 pp. 97–98：這個定義否定「藝術可聽化」類別，也決定誰有資格做可聽化 | 使用「可聽化」一詞，就接受科學方法的檢驗標準 |
 | 編排與解說 | Cage 1969：不提供解說資訊 | Sauer 2009：重視作曲家說明與規劃 | 演出時是否揭露對應規則是一個立場選擇 |
 
 ## 可以問學生的問題
@@ -331,3 +387,10 @@
 13. 聲音與影像之間的差異在哪裡？是被設計的，還是完全沒有差異？（Cook 1998，經 Zbikowski 2002/2003）
 14. 影像資料進入 CV 之前經過哪些處理（閾值、平滑、縮放、量化）？這些決定是誰做的，為什麼？（Lakatos 2020）
 15. 你是在可聽化影像，還是在誤用影像？你能不能像 Kurokawa 一樣直接說出來？演出的崇高感來自資料，還是來自音量與燈光？（Kurokawa 2016；Supper 2014）
+16. 你的系統處理的是單一的點，還是一團點的統計分布（密度、平均、離散）？影像與聲音共用的是哪一個結構？（Xenakis 1992 序與第一章）
+
+## 本章缺口
+
+| 來源 | 狀態 | 嘗試過的 URL 與結果 |
+|---|---|---|
+| Supper 2014 期刊全文 | 只有摘要 | journals.sagepub.com/doi/full、/doi/pdf、/doi/epdf（403）；sss.sagepub.com/content/44/1/34.full.pdf（403）；cris.maastrichtuniversity.nl 論文頁（無檔案）；Europe PMC（inPMC: N）；Semantic Scholar、OpenAlex（OA 連結只指回 SAGE DOI）。替代：Supper 2012 博士論文第 2 章（同名主標題，已讀節錄） |

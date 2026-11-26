@@ -75,16 +75,20 @@
 
 ### Laura U. Marks, 2000, *The Skin of the Film: Intercultural Cinema, Embodiment, and the Senses*
 
-- 來源：Marks, L. U. *The Skin of the Film*. Durham: Duke University Press, 2000. 作者網站書介：https://www.sfu.ca/~lmarks/skin/skin.html ；作者研究頁（haptic visuality 發展史）：https://www.sfu.ca/~lmarks/styled-7/ ；頁碼引文經 Scalar 研究專案轉引：https://scalar.usc.edu/works/vr-obstructive-affect-and-haptic-interfaces/haptic-engagement
-- 讀取程度：二手轉述（原書未讀；引文含轉引頁碼）
+- 來源：Marks, L. U. *The Skin of the Film*. Durham: Duke University Press, 2000. 作者網站書介：https://www.sfu.ca/~lmarks/skin/skin.html ；作者研究頁（haptic visuality 發展史）：https://www.sfu.ca/~lmarks/styled-7/ ；書中頁碼引文經 Scalar 研究專案轉引：https://scalar.usc.edu/works/vr-obstructive-affect-and-haptic-interfaces/haptic-engagement 。前身文章（作者研究頁列為本書 haptic visuality 論述的起點）：Marks, L. U. "Video haptics and erotics." *Screen* 39:4 (Winter 1998), pp. 331–348；作者網站下載頁 https://www.sfu.ca/~lmarks/downloads/page5.html ，PDF：https://www.sfu.ca/~lmarks/downloads/files/Marks%20Video%20Haptics.pdf （掃描檔，OCR 有誤字，以下只引抽字無誤的句子）
+- 讀取程度：原文節錄（Marks 本人 1998 前身文章讀全文；2000 年書本身未讀，標「書 p.」的引文仍為 Scalar 轉引，未對原書核對）
 - 主張：
-  - 書的問題："how film and video, which are audiovisual media, can represent nonaudiovisual sense experiences"（p. 2，轉引）。
-  - 定義："In haptic visuality, the eyes themselves function like organs of touch"（p. 162，轉引）。"optical visuality depends on a separation between the viewing subject and the object"，而 "haptic visuality and its requisite proximity flirts with boundary transgression"（p. 162，轉引）。
-  - "haptic images resolve into figuration only gradually"（p. 163，轉引）——低解析、顆粒、失焦、過近的特寫、表面紋理是觸覺影像的典型條件。
-  - 作者網站：haptic visuality 是 "a theory of embodied, tactile, and multisensory visuality"，來源是 Bergson、Deleuze & Guattari 對 Riegl 的詮釋、伊斯蘭美學；Riegl 本人是織品策展人。
-  - 作者研究頁列出發展：1998 "Video haptics and erotics"（*Screen* 39:4）→ 2000 本書 → 2002 *Touch* 修訂 → 2010 *Enfoldment and Infinity*。
-- 對創作者的用處：這是「影像物質性怎麼被感知」最直接的工具。問學生：你的顆粒／噪訊／低解析是讓人停在表面去摸，還是只是品質不足？觸覺影像要求觀眾放棄掌握對象、靠近而不辨識——你的作品給觀眾這個時間嗎，還是下一個 cut 就解析成圖像了？高解析、銳利、深景深的影像預設了光學式的距離，你要這個距離嗎？
-- 常見誤用：把「haptic」等同於「有顆粒就是觸覺的」。Marks 的觸覺視覺是觀看關係（靠近、不佔有、逐漸浮現），不是濾鏡效果；加顆粒但構圖與剪接仍是光學掌握式的，不算。
+  - 書的問題："how film and video, which are audiovisual media, can represent nonaudiovisual sense experiences"（書 p. 2，轉引）。
+  - 定義："In haptic visuality, the eyes themselves function like organs of touch."（1998, p. 332；同句見書 p. 162，轉引）。觸覺視覺：眼睛本身像觸覺器官一樣運作。同段："The difference between haptic and optical visuality is a matter of degree, however. In most processes of seeing both are involved, in a dialectical movement from far to near, from solely visual to multisensory."（1998, p. 332）觸覺與光學是程度差別，多數觀看兩者都有，在遠與近、純視覺與多感官之間來回。
+  - 觀看方式："Haptic looking tends to rest on the surface of its object rather than plunge into depth, tends not to distinguish form so much as discern texture." "Haptic video resolves into figuration only gradually, if at all, inviting instead the caressing look I have described."（1998, p. 338）觸覺式觀看停在表面而不進入深度，辨識質地多於辨識形狀；觸覺錄像只逐漸、甚至始終不解析成可辨識的圖像。更正：原條目依轉引寫作 "haptic images resolve into figuration only gradually"（書 p. 163）；1998 原句主詞是 haptic video，並有 "if at all"。書中措辭未核對。
+  - 條件不等於效果："Any out-of-focus or low-resolution image is not necessarily haptic."（1998, p. 338）她舉實境節目遮住嫌犯臉部的數位色塊為例：這種影像不邀請停留、撫觸式的注視，也不考驗觀者與影像之間的分離感。更正：原條目把低解析、顆粒、失焦列為觸覺影像的「典型條件」而未附這個限定。
+  - 錄像的觸覺來源："The main sources of haptic visuality in video include the constitution of the image from a signal, video's low contrast ratio, the possibilities of electronic and digital imaging, and video decay."（1998, p. 339）錄像的觸覺性來自影像由訊號構成、低對比、電子與數位處理、錄像衰變。
+  - 觀者關係："The ideal relationship between viewer and optical image tends to be one of mastery, in which the viewer isolates and comprehends the objects of vision. The ideal relationship between viewer and haptic image is one of mutuality"；"Haptic visuality implies making oneself vulnerable to the image, reversing the relation of mastery that characterizes optical viewing."（1998, p. 341）光學影像對應掌握，觸覺影像對應相互性，觀者讓自己對影像敞開。轉換本身也有效果："Violence may occur in an abrupt shift from haptic to optical image"（1998, p. 341）——從近而局部突然切到完整而遙遠的物件。
+  - 書 p. 162（轉引）："optical visuality depends on a separation between the viewing subject and the object"、"haptic visuality and its requisite proximity flirts with boundary transgression"。這兩句在 1998 文中未見，維持轉引。
+  - 作者網站：haptic visuality 是 "a theory of embodied, tactile, and multisensory visuality"，來源是 Bergson、Deleuze & Guattari 對 Riegl 的詮釋、伊斯蘭美學；Riegl 本人是織品策展人（1998 文 p. 333 起亦討論 Riegl）。
+  - 作者研究頁列出發展：1998 "Video haptics and erotics"（*Screen* 39:4）→ 2000 本書 → 2002 *Touch* 修訂（該文為 *Touch* 開篇章）→ 2010 *Enfoldment and Infinity*。
+- 對創作者的用處：這是「影像物質性怎麼被感知」最直接的工具。1998 文處理的是錄像（電子訊號、低對比、數位處理、衰變），不是底片懷舊，可直接套到即時影像與數位素材。問學生：你的顆粒／噪訊／低解析是讓人停在表面去摸，還是只是品質不足？觀眾有時間讓影像「逐漸、甚至始終不」解析成圖像嗎，還是下一個 cut 就到了？你的影像在哪個環節產生觸覺性——訊號、壓縮、對比、衰變？剪接裡有沒有從觸覺突然切到光學的時刻，那是你設計的衝擊還是沒注意到的？高解析、銳利、深景深的影像預設了光學式的距離，你要這個距離嗎？
+- 常見誤用：把「haptic」等同於「有顆粒就是觸覺的」。Marks 1998 明寫 "Any out-of-focus or low-resolution image is not necessarily haptic"；觸覺視覺是觀看關係（靠近、不佔有、逐漸浮現、相互性），不是濾鏡效果；加顆粒但構圖與剪接仍是光學掌握式的，不算。另一個誤用是把觸覺與光學當成二選一，Marks 說兩者是程度差別，多數觀看兩者並存。
 
 ### Laura U. Marks, 2002, *Touch: Sensuous Theory and Multisensory Media*
 
@@ -179,15 +183,18 @@
 
 ### Eugenie Brinkema, 2014, *The Forms of the Affects*
 
-- 來源：Brinkema, E. *The Forms of the Affects*. Durham: Duke University Press, 2014. 出版社頁（含目錄、書介、評語）：https://www.dukeupress.edu/the-forms-of-the-affects
-- 讀取程度：二手轉述
+- 來源：Brinkema, E. *The Forms of the Affects*. Durham: Duke University Press, 2014. 出版社頁：https://www.dukeupress.edu/the-forms-of-the-affects 。逐字轉引來源（開放取用書籍，archive.org 上的 OAPEN 複本）：(1) Jonas Kellermann, *Dramaturgies of Love in Romeo and Juliet: Word, Music, and Dance*, Routledge, 2022, ch. 1（CC BY-NC-ND 4.0）：https://archive.org/details/oapen-20.500.12657-50854 ；(2) Tanja Nusser, "'They starve to death, but who dares ask why?' Steve McQueen's Film Hunger," in *Disruption in the Arts*, De Gruyter, 2018：https://archive.org/details/oapen-20.500.12657-59445 ；(3) Robert Glenn Davis, *The Weight of Love: Affect, Ecstasy, and Union in the Theology of Bonaventure*, Fordham University Press, 2017, Introduction：https://archive.org/details/oapen-20.500.12657-31610 ；(4) Vinh Nguyen, *Lived Refuge: Gratitude, Resentment, Resilience*, University of California Press, 2023, 註 24：https://archive.org/details/oapen-20.500.12657-85259
+- 讀取程度：二手轉述（原書未讀；轉述者為出版社書介與 Kellermann、Nusser、Davis、Nguyen 四書的逐字引文。p. xiv 一段由 Kellermann 與 Nusser 分別轉引，文字一致）
 - 主張：
-  - 出版社書介：情動透過電影與文本的形式顯現，而非透過身體；例：厭惡可由 "a cinematic grid of color" 表達，焦慮由 "an interrupted horizontal line"，悲傷由 "a figure of blazing light"。
-  - 目錄第二章題為 "Film Theory's Absent Center"，即對情動理論（Massumi、Sobchack 一系）的批評：把情動當成感受、身體、不可分析之物，等於放棄了形式分析。
-  - 主張細讀（close reading）形式：情動有形式，所以可被讀。
-  - Shaviro 評語：本書 "invents a new 'side'" 於電影理論之爭。
-- 對創作者的用處：這是「感覺能不能被討論而不變成我覺得」的直接解答：把問題從「觀眾感覺到什麼」改成「作品的哪個形式在承載這個情動」。問學生：你說這段「讓人不安」——不安在畫面上的形式是什麼（線條被打斷？色域？節奏缺口？）如果說不出形式，不安可能在你身上而不在作品裡。
-- 常見誤用：把 Brinkema 當成回到形式主義、否定身體。她否定的是「情動＝只能體驗不能分析」這個前提，不是體驗本身。
+  - 核心句（p. xiv，Kellermann 2022、Nusser 2018 轉引）："Affect is not the place where something immediate and automatic and resistant takes place outside of language. The turning to affect in the humanities does not obliterate the problem of form and representation. Affect is not where reading is no longer needed." 情動不是某種直接、自動、抗拒的東西在語言之外發生的地方。人文學科轉向情動，並沒有取消形式與再現的問題。情動不是不再需要閱讀的地方。
+  - 對既有情動理論的批評（Davis 2017 轉引）：情動研究把各種情動的形式差異化約成 "vague, shuddering intensity"（p. xv）。"There is a formula for work on affect, and it turns on a set of shared terms: speed, violence, agitation, pressures, forces, intensities." "When affect is taken as a synonym for violence or force (or intensity or sensation), one can only speak of its most abstract agitations instead of any particular textual workings."（Davis 書中此段註號 OCR 不清，頁碼在 pp. xii–xv 之間，未確定）把情動當成暴力、力量、強度、感覺的同義詞，就只能談最抽象的騷動，談不到任何具體文本的運作。
+  - 序言的提問（p. xii，Davis 2017 轉引）："Have accounts of affects produced more nuanced, delightful interpretations of forms in texts—and have they recovered the dimension of being surprised by representation?" Davis 轉述：書中對這類問題的回答是「還沒有」，全書以細讀與形式分析回應。
+  - 情動同時被身體感受、也被文本組成（p. xvi，Nguyen 2023 轉引）：情動不只是 "felt by moved bodies"，也是 "wildly composed in specific cinematic, literary, and critical texts"。
+  - 出版社書介：情動透過電影與文本的形式顯現；例：厭惡可由 "a cinematic grid of color" 表達，焦慮由 "an interrupted horizontal line"，悲傷由 "a figure of blazing light"。書介稱本書是對近年情動理論偏重 "embodiment and experience" 的 "bold corrective"。
+  - 出版社頁目錄：序言 "Preface. Ten Points to Begin"（自 p. xi 起；上列 pp. xii–xvi 的引文都在序言內）；第 2 章題為 "Film Theory's Absent Center"。原條目說該章是對 Massumi、Sobchack 一系的批評，是由章名推知，章節內文未讀。
+  - Shaviro 評語：本書 "invents a new 'side' of her own" 於電影理論之爭。
+- 對創作者的用處：這是「感覺能不能被討論而不變成我覺得」的直接解答：把問題從「觀眾感覺到什麼」改成「作品的哪個形式在承載這個情動」。問學生：你說這段「讓人不安」——不安在畫面上的形式是什麼（線條被打斷？色域？節奏缺口？）如果說不出形式，不安可能在你身上而不在作品裡。你的作品說明是否只用「強度、能量、衝擊」這類詞？Brinkema 指出這組詞只能談最抽象的騷動；換成這件作品才有的形式描述會是什麼？
+- 常見誤用：把 Brinkema 當成回到形式主義、否定身體。她否定的是「情動＝只能體驗不能分析」這個前提；p. xvi 的句子同時承認情動 "felt by moved bodies"，Davis 也轉引她擁抱 "the passions of affect studies"。
 
 ### Gilles Deleuze & Félix Guattari, 1991/1994, "Percept, Affect, and Concept"（*What Is Philosophy?* ch.7）
 
@@ -306,10 +313,10 @@
 
 | 議題 | 一方 | 另一方 | 對創作者的意義 |
 |---|---|---|---|
-| 情動能不能分析 | Massumi 1995：情動是前個人的強度，逃逸於語言；但其逃逸「不能不被感知」，可用新詞彙分析 | Brinkema 2014：情動有形式，分析形式即分析情動；把情動當不可說是放棄了批評的中心 | 兩方都不接受「說不出來所以不用說」。學生說「有感覺」時，至少要能指出形式（Brinkema）或指出強度出現的時刻（Massumi） |
+| 情動能不能分析 | Massumi 1995：情動是前個人的強度，逃逸於語言；但其逃逸「不能不被感知」，可用新詞彙分析 | Brinkema 2014（p. xiv，轉引）："Affect is not where reading is no longer needed"；情動有形式，分析形式即分析情動；把情動當成強度的同義詞只能談「最抽象的騷動」 | 兩方都不接受「說不出來所以不用說」。學生說「有感覺」時，至少要能指出形式（Brinkema）或指出強度出現的時刻（Massumi） |
 | 感覺在哪裡 | Sobchack、Barker、Marks：在觀眾的活身體（皮膚、肌肉、內臟）與影像身體的交換 | Brinkema：在作品的形式；Deleuze 論 Bacon：在畫布上的身體，「Sensation is what is painted」 | 討論時先確認談的是觀眾的身體還是作品的形式；兩者混用是「我覺得」的來源 |
 | 數位影像的物質性 | Sobchack 2004 ch.6：電子在場無視點、無深度、「就在那裡」，使身體離場 | Marks 2002、Hansen 2004：數位有自己的脆弱物質基底；物質性移到觀眾身體的取景行為 | 不要預設「數位＝非物質」或「數位＝一樣有物質性」；具體指出作品裡物質性在哪個環節（壓縮、掉幀、散熱、身體動作） |
-| 觸覺視覺的條件 | Marks：低解析、顆粒、近距、逐漸浮現的影像讓眼睛去摸 | Deleuze 論 Bacon：感覺不是粗糙質感，而是層次間的過渡；「sensational」是 cliché | 加顆粒不等於觸覺。問影像有沒有「層次」與「靠近而不佔有」的觀看關係 |
+| 觸覺視覺的條件 | Marks：近距、停在表面、逐漸（甚至始終不）浮現的影像讓眼睛去摸；但 1998 文明寫 "Any out-of-focus or low-resolution image is not necessarily haptic" | Deleuze 論 Bacon：感覺不是粗糙質感，而是層次間的過渡；「sensational」是 cliché | 加顆粒不等於觸覺。問影像有沒有「層次」與「靠近而不佔有」的觀看關係 |
 | 情緒 vs. 情動／感覺 | Massumi、Shaviro：情緒是被主體捕獲、命名的情動；作品先產生情動 | Manning：「Emotion is the description of an affect, feeling is its force」；Ngai：弱情緒（可愛、瘋狂、有趣）才是診斷工具 | 作品引發的若是可命名的情緒（感動、不安），問它被捕獲之前是什麼；若是弱範疇，問它索引什麼生產關係 |
 | 物的能動性 | Bennett：物發出召喚、assemblage 分佈能動性；人也是其中一員 | Merleau-Ponty、Sobchack：知覺以活身體為中心，物的表達性由身體的注視發現（Bennett 自己也引此） | 「讓材料說話」與「身體是意義的第三項」不衝突，但要說清楚誰在聽、誰在決定 |
 | 日常與陌生化 | Leddy（經 Saito 轉述）：日常美學需要陌生化 | Saito：應欣賞日常作為日常 | 新媒體的「資料陌生化」策略屬前者；學生要知道自己選了哪邊 |
@@ -341,13 +348,13 @@
 | Deleuze & Guattari, *What Is Philosophy?* ch.7 | 未取得任何文本 | 本章條目為未核對之通行轉述，無引文；引用前須查原書（Columbia UP 1994, pp. 163–199 為通行頁碼，未核對） |
 | Pallasmaa, *The Eyes of the Skin* | 僅出版資訊 | 內容主張未經可引用文本核對 |
 | Merleau-Ponty, "Eye and Mind" | 二手（SEP、課程註解、Sobchack 轉引） | Internet Archive 之 *Primacy of Perception* 為借閱限制 |
-| Marks, *The Skin of the Film* | 二手（作者網站 + 轉引頁碼） | 引文頁碼來自 Scalar 專案轉引，未對原書核對 |
+| Marks, *The Skin of the Film* | 原文節錄（1998 前身文章全文） | 書本身未讀；書中頁碼引文（pp. 2, 162, 163）仍為 Scalar 轉引。2026-11-26 嘗試：dukeupress.edu/Assets/PubMaterials/978-0-8223-2391-4_601.pdf、978-0-8223-2358-7_601.pdf 404；read.dukeupress.edu 書頁 403；archive.org skinoffilm0000laur 為借閱限制；Google Books（id jfQjJc2mqqgC）被機器人驗證頁擋 |
 | Marks, *Touch* | 二手（出版社 + 作者網站目錄） | 無內文引文 |
 | Barker, *The Tactile Eye* | 二手（出版社 + 作者訪談） | 導論 "Eye Contact" 付費牆 |
 | Sobchack, *The Address of the Eye* | 二手（出版社頁） | 原書未讀；論點經 2004 書導論自述確認 |
 | Shaviro, *The Cinematic Body* | 二手（出版社頁） | shaviro.com 連線被拒，"Cinematic Body REDUX" 未讀 |
 | Ngai, *Our Aesthetic Categories* | 二手（作者訪談 Cabinet 2011） | 引文為訪談原話，非書中頁碼 |
-| Brinkema, *The Forms of the Affects* | 二手（出版社頁） | 無內文引文；「反對情動不可分析」的論點僅由書介與目錄推知 |
+| Brinkema, *The Forms of the Affects* | 二手（出版社頁＋四本開放取用書的逐字轉引） | 原書未讀，引文頁碼 xii–xvi 來自轉引。2026-11-26 嘗試：Duke 書頁有目錄但無試讀連結；dukeupress.edu/Assets/PubMaterials/978-0-8223-5656-1_601.pdf、978-0-8223-5644-8_601.pdf 404；read.dukeupress.edu 403；De Gruyter 書頁 405；Google Books（id jWSSAwAAQBAJ）被機器人驗證頁擋；archive.org 無本書；library.oapen.org 機器人驗證（改用 archive.org 的 OAPEN 複本取轉引） |
 | Sontag, "Against Interpretation" | 沿用 06 章二手 | 本章未另讀到原文 |
 | Serres, *The Five Senses* | 二手（Wikipedia） | 出版社頁無法開啟；章節結構未核對 |
 | Stiegler | 網站文章 | *Technics and Time* 原書未讀；三重 retention 的原文定義未直接引 |
